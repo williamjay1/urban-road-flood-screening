@@ -1,0 +1,86 @@
+{
+  "status": "PASS",
+  "records": [
+    {
+      "key": "RP10",
+      "source": "E:\\AcademicData\\europe_activity_population_accessibility_jtg\\raw\\od06_stage_b_jrc_20260827\\Europe_RP10_filled_depth.tif",
+      "working_copy": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\verified_source_copies\\Europe_RP10_filled_depth.tif",
+      "expected_sha256": "15f86b86c228a065250b05488548d7386ac8e33cec4cba6da93f712f7500f45b",
+      "actual_sha256": "15f86b86c228a065250b05488548d7386ac8e33cec4cba6da93f712f7500f45b",
+      "match": true,
+      "seconds": 3.1849863529205322
+    },
+    {
+      "key": "RP100",
+      "source": "E:\\AcademicData\\europe_activity_population_accessibility_jtg\\raw\\od06_stage_b_jrc_20260827\\Europe_RP100_filled_depth.tif",
+      "working_copy": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\verified_source_copies\\Europe_RP100_filled_depth.tif",
+      "expected_sha256": "6b7c80b9bda981abb54038455032efd1cf5ec49c8bbed4b1b066cc5c18ed5aa1",
+      "actual_sha256": "6b7c80b9bda981abb54038455032efd1cf5ec49c8bbed4b1b066cc5c18ed5aa1",
+      "match": true,
+      "seconds": 3.6045703887939453
+    },
+    {
+      "key": "RP500",
+      "source": "E:\\AcademicData\\europe_activity_population_accessibility_jtg\\raw\\od06_stage_b_jrc_20260827\\Europe_RP500_filled_depth.tif",
+      "working_copy": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\verified_source_copies\\Europe_RP500_filled_depth.tif",
+      "expected_sha256": "1d69bffd1d0f89dc8316a7a2a33d1df3dc75e247cd89d5444f351609dcbbeda2",
+      "actual_sha256": "1d69bffd1d0f89dc8316a7a2a33d1df3dc75e247cd89d5444f351609dcbbeda2",
+      "match": true,
+      "seconds": 3.2902684211730957
+    },
+    {
+      "key": "README.txt",
+      "source": "E:\\AcademicData\\flood_network_validation_20260908\\raw\\jrc_v3_1_1_quality\\README.txt",
+      "working_copy": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\verified_source_copies\\README.txt",
+      "expected_sha256": "ff1ec167e76d6b86a71292ce5b34a49134c869454cfc106b945726011e4f99cf",
+      "actual_sha256": "ff1ec167e76d6b86a71292ce5b34a49134c869454cfc106b945726011e4f99cf",
+      "match": true,
+      "seconds": 0.03043055534362793
+    },
+    {
+      "key": "CHANGELOG.txt",
+      "source": "E:\\AcademicData\\flood_network_validation_20260908\\raw\\jrc_v3_1_1_quality\\CHANGELOG.txt",
+      "working_copy": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\verified_source_copies\\CHANGELOG.txt",
+      "expected_sha256": "15079e4104eca0105b4b5ff173e31300734364a48a01967ea3da68f38c941e9e",
+      "actual_sha256": "15079e4104eca0105b4b5ff173e31300734364a48a01967ea3da68f38c941e9e",
+      "match": true,
+      "seconds": 0.020986557006835938
+    },
+    {
+      "key": "copyright.txt",
+      "source": "E:\\AcademicData\\flood_network_validation_20260908\\raw\\jrc_v3_1_1_quality\\copyright.txt",
+      "working_copy": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\verified_source_copies\\copyright.txt",
+      "expected_sha256": "f20723519a580fb35b3499870f0b1baea54f483195105416e547f0014f1610d2",
+      "actual_sha256": "f20723519a580fb35b3499870f0b1baea54f483195105416e547f0014f1610d2",
+      "match": true,
+      "seconds": 0.010602712631225586
+    },
+    {
+      "key": "Europe_permanent_water_bodies.tif",
+      "source": "E:\\AcademicData\\flood_network_validation_20260908\\raw\\jrc_v3_1_1_quality\\Europe_permanent_water_bodies.tif",
+      "working_copy": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\verified_source_copies\\Europe_permanent_water_bodies.tif",
+      "expected_sha256": "5e14f13fb202263a8407026aa60e7c455db7976284217e5da09ea49c13112eee",
+      "actual_sha256": "5e14f13fb202263a8407026aa60e7c455db7976284217e5da09ea49c13112eee",
+      "match": true,
+      "seconds": 1.2655980587005615
+    },
+    {
+      "key": "Europe_spurious_depth_areas.tif",
+      "source": "E:\\AcademicData\\flood_network_validation_20260908\\raw\\jrc_v3_1_1_quality\\Europe_spurious_depth_areas.tif",
+      "working_copy": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\verified_source_copies\\Europe_spurious_depth_areas.tif",
+      "expected_sha256": "6b609153e28b7e634159525cf7cc9089242a8e17de2578f162d51a0e80d2e7c8",
+      "actual_sha256": "6b609153e28b7e634159525cf7cc9089242a8e17de2578f162d51a0e80d2e7c8",
+      "match": true,
+      "seconds": 0.8415286540985107
+    },
+    {
+      "key": "GISCO_2018_FUA",
+      "source": "E:\\AcademicData\\europe_activity_population_accessibility_jtg\\raw\\urban_audit_2018\\URAU_RG_100K_2018_4326_FUA.geojson",
+      "working_copy": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\verified_source_copies\\URAU_RG_100K_2018_4326_FUA.geojson",
+      "expected_sha256": "4b5423cb8a551b6c70506ca6271c221ab0b00f99fac961d5e4a31f15de0352bd",
+      "actual_sha256": "4b5423cb8a551b6c70506ca6271c221ab0b00f99fac961d5e4a31f15de0352bd",
+      "match": true,
+      "seconds": 0.3405923843383789
+    }
+  ]
+}

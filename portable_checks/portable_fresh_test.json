@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "input_files_hashed": 5,
+  "cities": [
+    {
+      "code": "ES059L1",
+      "comparisons": 264,
+      "max_error": 2.220446049250313e-16
+    }
+  ]
+}

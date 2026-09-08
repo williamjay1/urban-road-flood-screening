@@ -1,0 +1,264 @@
+{
+  "status": "PASS_COMPLETE_17_GROUPS_36_AREAS",
+  "groups": [
+    {
+      "group": "belgium",
+      "codes": [
+        "BE004L2"
+      ],
+      "ways": 26033,
+      "tag_sha256": "6220c3429f3580da8b953f7ade2581678d168754f976e6412146cb77f5f50bcd",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 208264,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": true,
+      "original_pbf_sha256": "7c9cde62a3a93aaf6b520c4b2dca97a76db11af8fcab6f26c61860a0e76b9a08"
+    },
+    {
+      "group": "czech-republic",
+      "codes": [
+        "CZ004L2"
+      ],
+      "ways": 27913,
+      "tag_sha256": "7a9032dc020654d3a45263f4febc1ad5254b877e870d2b553230eaa36aa81c81",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 223304,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": true,
+      "original_pbf_sha256": "f4cf3ce18b2b9270d7603450d61c17db9a22e811ed1abc2b1bf1ed2c623f6dee"
+    },
+    {
+      "group": "france",
+      "codes": [
+        "FR010L2",
+        "FR021L2",
+        "FR036L2"
+      ],
+      "ways": 153190,
+      "tag_sha256": "64f50533efefaebc77aeccb22dc9abbbe76c7ea63a46d073c44151446b273e12",
+      "source_type": "same-timestamp historical reconstruction",
+      "frozen_table_tag_comparisons": 1225520,
+      "frozen_table_tag_mismatches": 0,
+      "snapshot_timestamp": "2026-08-28T20:20:46Z",
+      "generic_tag_comparisons": 1378710,
+      "generic_tag_mismatches": 0,
+      "source_node_sequences_checked": 30013,
+      "source_node_sequence_mismatches": 0,
+      "original_response_files": 37
+    },
+    {
+      "group": "great-britain",
+      "codes": [
+        "UK006L3",
+        "UK040L0",
+        "UK513L0",
+        "UK516L1",
+        "UK557L1"
+      ],
+      "ways": 143223,
+      "tag_sha256": "0f21faf2d8cd6df4442306e2f7d2b06bf4a1a3453a92b2d271a6b076445a49ea",
+      "source_type": "same-timestamp historical reconstruction",
+      "frozen_table_tag_comparisons": 1145784,
+      "frozen_table_tag_mismatches": 0,
+      "snapshot_timestamp": "2026-08-28T20:20:46Z",
+      "generic_tag_comparisons": 1289007,
+      "generic_tag_mismatches": 0,
+      "source_node_sequences_checked": 19196,
+      "source_node_sequence_mismatches": 0,
+      "original_response_files": 202
+    },
+    {
+      "group": "hungary",
+      "codes": [
+        "HU006L2",
+        "HU012L1"
+      ],
+      "ways": 20139,
+      "tag_sha256": "a6d6db8fdb34332d942467a3981cbdfd114a6f3e4461e2141a320b96710072ed",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 161112,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": "not recorded",
+      "original_pbf_sha256": "8e68f202bd225c65fec04fb2fd5b75ecde4ff731f46c36a149861b36029f0fba"
+    },
+    {
+      "group": "italy",
+      "codes": [
+        "IT006L3",
+        "IT014L2",
+        "IT023L2"
+      ],
+      "ways": 68683,
+      "tag_sha256": "6795e0dc16ae3b87569bd03da983b82b131ffe8247094c02f6cec5b1bf78ace9",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 549464,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": "not recorded",
+      "original_pbf_sha256": "c7fdb7fffa05ed5dbf694eddcd547a6007c4161dc2fcadb3bb8e311dbc09696d"
+    },
+    {
+      "group": "lithuania",
+      "codes": [
+        "LT502L0"
+      ],
+      "ways": 6135,
+      "tag_sha256": "2c893e158c8bda87affc5855f3c52271641bb4e84d50dea15d5f52c25c5af71b",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 49080,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": true,
+      "original_pbf_sha256": "b8fb775dc33e6f0b8f615d6726cec590656ac444644490631eebe81e3ad31284"
+    },
+    {
+      "group": "netherlands",
+      "codes": [
+        "NL020L3",
+        "NL529L3"
+      ],
+      "ways": 13213,
+      "tag_sha256": "2e22fb1341218125ee415007ff378708fca46b9695b5cdc96c7729c3ed954783",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 105704,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": "not recorded",
+      "original_pbf_sha256": "5b6a44f30894c40047283d3289f51a457ebb1af733090b991f86b8e05738d811"
+    },
+    {
+      "group": "niedersachsen",
+      "codes": [
+        "DE058L1"
+      ],
+      "ways": 21707,
+      "tag_sha256": "12865f18a77c2121c2a8d7ff30f2d15f0b78f54efc07bd9c7d04ca326cfafa7f",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 173656,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": "not recorded",
+      "original_pbf_sha256": "76e32d88889fd8dd8e021a14c0126fdb96b7988350e3177a3990e89dc2441637"
+    },
+    {
+      "group": "nordrhein-westfalen",
+      "codes": [
+        "DE508L0"
+      ],
+      "ways": 12177,
+      "tag_sha256": "e028a327f63404497665d3b10fefe571ccff1c5b3ab1ddeb6d01ea4a205bf92b",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 97416,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": "not recorded",
+      "original_pbf_sha256": "85394e036086fc4c13cfdac4e95da7db34188e5cc9c0d3aa9e0b5da8f1cbd176"
+    },
+    {
+      "group": "poland",
+      "codes": [
+        "PL011L2"
+      ],
+      "ways": 30500,
+      "tag_sha256": "7a1b5d4b261ea90dec3b3cfd5114ba287715c32d47db8c70256cbf84b0c40aa8",
+      "source_type": "same-timestamp historical reconstruction",
+      "frozen_table_tag_comparisons": 244000,
+      "frozen_table_tag_mismatches": 0,
+      "snapshot_timestamp": "2026-08-28T20:20:46Z",
+      "generic_tag_comparisons": 274500,
+      "generic_tag_mismatches": 0,
+      "source_node_sequences_checked": 5426,
+      "source_node_sequence_mismatches": 0,
+      "original_response_files": 9
+    },
+    {
+      "group": "portugal",
+      "codes": [
+        "PT016L1"
+      ],
+      "ways": 7509,
+      "tag_sha256": "1869b943f2b545aad623116f8564c4237f8b05fdc8391d4d082ca8e13cd4aa74",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 60072,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": "not recorded",
+      "original_pbf_sha256": "8a5284dfb95eb004d7410dc9321f9dd1122514a03c5b6641e6430059159631ab"
+    },
+    {
+      "group": "romania",
+      "codes": [
+        "RO007L1",
+        "RO021L1",
+        "RO512L1"
+      ],
+      "ways": 10036,
+      "tag_sha256": "589c4f0515fc419322349c114b561de1685108769b7de00581f6b2b316e79f33",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 80288,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": "not recorded",
+      "original_pbf_sha256": "661c3ad896aaf84e6ac025322b2b6e18265ef9bb35dd47c5a3a4e44794933d76"
+    },
+    {
+      "group": "sachsen",
+      "codes": [
+        "DE544L1"
+      ],
+      "ways": 33254,
+      "tag_sha256": "90d566e5febbec113f964b95c711b4cc521ae5b4bb121bf915e91921629b902c",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 266032,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": "not recorded",
+      "original_pbf_sha256": "a56136b503c38d6d788447779a1bb347352da0ad8b517a8f3b7c2dff718d06aa"
+    },
+    {
+      "group": "slovakia",
+      "codes": [
+        "SK006L1",
+        "SK008L1"
+      ],
+      "ways": 24290,
+      "tag_sha256": "9b313eb3fc595095a80fe5ca0f367d3a621446a9653365256970409477bc777a",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 194320,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": "not recorded",
+      "original_pbf_sha256": "e00207f395891d0e484931733bc3ba302430b3ae342787b17f5cd23a72428afd"
+    },
+    {
+      "group": "spain",
+      "codes": [
+        "ES004L3",
+        "ES017L2",
+        "ES054L1",
+        "ES059L1",
+        "ES515L1"
+      ],
+      "ways": 92534,
+      "tag_sha256": "342aba8da43452e7ed95b433ffa2bca4d8f6144edea2d58dcc453d308e044962",
+      "source_type": "same-timestamp historical reconstruction",
+      "frozen_table_tag_comparisons": 740272,
+      "frozen_table_tag_mismatches": 0,
+      "snapshot_timestamp": "2026-08-28T20:20:46Z",
+      "generic_tag_comparisons": 832806,
+      "generic_tag_mismatches": 0,
+      "source_node_sequences_checked": 21785,
+      "source_node_sequence_mismatches": 0,
+      "original_response_files": 19
+    },
+    {
+      "group": "sweden",
+      "codes": [
+        "SE004L1",
+        "SE007L1",
+        "SE503L1"
+      ],
+      "ways": 70380,
+      "tag_sha256": "c2dcea1b1a722ee9890f9a9ceae0c5016a4f0854916489b38e73356ff1d35706",
+      "source_type": "verified original PBF stream",
+      "frozen_table_tag_comparisons": 563040,
+      "frozen_table_tag_mismatches": 0,
+      "additional_decoder_comparison": "not recorded",
+      "original_pbf_sha256": "2abfb082cf194bd947f4dada80d2ac01cd3f1ff3f01161396a849090be421c41"
+    }
+  ],
+  "total_ways": 760916,
+  "historically_reconstructed_ways": 419447,
+  "scope": "Thirteen original PBF streams independently decoded and acquisition-hash verified; four additional-tag sources reconstructed at the exact original replication timestamp and checked against frozen road tags and available strategic source-node sequences. Historical recovery is not proof of the complete original compressed PBF identity."
+}

@@ -1,0 +1,39 @@
+{
+  "test_branch_counterexample": {
+    "status": "PASS",
+    "result": {
+      "W": {
+        "D": 1.0,
+        "U": 1.0
+      },
+      "J": {
+        "D": 0.0,
+        "U": 0.0
+      },
+      "L": {
+        "D": 0.0,
+        "U": 0.0
+      }
+    }
+  },
+  "test_degree_two_subdivision_invariance": {
+    "status": "PASS",
+    "result": null
+  },
+  "test_nodata_domain_and_sampling": {
+    "status": "PASS",
+    "result": null
+  },
+  "test_od_anchor_terminates_junction_chain": {
+    "status": "PASS",
+    "result": null
+  },
+  "test_oneway_no_overrides_roundabout": {
+    "status": "PASS",
+    "result": null
+  },
+  "test_parallel_directed_disconnected": {
+    "status": "PASS",
+    "result": null
+  }
+}

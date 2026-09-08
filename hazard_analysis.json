@@ -1,0 +1,1157 @@
+{
+  "status": "COMPLETE",
+  "cities": 36,
+  "rows": 13824,
+  "settings_per_model": 96,
+  "period_summary": {
+    "RP10": {
+      "median_abs_population_unit": 0.07186433834652202,
+      "max_abs_population_unit": 0.42494114194100485,
+      "rank_population_unit_min": 0.8913770913770913,
+      "mean_origin_abs": 0.052726203634497364,
+      "median_origin_abs": 0.04285727558841902,
+      "median_destination_abs": 0.03326313636246026,
+      "median_interaction_abs": 0.02906829824050358,
+      "population_D_median": 0.3676376263549113,
+      "transfer_regret": {
+        "RP100_population_mean": 0.050801127646302555,
+        "RP100_unit_mean": 0.1052339010193333,
+        "all_period_population_mean": 0.0508011276463024
+      },
+      "frame_abs_weighting_difference": {
+        "mean": 0.08885835730105518,
+        "approximate_95_interval": [
+          0.06787908936709734,
+          0.10983762523501302
+        ],
+        "df": 11.369639546690278
+      },
+      "origin_larger_abs_than_destination_city_count": 27
+    },
+    "RP100": {
+      "median_abs_population_unit": 0.07828628109868088,
+      "max_abs_population_unit": 0.4262449581126835,
+      "rank_population_unit_min": 0.8944658944658945,
+      "mean_origin_abs": 0.05679033859018307,
+      "median_origin_abs": 0.04651211648053566,
+      "median_destination_abs": 0.03710012905847636,
+      "median_interaction_abs": 0.03093737767540429,
+      "population_D_median": 0.40147069775533584,
+      "transfer_regret": {
+        "RP100_population_mean": 0.02921552185379695,
+        "RP100_unit_mean": 0.08495977387719028,
+        "all_period_population_mean": 0.02921552185379695
+      },
+      "frame_abs_weighting_difference": {
+        "mean": 0.08723039224098844,
+        "approximate_95_interval": [
+          0.07110995059923175,
+          0.10335083388274513
+        ],
+        "df": 11.659148214955877
+      },
+      "origin_larger_abs_than_destination_city_count": 27
+    },
+    "RP500": {
+      "median_abs_population_unit": 0.08054241389026423,
+      "max_abs_population_unit": 0.4262449581126835,
+      "rank_population_unit_min": 0.8787644787644789,
+      "mean_origin_abs": 0.05848985044604328,
+      "median_origin_abs": 0.04803938625194845,
+      "median_destination_abs": 0.03732196405360011,
+      "median_interaction_abs": 0.03215404843102182,
+      "population_D_median": 0.4167861820767439,
+      "transfer_regret": {
+        "RP100_population_mean": 0.0319056567234861,
+        "RP100_unit_mean": 0.08169486788747286,
+        "all_period_population_mean": 0.0319056567234861
+      },
+      "frame_abs_weighting_difference": {
+        "mean": 0.09037095100311604,
+        "approximate_95_interval": [
+          0.07383392838265651,
+          0.10690797362357557
+        ],
+        "df": 13.18230060296216
+      },
+      "origin_larger_abs_than_destination_city_count": 28
+    }
+  },
+  "city_decomposition": [
+    {
+      "code": "BE004L2",
+      "mean_difference": 0.10523697846422982,
+      "mean_origin": 0.05819223836764562,
+      "mean_destination": 0.047044740096584166,
+      "mean_interaction": -0.051952946170860666,
+      "by_period": {
+        "RP10": 0.09382371988078982,
+        "RP100": 0.11084846659745673,
+        "RP500": 0.11103874891444285
+      }
+    },
+    {
+      "code": "CZ004L2",
+      "mean_difference": 0.06537566438721698,
+      "mean_origin": 0.04272863001315169,
+      "mean_destination": 0.0226470343740653,
+      "mean_interaction": -0.014616730496318885,
+      "by_period": {
+        "RP10": 0.06780080046844869,
+        "RP100": 0.06626236789324598,
+        "RP500": 0.06206382479995627
+      }
+    },
+    {
+      "code": "DE058L1",
+      "mean_difference": -0.10184077387246852,
+      "mean_origin": -0.07794581780980374,
+      "mean_destination": -0.023894956062664795,
+      "mean_interaction": -0.03345078962983575,
+      "by_period": {
+        "RP10": -0.10528050791537197,
+        "RP100": -0.11063829879718198,
+        "RP500": -0.08960351490485163
+      }
+    },
+    {
+      "code": "DE508L0",
+      "mean_difference": -0.06612035926668515,
+      "mean_origin": -0.03462184976610899,
+      "mean_destination": -0.03149850950057615,
+      "mean_interaction": -0.0043569376592809865,
+      "by_period": {
+        "RP10": -0.0233743882674373,
+        "RP100": -0.08990175089255063,
+        "RP500": -0.08508493864006748
+      }
+    },
+    {
+      "code": "DE544L1",
+      "mean_difference": 0.09569166384822243,
+      "mean_origin": 0.05270112569780545,
+      "mean_destination": 0.042990538150417,
+      "mean_interaction": -0.0035064453055284883,
+      "by_period": {
+        "RP10": 0.0934125226932985,
+        "RP100": 0.0971438065702232,
+        "RP500": 0.09651866228114561
+      }
+    },
+    {
+      "code": "ES004L3",
+      "mean_difference": 0.023812669495268002,
+      "mean_origin": 0.013732890655605899,
+      "mean_destination": 0.010079778839662105,
+      "mean_interaction": -0.037203678007162996,
+      "by_period": {
+        "RP10": 0.0064689288521181595,
+        "RP100": 0.030888063569168882,
+        "RP500": 0.034081016064516995
+      }
+    },
+    {
+      "code": "ES017L2",
+      "mean_difference": -0.022427077510314797,
+      "mean_origin": -0.004232580631261212,
+      "mean_destination": -0.018194496879053584,
+      "mean_interaction": -0.07575172895285652,
+      "by_period": {
+        "RP10": -0.008505065032521675,
+        "RP100": -0.02543794871647747,
+        "RP500": -0.03333821878194525
+      }
+    },
+    {
+      "code": "ES054L1",
+      "mean_difference": -0.03213804576388988,
+      "mean_origin": -0.013144421928763797,
+      "mean_destination": -0.01899362383512609,
+      "mean_interaction": -0.0018197498103143894,
+      "by_period": {
+        "RP10": -0.03213804576388988,
+        "RP100": -0.03213804576388988,
+        "RP500": -0.03213804576388988
+      }
+    },
+    {
+      "code": "ES059L1",
+      "mean_difference": -0.08577482643706884,
+      "mean_origin": 0.01846713332146012,
+      "mean_destination": -0.10424195975852894,
+      "mean_interaction": -0.19928099053503182,
+      "by_period": {
+        "RP10": -0.19355852892443837,
+        "RP100": -0.029884120065798103,
+        "RP500": -0.033881830320969974
+      }
+    },
+    {
+      "code": "ES515L1",
+      "mean_difference": 0.11456192904244995,
+      "mean_origin": 0.06576119128222828,
+      "mean_destination": 0.04880073776022168,
+      "mean_interaction": -0.08025664959624465,
+      "by_period": {
+        "RP10": 0.11485499240280717,
+        "RP100": 0.11640564620874372,
+        "RP500": 0.11242514851579893
+      }
+    },
+    {
+      "code": "FR010L2",
+      "mean_difference": 0.012025309480577747,
+      "mean_origin": 0.015980379641523632,
+      "mean_destination": -0.003955070160945884,
+      "mean_interaction": -0.08370748416923844,
+      "by_period": {
+        "RP10": 0.00841310126544085,
+        "RP100": 0.01427427272954134,
+        "RP500": 0.013388554446751043
+      }
+    },
+    {
+      "code": "FR021L2",
+      "mean_difference": 0.056117659166939914,
+      "mean_origin": 0.03163033224332296,
+      "mean_destination": 0.02448732692361694,
+      "mean_interaction": -0.03741932099740617,
+      "by_period": {
+        "RP10": 0.05784923531348399,
+        "RP100": 0.058748466298432125,
+        "RP500": 0.051755275888903655
+      }
+    },
+    {
+      "code": "FR036L2",
+      "mean_difference": -0.06901539468949389,
+      "mean_origin": -0.031904171463920265,
+      "mean_destination": -0.037111223225573635,
+      "mean_interaction": -0.10603530711770415,
+      "by_period": {
+        "RP10": -0.08535887544770757,
+        "RP100": -0.06628979413427251,
+        "RP500": -0.05539751448650161
+      }
+    },
+    {
+      "code": "HU006L2",
+      "mean_difference": 0.10038815986927148,
+      "mean_origin": 0.08182054299841018,
+      "mean_destination": 0.018567616870861316,
+      "mean_interaction": -0.2135933203048809,
+      "by_period": {
+        "RP10": 0.05579087132319117,
+        "RP100": 0.12191457446176326,
+        "RP500": 0.12345903382286
+      }
+    },
+    {
+      "code": "HU012L1",
+      "mean_difference": 0.052640912577492614,
+      "mean_origin": 0.030543902476007353,
+      "mean_destination": 0.022097010101485265,
+      "mean_interaction": -0.03921391794738118,
+      "by_period": {
+        "RP10": 0.04704582373006844,
+        "RP100": 0.05546827160241222,
+        "RP500": 0.055408642399997265
+      }
+    },
+    {
+      "code": "IT006L3",
+      "mean_difference": -0.06581524389972383,
+      "mean_origin": -0.030355502291118868,
+      "mean_destination": -0.035459741608604975,
+      "mean_interaction": -0.02590206626030954,
+      "by_period": {
+        "RP10": -0.05888596380133813,
+        "RP100": -0.05887225095324368,
+        "RP500": -0.0796875169445897
+      }
+    },
+    {
+      "code": "IT014L2",
+      "mean_difference": 0.16643545069613072,
+      "mean_origin": 0.09750627089080262,
+      "mean_destination": 0.0689291798053281,
+      "mean_interaction": -0.029009368174002903,
+      "by_period": {
+        "RP10": 0.15626405844478025,
+        "RP100": 0.16930259476060083,
+        "RP500": 0.1737396988830111
+      }
+    },
+    {
+      "code": "IT023L2",
+      "mean_difference": -0.02153799113678879,
+      "mean_origin": -0.0022374061475393674,
+      "mean_destination": -0.019300584989249428,
+      "mean_interaction": -0.006380187883287937,
+      "by_period": {
+        "RP10": -0.01955417884377703,
+        "RP100": -0.020260765713774345,
+        "RP500": -0.024799028852815007
+      }
+    },
+    {
+      "code": "LT502L0",
+      "mean_difference": -0.06876580310748188,
+      "mean_origin": -0.0354181622486621,
+      "mean_destination": -0.0333476408588198,
+      "mean_interaction": -0.007772947103532598,
+      "by_period": {
+        "RP10": -0.06876580310748188,
+        "RP100": -0.06876580310748188,
+        "RP500": -0.06876580310748188
+      }
+    },
+    {
+      "code": "NL020L3",
+      "mean_difference": -0.15536180003312758,
+      "mean_origin": -0.08044933251910398,
+      "mean_destination": -0.07491246751402357,
+      "mean_interaction": -0.01297103759454693,
+      "by_period": {
+        "RP10": -0.13906419784114438,
+        "RP100": -0.1508284746464821,
+        "RP500": -0.1761927276117562
+      }
+    },
+    {
+      "code": "NL529L3",
+      "mean_difference": -0.07552691682977057,
+      "mean_origin": -0.05475219456946339,
+      "mean_destination": -0.020774722260307184,
+      "mean_interaction": -0.008643423950566482,
+      "by_period": {
+        "RP10": -0.07172931920515696,
+        "RP100": -0.074579531092277,
+        "RP500": -0.08027190019187781
+      }
+    },
+    {
+      "code": "PL011L2",
+      "mean_difference": -0.20973201251909437,
+      "mean_origin": -0.12207959415910163,
+      "mean_destination": -0.08765241835999275,
+      "mean_interaction": -0.178780071490516,
+      "by_period": {
+        "RP10": -0.20901472470319535,
+        "RP100": -0.2099646971589135,
+        "RP500": -0.21021661569517427
+      }
+    },
+    {
+      "code": "PT016L1",
+      "mean_difference": 0.06537862283915472,
+      "mean_origin": 0.042308033769598526,
+      "mean_destination": 0.023070589069556186,
+      "mean_interaction": -0.012164919310366737,
+      "by_period": {
+        "RP10": 0.08775090675401269,
+        "RP100": 0.035038561531970214,
+        "RP500": 0.07334640023148122
+      }
+    },
+    {
+      "code": "RO007L1",
+      "mean_difference": -0.10059751408610502,
+      "mean_origin": -0.04195854981192763,
+      "mean_destination": -0.05863896427417742,
+      "mean_interaction": -0.059555427995512195,
+      "by_period": {
+        "RP10": -0.04054249810419915,
+        "RP100": -0.09757103767569238,
+        "RP500": -0.16367900647842365
+      }
+    },
+    {
+      "code": "RO021L1",
+      "mean_difference": -0.1364563513110367,
+      "mean_origin": -0.07661725777329302,
+      "mean_destination": -0.05983909353774369,
+      "mean_interaction": -0.06430481561348962,
+      "by_period": {
+        "RP10": -0.12949680114632683,
+        "RP100": -0.14743577418037465,
+        "RP500": -0.1324364786064086
+      }
+    },
+    {
+      "code": "RO512L1",
+      "mean_difference": 0.09133459290910828,
+      "mean_origin": 0.047045238630233965,
+      "mean_destination": 0.04428935427887432,
+      "mean_interaction": -0.0021194896172570163,
+      "by_period": {
+        "RP10": 0.09760636702791745,
+        "RP100": 0.08803959633530944,
+        "RP500": 0.08835781536409808
+      }
+    },
+    {
+      "code": "SE004L1",
+      "mean_difference": -0.019355807673304682,
+      "mean_origin": -0.014349926224661544,
+      "mean_destination": -0.005005881448643142,
+      "mean_interaction": 0.004885449638153411,
+      "by_period": {
+        "RP10": -0.02082391751571125,
+        "RP100": -0.021304485041227256,
+        "RP500": -0.015939020462975545
+      }
+    },
+    {
+      "code": "SE007L1",
+      "mean_difference": -0.1476828928815961,
+      "mean_origin": -0.08536795050765465,
+      "mean_destination": -0.06231494237394144,
+      "mean_interaction": -0.1507302810298549,
+      "by_period": {
+        "RP10": -0.14045396656973028,
+        "RP100": -0.15038924326614783,
+        "RP500": -0.15220546880891012
+      }
+    },
+    {
+      "code": "SE503L1",
+      "mean_difference": -0.11722350717363643,
+      "mean_origin": -0.07121922031261936,
+      "mean_destination": -0.04600428686101706,
+      "mean_interaction": -0.06719432249987818,
+      "by_period": {
+        "RP10": -0.11699301773165291,
+        "RP100": -0.12245429875583808,
+        "RP500": -0.11222320503341829
+      }
+    },
+    {
+      "code": "SK006L1",
+      "mean_difference": 0.023657359556552144,
+      "mean_origin": 0.02173888303174504,
+      "mean_destination": 0.0019184765248071022,
+      "mean_interaction": -0.1084930408662746,
+      "by_period": {
+        "RP10": 0.01865616943017836,
+        "RP100": 0.01812320880154255,
+        "RP500": 0.03419270043793553
+      }
+    },
+    {
+      "code": "SK008L1",
+      "mean_difference": 0.11478287254437092,
+      "mean_origin": 0.0697536285635374,
+      "mean_destination": 0.04502924398083353,
+      "mean_interaction": -0.061505758323227765,
+      "by_period": {
+        "RP10": 0.1226776633451864,
+        "RP100": 0.10830935633134436,
+        "RP500": 0.11336159795658207
+      }
+    },
+    {
+      "code": "UK006L3",
+      "mean_difference": -0.10564932910363396,
+      "mean_origin": -0.06537758889405294,
+      "mean_destination": -0.04027174020958104,
+      "mean_interaction": -0.01277913230162041,
+      "by_period": {
+        "RP10": -0.07078754029554278,
+        "RP100": -0.11953681943461038,
+        "RP500": -0.12662362758074874
+      }
+    },
+    {
+      "code": "UK040L0",
+      "mean_difference": -0.011747774573003958,
+      "mean_origin": -0.0055403989179272735,
+      "mean_destination": -0.006207375655076684,
+      "mean_interaction": -0.0012940836569349506,
+      "by_period": {
+        "RP10": -0.005820634194518493,
+        "RP100": -0.012110838588154642,
+        "RP500": -0.01731185093633874
+      }
+    },
+    {
+      "code": "UK513L0",
+      "mean_difference": -0.13290269377930714,
+      "mean_origin": -0.08857866696085277,
+      "mean_destination": -0.044324026818454355,
+      "mean_interaction": 0.003436655494245051,
+      "by_period": {
+        "RP10": -0.11763717288804781,
+        "RP100": -0.13654730566135545,
+        "RP500": -0.14452360278851814
+      }
+    },
+    {
+      "code": "UK516L1",
+      "mean_difference": -0.0547780836493622,
+      "mean_origin": -0.035730559908634635,
+      "mean_destination": -0.019047523740727563,
+      "mean_interaction": -0.006207213635053963,
+      "by_period": {
+        "RP10": -0.05870621100547378,
+        "RP100": -0.05339638402377439,
+        "RP500": -0.052231655918838396
+      }
+    },
+    {
+      "code": "UK557L1",
+      "mean_difference": -0.3432318521103528,
+      "mean_origin": -0.21780618092841345,
+      "mean_destination": -0.1254256711819394,
+      "mean_interaction": -0.17761683497561362,
+      "by_period": {
+        "RP10": -0.34223394434263127,
+        "RP100": -0.3437308059942136,
+        "RP500": -0.3437308059942136
+      }
+    }
+  ],
+  "additivity_max_error": 5.551115123125783e-17,
+  "prior_replay_max_error": 2.6645352591003757e-15,
+  "lists": {
+    "RP100_population_mean": [
+      "ES515L1",
+      "HU006L2",
+      "IT014L2",
+      "SK006L1",
+      "SK008L1",
+      "ES059L1",
+      "ES017L2",
+      "HU012L1",
+      "FR021L2"
+    ],
+    "RP100_unit_mean": [
+      "SK006L1",
+      "ES515L1",
+      "ES059L1",
+      "HU006L2",
+      "ES017L2",
+      "DE058L1",
+      "FR036L2",
+      "SE007L1",
+      "IT014L2"
+    ],
+    "all_period_population_mean": [
+      "ES515L1",
+      "HU006L2",
+      "IT014L2",
+      "SK006L1",
+      "SK008L1",
+      "ES017L2",
+      "HU012L1",
+      "FR021L2",
+      "ES059L1"
+    ]
+  },
+  "median_hazard_range": 0.017324101934556912,
+  "max_hazard_range": 0.4363913508465502,
+  "mean_difference_same_sign_all_period_cities": 36,
+  "nonmonotone_scores": [
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        5,
+        "strategic",
+        "exposed",
+        "retained"
+      ],
+      "scores": [
+        0.20328548650313943,
+        0.19041005467633085,
+        0.21834307749301785
+      ]
+    },
+    {
+      "code": "IT023L2",
+      "setting": [
+        "RP100",
+        5,
+        "strategic",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.08387768914095539,
+        0.0838752336289655,
+        0.08394882606916312
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        5,
+        "strategic",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.20313141723618444,
+        0.190322345922549,
+        0.21834307749301785
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        5,
+        "strategic",
+        "exposed",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.20328548650313943,
+        0.19041005467633085,
+        0.21834307749301785
+      ]
+    },
+    {
+      "code": "IT023L2",
+      "setting": [
+        "RP100",
+        5,
+        "strategic",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.08387768914095539,
+        0.0838752336289655,
+        0.08394882606916312
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        5,
+        "strategic",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.20313141723618444,
+        0.190322345922549,
+        0.21834307749301785
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        5,
+        "expanded",
+        "exposed",
+        "retained"
+      ],
+      "scores": [
+        0.19974284455801386,
+        0.18601193720172293,
+        0.2145721435415592
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        5,
+        "expanded",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.19958794937166155,
+        0.18592049673994132,
+        0.2145721435415592
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        5,
+        "expanded",
+        "exposed",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.19974284455801386,
+        0.18601193720172293,
+        0.2145721435415592
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        5,
+        "expanded",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.19958794937166155,
+        0.18592049673994132,
+        0.2145721435415592
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        15,
+        "strategic",
+        "exposed",
+        "retained"
+      ],
+      "scores": [
+        0.2991528984525804,
+        0.2638292350068864,
+        0.31882133413249414
+      ]
+    },
+    {
+      "code": "IT023L2",
+      "setting": [
+        "RP100",
+        15,
+        "strategic",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.1048306679873432,
+        0.10482722367570697,
+        0.10490235176569698
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        15,
+        "strategic",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.29892850896523904,
+        0.2636712272084206,
+        0.31882133413249414
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        15,
+        "strategic",
+        "exposed",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.2991528984525804,
+        0.2638292350068864,
+        0.31882133413249414
+      ]
+    },
+    {
+      "code": "IT023L2",
+      "setting": [
+        "RP100",
+        15,
+        "strategic",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.1048306679873432,
+        0.10482722367570697,
+        0.10490235176569698
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        15,
+        "strategic",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.29892850896523904,
+        0.2636712272084206,
+        0.31882133413249414
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        15,
+        "expanded",
+        "exposed",
+        "retained"
+      ],
+      "scores": [
+        0.29649436751065,
+        0.2588327330677405,
+        0.3162867872610727
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        15,
+        "expanded",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.29626688131838924,
+        0.25865991811390043,
+        0.3162867872610727
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        15,
+        "expanded",
+        "exposed",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.29649436751065,
+        0.2588327330677405,
+        0.3162867872610727
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        15,
+        "expanded",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.29626688131838924,
+        0.25865991811390043,
+        0.3162867872610727
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        30,
+        "strategic",
+        "exposed",
+        "retained"
+      ],
+      "scores": [
+        0.332234960008971,
+        0.29068363199064284,
+        0.35342507279747115
+      ]
+    },
+    {
+      "code": "IT023L2",
+      "setting": [
+        "RP100",
+        30,
+        "strategic",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.10674930156798142,
+        0.10674629424326183,
+        0.1068271415743421
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        30,
+        "strategic",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.33198726145972524,
+        0.29050671858296023,
+        0.35342507279747115
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        30,
+        "strategic",
+        "exposed",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.332234960008971,
+        0.29068363199064284,
+        0.35342507279747115
+      ]
+    },
+    {
+      "code": "IT023L2",
+      "setting": [
+        "RP100",
+        30,
+        "strategic",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.10674930156798142,
+        0.10674629424326183,
+        0.1068271415743421
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        30,
+        "strategic",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.33198726145972524,
+        0.29050671858296023,
+        0.35342507279747115
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        30,
+        "expanded",
+        "exposed",
+        "retained"
+      ],
+      "scores": [
+        0.32963254449357854,
+        0.2850805132963018,
+        0.35102770401587513
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        30,
+        "expanded",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.3293808462305539,
+        0.2848846226935376,
+        0.35102770401587513
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        30,
+        "expanded",
+        "exposed",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.32963254449357854,
+        0.2850805132963018,
+        0.35102770401587513
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        30,
+        "expanded",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.3293808462305539,
+        0.2848846226935376,
+        0.35102770401587513
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        null,
+        "strategic",
+        "exposed",
+        "retained"
+      ],
+      "scores": [
+        0.37009798595413523,
+        0.3226608908289625,
+        0.39276395162544153
+      ]
+    },
+    {
+      "code": "IT023L2",
+      "setting": [
+        "RP100",
+        null,
+        "strategic",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.11331009646850045,
+        0.11330798814040753,
+        0.11339875665599107
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        null,
+        "strategic",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.3698280409270567,
+        0.32246656110080796,
+        0.39276395162544153
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        null,
+        "strategic",
+        "exposed",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.37009798595413523,
+        0.3226608908289625,
+        0.39276395162544153
+      ]
+    },
+    {
+      "code": "IT023L2",
+      "setting": [
+        "RP100",
+        null,
+        "strategic",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.11331009646850045,
+        0.11330798814040753,
+        0.11339875665599107
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        null,
+        "strategic",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.3698280409270567,
+        0.32246656110080796,
+        0.39276395162544153
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        null,
+        "expanded",
+        "exposed",
+        "retained"
+      ],
+      "scores": [
+        0.36745488537985904,
+        0.31623664787379707,
+        0.39039871777906954
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        null,
+        "expanded",
+        "bridge_immune",
+        "retained"
+      ],
+      "scores": [
+        0.36717992254215254,
+        0.3160187001369783,
+        0.39039871777906954
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        null,
+        "expanded",
+        "exposed",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.36745488537985904,
+        0.31623664787379707,
+        0.39039871777906954
+      ]
+    },
+    {
+      "code": "SE503L1",
+      "setting": [
+        "RP100",
+        null,
+        "expanded",
+        "bridge_immune",
+        "spurious_zero_bound"
+      ],
+      "scores": [
+        0.36717992254215254,
+        0.3160187001369783,
+        0.39039871777906954
+      ]
+    }
+  ],
+  "max_raw_nonmonotone_cell_fraction": 0.004209049456331112
+}

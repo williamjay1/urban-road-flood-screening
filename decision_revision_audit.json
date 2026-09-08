@@ -1,0 +1,83 @@
+{
+  "status": "PASS",
+  "evaluation_comparisons": 72,
+  "max_error": 0.0,
+  "scaled_constraint_exhaustive_toys": {
+    "status": "PASS",
+    "exhaustive_cases": [
+      {
+        "n": 6,
+        "k": 2,
+        "m": 4,
+        "absolute_error": 5.551115123125783e-17
+      },
+      {
+        "n": 6,
+        "k": 2,
+        "m": 4,
+        "absolute_error": 5.551115123125783e-17
+      },
+      {
+        "n": 6,
+        "k": 2,
+        "m": 4,
+        "absolute_error": 0.0
+      },
+      {
+        "n": 6,
+        "k": 2,
+        "m": 4,
+        "absolute_error": 5.551115123125783e-17
+      },
+      {
+        "n": 8,
+        "k": 3,
+        "m": 7,
+        "absolute_error": 0.0
+      },
+      {
+        "n": 8,
+        "k": 3,
+        "m": 7,
+        "absolute_error": 5.551115123125783e-17
+      },
+      {
+        "n": 8,
+        "k": 3,
+        "m": 7,
+        "absolute_error": 0.0
+      },
+      {
+        "n": 8,
+        "k": 3,
+        "m": 7,
+        "absolute_error": 5.551115123125783e-17
+      },
+      {
+        "n": 10,
+        "k": 4,
+        "m": 5,
+        "absolute_error": 0.0
+      },
+      {
+        "n": 10,
+        "k": 4,
+        "m": 5,
+        "absolute_error": 5.551115123125783e-17
+      },
+      {
+        "n": 10,
+        "k": 4,
+        "m": 5,
+        "absolute_error": 0.0
+      },
+      {
+        "n": 10,
+        "k": 4,
+        "m": 5,
+        "absolute_error": 5.551115123125783e-17
+      }
+    ],
+    "tie_case": "PASS"
+  }
+}

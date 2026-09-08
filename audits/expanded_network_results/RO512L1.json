@@ -1,0 +1,83 @@
+{
+  "code": "RO512L1",
+  "rows": 4812,
+  "nodes": 36309,
+  "segments": 37820,
+  "baseline_pair_reachability": 1.0,
+  "frozen_legacy_anchor_weight_total": 1.0000000000000002,
+  "scope": "Adds all road classes present in the source extraction, retaining the same direction/access interpretation and 1m coordinate topology. Does not establish complete public vehicle access or recover omitted roads.",
+  "scenarios": [
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "D": 0.4156879977030255,
+      "U": 0.41568799770302545
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "D": 0.4156879977030255,
+      "U": 0.41568799770302545
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "D": 0.4156879977030255,
+      "U": 0.41568799770302545
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "D": 0.0905811092261695,
+      "U": 0.0
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "D": 0.0905811092261695,
+      "U": 0.0
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "D": 0.0905811092261695,
+      "U": 0.0
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "D": 0.0905811092261695,
+      "U": 0.0
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "D": 0.0905811092261695,
+      "U": 0.0
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "D": 0.0905811092261695,
+      "U": 0.0
+    }
+  ]
+}

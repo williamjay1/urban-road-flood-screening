@@ -1,0 +1,294 @@
+{
+  "status": "PASS",
+  "cities": [
+    {
+      "code": "BE004L2",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\BE004L2\\BE004L2_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\BE004L2\\BE004L2_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "7c9b61e6aa91a53677dda56d715b2ebd75656c0a62a2db84228326fad670e864",
+      "actual_sha256": "7c9b61e6aa91a53677dda56d715b2ebd75656c0a62a2db84228326fad670e864",
+      "match": true
+    },
+    {
+      "code": "CZ004L2",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\CZ004L2\\CZ004L2_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\CZ004L2\\CZ004L2_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "1cb30105ca9babf245082daabb224d92364fdd63e5b1a2283845e8a909dd589f",
+      "actual_sha256": "1cb30105ca9babf245082daabb224d92364fdd63e5b1a2283845e8a909dd589f",
+      "match": true
+    },
+    {
+      "code": "DE058L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\DE058L1\\DE058L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\DE058L1\\DE058L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "63fef494ce2e70a3780d5faacb451ab5988c26f3e5b6e58e98a1e058b0c57a85",
+      "actual_sha256": "63fef494ce2e70a3780d5faacb451ab5988c26f3e5b6e58e98a1e058b0c57a85",
+      "match": true
+    },
+    {
+      "code": "DE508L0",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\DE508L0\\DE508L0_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\DE508L0\\DE508L0_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "e87032dc06cb7fa21e2e88e68726971049fde9dc05f87d890495543671269dc0",
+      "actual_sha256": "e87032dc06cb7fa21e2e88e68726971049fde9dc05f87d890495543671269dc0",
+      "match": true
+    },
+    {
+      "code": "DE544L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\DE544L1\\DE544L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\DE544L1\\DE544L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "5da9ddee641e7fbe812fe92658217befb27efc65cac421d6b1f9c878d1312a7b",
+      "actual_sha256": "5da9ddee641e7fbe812fe92658217befb27efc65cac421d6b1f9c878d1312a7b",
+      "match": true
+    },
+    {
+      "code": "ES004L3",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\ES004L3\\ES004L3_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\ES004L3\\ES004L3_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "e8b3ccbb60de41cda2914ae18cdae290f046895ad1db4b4053a43792b54c771b",
+      "actual_sha256": "e8b3ccbb60de41cda2914ae18cdae290f046895ad1db4b4053a43792b54c771b",
+      "match": true
+    },
+    {
+      "code": "ES017L2",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\ES017L2\\ES017L2_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\ES017L2\\ES017L2_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "48372968b0cda5ac29fceef4173b36579da0e425c59147f5cefc58b5140d8ed0",
+      "actual_sha256": "48372968b0cda5ac29fceef4173b36579da0e425c59147f5cefc58b5140d8ed0",
+      "match": true
+    },
+    {
+      "code": "ES054L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\ES054L1\\ES054L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\ES054L1\\ES054L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "97a60a67d46ec70b3ed240ddea17c3967df293aac1dadad4bda91880c2f5290a",
+      "actual_sha256": "97a60a67d46ec70b3ed240ddea17c3967df293aac1dadad4bda91880c2f5290a",
+      "match": true
+    },
+    {
+      "code": "ES059L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\ES059L1\\ES059L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\ES059L1\\ES059L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "68488b46712d7e501468845db950e90d596f1a052f139acb5c12f1492e68a1ca",
+      "actual_sha256": "68488b46712d7e501468845db950e90d596f1a052f139acb5c12f1492e68a1ca",
+      "match": true
+    },
+    {
+      "code": "ES515L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\ES515L1\\ES515L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\ES515L1\\ES515L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "88770f820bf6e57d5d62a831177aa2ca9ff7d6754a632ee69000025439b33575",
+      "actual_sha256": "88770f820bf6e57d5d62a831177aa2ca9ff7d6754a632ee69000025439b33575",
+      "match": true
+    },
+    {
+      "code": "FR010L2",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\FR010L2\\FR010L2_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\FR010L2\\FR010L2_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "e5d665d6c20a3c72663fe882a50660c4e4851fa455f29518f74ba1369aebeb49",
+      "actual_sha256": "e5d665d6c20a3c72663fe882a50660c4e4851fa455f29518f74ba1369aebeb49",
+      "match": true
+    },
+    {
+      "code": "FR021L2",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\FR021L2\\FR021L2_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\FR021L2\\FR021L2_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "2e52ce08c4b8b050d9fdf4dfb73edbae6e5a76ec6805831d04786971eeddac90",
+      "actual_sha256": "2e52ce08c4b8b050d9fdf4dfb73edbae6e5a76ec6805831d04786971eeddac90",
+      "match": true
+    },
+    {
+      "code": "FR036L2",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\FR036L2\\FR036L2_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\FR036L2\\FR036L2_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "3bf032702e9403b4bd396551e15f157fbeffda70aa3f36dc179d1ce3261cff11",
+      "actual_sha256": "3bf032702e9403b4bd396551e15f157fbeffda70aa3f36dc179d1ce3261cff11",
+      "match": true
+    },
+    {
+      "code": "HU006L2",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\HU006L2\\HU006L2_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\HU006L2\\HU006L2_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "7fe0fb5220725660edc945bb3a6a35e4017de2d4d82d9ccacf52f37e0116568a",
+      "actual_sha256": "7fe0fb5220725660edc945bb3a6a35e4017de2d4d82d9ccacf52f37e0116568a",
+      "match": true
+    },
+    {
+      "code": "HU012L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\HU012L1\\HU012L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\HU012L1\\HU012L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "dfce30dadad3872025da9fbe08b80b2c32b5936df403e20195ae410644a77bb3",
+      "actual_sha256": "dfce30dadad3872025da9fbe08b80b2c32b5936df403e20195ae410644a77bb3",
+      "match": true
+    },
+    {
+      "code": "IT006L3",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\IT006L3\\IT006L3_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\IT006L3\\IT006L3_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "be48cd626f8d9887d8ebb7f7f5d28bfb5cae31681c3f9892da04007ec029bb65",
+      "actual_sha256": "be48cd626f8d9887d8ebb7f7f5d28bfb5cae31681c3f9892da04007ec029bb65",
+      "match": true
+    },
+    {
+      "code": "IT014L2",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\IT014L2\\IT014L2_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\IT014L2\\IT014L2_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "2b78f616272b4c3db3b607cf8acd4b938a3463501e93d4879f1f8545b6a73c5d",
+      "actual_sha256": "2b78f616272b4c3db3b607cf8acd4b938a3463501e93d4879f1f8545b6a73c5d",
+      "match": true
+    },
+    {
+      "code": "IT023L2",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\IT023L2\\IT023L2_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\IT023L2\\IT023L2_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "4e2206ce5690e72e134cceb267cd15b2107f5ee90f39693f23c7c0885442373c",
+      "actual_sha256": "4e2206ce5690e72e134cceb267cd15b2107f5ee90f39693f23c7c0885442373c",
+      "match": true
+    },
+    {
+      "code": "LT502L0",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\LT502L0\\LT502L0_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\LT502L0\\LT502L0_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "bc3f65b9ee53355fbc969ebec08a1ba9c37aa734feaa7daad63f935eac21823d",
+      "actual_sha256": "bc3f65b9ee53355fbc969ebec08a1ba9c37aa734feaa7daad63f935eac21823d",
+      "match": true
+    },
+    {
+      "code": "NL020L3",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\NL020L3\\NL020L3_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\NL020L3\\NL020L3_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "947f4c8be0d6722aea8f0959d16db237b777763580c2a8508f9df9766fc8311c",
+      "actual_sha256": "947f4c8be0d6722aea8f0959d16db237b777763580c2a8508f9df9766fc8311c",
+      "match": true
+    },
+    {
+      "code": "NL529L3",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\NL529L3\\NL529L3_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\NL529L3\\NL529L3_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "8c3d9f34f1cfb11c7fdb8852517d498d96e974b6f4b9af06871d172d2215e396",
+      "actual_sha256": "8c3d9f34f1cfb11c7fdb8852517d498d96e974b6f4b9af06871d172d2215e396",
+      "match": true
+    },
+    {
+      "code": "PL011L2",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\PL011L2\\PL011L2_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\PL011L2\\PL011L2_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "611e88ccec20785815a0d9d7a4257127e629e3e8b9b68a55ec7c8ebdca94c819",
+      "actual_sha256": "611e88ccec20785815a0d9d7a4257127e629e3e8b9b68a55ec7c8ebdca94c819",
+      "match": true
+    },
+    {
+      "code": "PT016L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\PT016L1\\PT016L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\PT016L1\\PT016L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "ba8b121f41e2d5ca24e2339e3413dc2f66aa846e7eba684ab947df7d16460053",
+      "actual_sha256": "ba8b121f41e2d5ca24e2339e3413dc2f66aa846e7eba684ab947df7d16460053",
+      "match": true
+    },
+    {
+      "code": "RO007L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\RO007L1\\RO007L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\RO007L1\\RO007L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "ef7955505ade88e991d2c30bd752f574c7ad5e3c66d6f606ae7613bfddbbad6c",
+      "actual_sha256": "ef7955505ade88e991d2c30bd752f574c7ad5e3c66d6f606ae7613bfddbbad6c",
+      "match": true
+    },
+    {
+      "code": "RO021L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\RO021L1\\RO021L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\RO021L1\\RO021L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "840c55acd08000583c0c8d230912ffd05147d098b7bedb3690364cd57e5978c6",
+      "actual_sha256": "840c55acd08000583c0c8d230912ffd05147d098b7bedb3690364cd57e5978c6",
+      "match": true
+    },
+    {
+      "code": "RO512L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\RO512L1\\RO512L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\RO512L1\\RO512L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "425441a5c91184281b519b6578d0d207a666800a570ca0ee98658272a0093460",
+      "actual_sha256": "425441a5c91184281b519b6578d0d207a666800a570ca0ee98658272a0093460",
+      "match": true
+    },
+    {
+      "code": "SE004L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\SE004L1\\SE004L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\SE004L1\\SE004L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "0117a42a2fb0d9321d832d1d3d2662aacd883070c56f2bc4861e874544e74486",
+      "actual_sha256": "0117a42a2fb0d9321d832d1d3d2662aacd883070c56f2bc4861e874544e74486",
+      "match": true
+    },
+    {
+      "code": "SE007L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\SE007L1\\SE007L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\SE007L1\\SE007L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "9774a5325130157c4074c1fea1941a97dfd40d0eb9b76bcfd75a1d67fce8ddf1",
+      "actual_sha256": "9774a5325130157c4074c1fea1941a97dfd40d0eb9b76bcfd75a1d67fce8ddf1",
+      "match": true
+    },
+    {
+      "code": "SE503L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\SE503L1\\SE503L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\SE503L1\\SE503L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "8e89b6e8c5a2b100a9b772618bbd7333a89bc84250cdacdca8795a10b5a9076a",
+      "actual_sha256": "8e89b6e8c5a2b100a9b772618bbd7333a89bc84250cdacdca8795a10b5a9076a",
+      "match": true
+    },
+    {
+      "code": "SK006L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\SK006L1\\SK006L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\SK006L1\\SK006L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "5543e985a622b042ef3befaa93510d08c2edffbbd693932ee824dca4718046f6",
+      "actual_sha256": "5543e985a622b042ef3befaa93510d08c2edffbbd693932ee824dca4718046f6",
+      "match": true
+    },
+    {
+      "code": "SK008L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\SK008L1\\SK008L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\SK008L1\\SK008L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "7b5bd2f3091a09354a1bb72ac1b0269e7520df5674f12c2f2256bb0289a1917e",
+      "actual_sha256": "7b5bd2f3091a09354a1bb72ac1b0269e7520df5674f12c2f2256bb0289a1917e",
+      "match": true
+    },
+    {
+      "code": "UK006L3",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\UK006L3\\UK006L3_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\UK006L3\\UK006L3_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "08b727bb91bb012e289578b1ff5c0493d0c70aa7934c00823fa2948810bc1b95",
+      "actual_sha256": "08b727bb91bb012e289578b1ff5c0493d0c70aa7934c00823fa2948810bc1b95",
+      "match": true
+    },
+    {
+      "code": "UK040L0",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\UK040L0\\UK040L0_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\UK040L0\\UK040L0_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "d390426cd55b325257aaa36cbcac4b5b835c5eeb8e274454247b32af8d240767",
+      "actual_sha256": "d390426cd55b325257aaa36cbcac4b5b835c5eeb8e274454247b32af8d240767",
+      "match": true
+    },
+    {
+      "code": "UK513L0",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\UK513L0\\UK513L0_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\UK513L0\\UK513L0_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "36a6a5fb8cda06dec2e633621a827d0d486fed0c8eff407cf4318eb4c6420da2",
+      "actual_sha256": "36a6a5fb8cda06dec2e633621a827d0d486fed0c8eff407cf4318eb4c6420da2",
+      "match": true
+    },
+    {
+      "code": "UK516L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\UK516L1\\UK516L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\UK516L1\\UK516L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "075be7dafa22311f16e27a26c9bf2a806898c8b47ddd0b28d8242dab8eb84f59",
+      "actual_sha256": "075be7dafa22311f16e27a26c9bf2a806898c8b47ddd0b28d8242dab8eb84f59",
+      "match": true
+    },
+    {
+      "code": "UK557L1",
+      "path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\UK557L1\\UK557L1_osm_network_clipped_epsg3035.parquet",
+      "resolved_path": "D:\\MLWork\\europe_activity_population_accessibility_jtg\\results\\jtg_functional_expansion_20260901\\tagged_network_expansion\\UK557L1\\UK557L1_osm_network_clipped_epsg3035.parquet",
+      "expected_sha256": "52ce41978cabd8c70c7cc7acb5cf149932ec1eaa0a0b2882bcea5d6ef4709af1",
+      "actual_sha256": "52ce41978cabd8c70c7cc7acb5cf149932ec1eaa0a0b2882bcea5d6ef4709af1",
+      "match": true
+    }
+  ],
+  "scope": "Frozen per-city network parquet matches acquisition-time manifest. Does not verify current raw country PBF or additional vehicle tags."
+}

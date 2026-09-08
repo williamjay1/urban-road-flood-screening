@@ -1,0 +1,499 @@
+{
+  "status": "PASS_REPLAY_NO_ATTRITION",
+  "source_sha256": "4b5423cb8a551b6c70506ca6271c221ab0b00f99fac961d5e4a31f15de0352bd",
+  "original_draw_created_utc": "2026-08-29T17:01:49.647766+00:00",
+  "source_records": 728,
+  "listed_exclusion_codes": [
+    "CZ010L1",
+    "DE003L2",
+    "DE032L1",
+    "EL002L1",
+    "ES007L2",
+    "FR006L2",
+    "FR009L2",
+    "IT002L2",
+    "PL013L2",
+    "PT003L1",
+    "SE008L1",
+    "SI001L1"
+  ],
+  "actually_excluded_codes": [
+    "DE032L1",
+    "ES007L2",
+    "FR006L2",
+    "FR009L2",
+    "PL013L2",
+    "PT003L1",
+    "SE008L1"
+  ],
+  "listed_exclusion_codes_absent_from_source": [
+    "CZ010L1",
+    "DE003L2",
+    "EL002L1",
+    "IT002L2",
+    "SI001L1"
+  ],
+  "eligible_frame_N": 721,
+  "sample_n": 36,
+  "strata": {
+    "north__small": {
+      "N": 58,
+      "n": 3,
+      "inclusion_probability": 0.05172413793103448
+    },
+    "north__medium": {
+      "N": 25,
+      "n": 3,
+      "inclusion_probability": 0.12
+    },
+    "north__large": {
+      "N": 60,
+      "n": 3,
+      "inclusion_probability": 0.05
+    },
+    "west__small": {
+      "N": 51,
+      "n": 3,
+      "inclusion_probability": 0.058823529411764705
+    },
+    "west__medium": {
+      "N": 80,
+      "n": 3,
+      "inclusion_probability": 0.0375
+    },
+    "west__large": {
+      "N": 94,
+      "n": 3,
+      "inclusion_probability": 0.031914893617021274
+    },
+    "central_east__small": {
+      "N": 44,
+      "n": 3,
+      "inclusion_probability": 0.06818181818181818
+    },
+    "central_east__medium": {
+      "N": 67,
+      "n": 3,
+      "inclusion_probability": 0.04477611940298507
+    },
+    "central_east__large": {
+      "N": 49,
+      "n": 3,
+      "inclusion_probability": 0.061224489795918366
+    },
+    "south__small": {
+      "N": 89,
+      "n": 3,
+      "inclusion_probability": 0.033707865168539325
+    },
+    "south__medium": {
+      "N": 69,
+      "n": 3,
+      "inclusion_probability": 0.043478260869565216
+    },
+    "south__large": {
+      "N": 35,
+      "n": 3,
+      "inclusion_probability": 0.08571428571428572
+    }
+  },
+  "selected": [
+    {
+      "code": "BE004L2",
+      "name": "Charleroi",
+      "country": "BE",
+      "macroregion": "west",
+      "area_km2": 1097.189160438627,
+      "area_stratum": "medium",
+      "stratum": "west__medium",
+      "inclusion_probability": 0.0375,
+      "design_weight": 26.666666666666668
+    },
+    {
+      "code": "CZ004L2",
+      "name": "Plzeň",
+      "country": "CZ",
+      "macroregion": "central_east",
+      "area_km2": 1960.3620559452386,
+      "area_stratum": "large",
+      "stratum": "central_east__large",
+      "inclusion_probability": 0.061224489795918366,
+      "design_weight": 16.333333333333332
+    },
+    {
+      "code": "DE058L1",
+      "name": "Lüneburg",
+      "country": "DE",
+      "macroregion": "west",
+      "area_km2": 1327.082864165243,
+      "area_stratum": "medium",
+      "stratum": "west__medium",
+      "inclusion_probability": 0.0375,
+      "design_weight": 26.666666666666668
+    },
+    {
+      "code": "DE508L0",
+      "name": "Krefeld",
+      "country": "DE",
+      "macroregion": "west",
+      "area_km2": 136.76225723258784,
+      "area_stratum": "small",
+      "stratum": "west__small",
+      "inclusion_probability": 0.058823529411764705,
+      "design_weight": 17.0
+    },
+    {
+      "code": "DE544L1",
+      "name": "Zwickau",
+      "country": "DE",
+      "macroregion": "west",
+      "area_km2": 949.521477042253,
+      "area_stratum": "medium",
+      "stratum": "west__medium",
+      "inclusion_probability": 0.0375,
+      "design_weight": 26.666666666666668
+    },
+    {
+      "code": "ES004L3",
+      "name": "Sevilla",
+      "country": "ES",
+      "macroregion": "south",
+      "area_km2": 4682.901445644243,
+      "area_stratum": "large",
+      "stratum": "south__large",
+      "inclusion_probability": 0.08571428571428572,
+      "design_weight": 11.666666666666666
+    },
+    {
+      "code": "ES017L2",
+      "name": "Badajoz",
+      "country": "ES",
+      "macroregion": "south",
+      "area_km2": 2188.709411419004,
+      "area_stratum": "large",
+      "stratum": "south__large",
+      "inclusion_probability": 0.08571428571428572,
+      "design_weight": 11.666666666666666
+    },
+    {
+      "code": "ES054L1",
+      "name": "Benidorm",
+      "country": "ES",
+      "macroregion": "south",
+      "area_km2": 203.2494014839229,
+      "area_stratum": "small",
+      "stratum": "south__small",
+      "inclusion_probability": 0.033707865168539325,
+      "design_weight": 29.666666666666668
+    },
+    {
+      "code": "ES059L1",
+      "name": "Zamora",
+      "country": "ES",
+      "macroregion": "south",
+      "area_km2": 341.8722954760093,
+      "area_stratum": "small",
+      "stratum": "south__small",
+      "inclusion_probability": 0.033707865168539325,
+      "design_weight": 29.666666666666668
+    },
+    {
+      "code": "ES515L1",
+      "name": "Burgos",
+      "country": "ES",
+      "macroregion": "south",
+      "area_km2": 1493.4982865924194,
+      "area_stratum": "large",
+      "stratum": "south__large",
+      "inclusion_probability": 0.08571428571428572,
+      "design_weight": 11.666666666666666
+    },
+    {
+      "code": "FR010L2",
+      "name": "FUA of Montpellier",
+      "country": "FR",
+      "macroregion": "west",
+      "area_km2": 2228.715118167052,
+      "area_stratum": "large",
+      "stratum": "west__large",
+      "inclusion_probability": 0.031914893617021274,
+      "design_weight": 31.333333333333332
+    },
+    {
+      "code": "FR021L2",
+      "name": "FUA of Poitiers",
+      "country": "FR",
+      "macroregion": "west",
+      "area_km2": 2501.3638132477286,
+      "area_stratum": "large",
+      "stratum": "west__large",
+      "inclusion_probability": 0.031914893617021274,
+      "design_weight": 31.333333333333332
+    },
+    {
+      "code": "FR036L2",
+      "name": "FUA of Angers",
+      "country": "FR",
+      "macroregion": "west",
+      "area_km2": 2360.6506885558333,
+      "area_stratum": "large",
+      "stratum": "west__large",
+      "inclusion_probability": 0.031914893617021274,
+      "design_weight": 31.333333333333332
+    },
+    {
+      "code": "HU006L2",
+      "name": "Szeged",
+      "country": "HU",
+      "macroregion": "central_east",
+      "area_km2": 1609.2034819578942,
+      "area_stratum": "large",
+      "stratum": "central_east__large",
+      "inclusion_probability": 0.061224489795918366,
+      "design_weight": 16.333333333333332
+    },
+    {
+      "code": "HU012L1",
+      "name": "Tatabánya",
+      "country": "HU",
+      "macroregion": "central_east",
+      "area_km2": 697.2184960715364,
+      "area_stratum": "medium",
+      "stratum": "central_east__medium",
+      "inclusion_probability": 0.04477611940298507,
+      "design_weight": 22.333333333333332
+    },
+    {
+      "code": "IT006L3",
+      "name": "Genova",
+      "country": "IT",
+      "macroregion": "south",
+      "area_km2": 1196.042749134554,
+      "area_stratum": "medium",
+      "stratum": "south__medium",
+      "inclusion_probability": 0.043478260869565216,
+      "design_weight": 23.0
+    },
+    {
+      "code": "IT014L2",
+      "name": "Trento",
+      "country": "IT",
+      "macroregion": "south",
+      "area_km2": 974.4260987301053,
+      "area_stratum": "medium",
+      "stratum": "south__medium",
+      "inclusion_probability": 0.043478260869565216,
+      "design_weight": 23.0
+    },
+    {
+      "code": "IT023L2",
+      "name": "Potenza",
+      "country": "IT",
+      "macroregion": "south",
+      "area_km2": 1383.779814588555,
+      "area_stratum": "medium",
+      "stratum": "south__medium",
+      "inclusion_probability": 0.043478260869565216,
+      "design_weight": 23.0
+    },
+    {
+      "code": "LT502L0",
+      "name": "Šiauliai",
+      "country": "LT",
+      "macroregion": "north",
+      "area_km2": 81.12975079663798,
+      "area_stratum": "small",
+      "stratum": "north__small",
+      "inclusion_probability": 0.05172413793103448,
+      "design_weight": 19.333333333333332
+    },
+    {
+      "code": "NL020L3",
+      "name": "Roosendaal",
+      "country": "NL",
+      "macroregion": "west",
+      "area_km2": 246.97332078263761,
+      "area_stratum": "small",
+      "stratum": "west__small",
+      "inclusion_probability": 0.058823529411764705,
+      "design_weight": 17.0
+    },
+    {
+      "code": "NL529L3",
+      "name": "Greater Soest   ",
+      "country": "NL",
+      "macroregion": "west",
+      "area_km2": 79.54956867504269,
+      "area_stratum": "small",
+      "stratum": "west__small",
+      "inclusion_probability": 0.058823529411764705,
+      "design_weight": 17.0
+    },
+    {
+      "code": "PL011L2",
+      "name": "Białystok",
+      "country": "PL",
+      "macroregion": "central_east",
+      "area_km2": 2236.3544800306795,
+      "area_stratum": "large",
+      "stratum": "central_east__large",
+      "inclusion_probability": 0.061224489795918366,
+      "design_weight": 16.333333333333332
+    },
+    {
+      "code": "PT016L1",
+      "name": "Viana do Castelo",
+      "country": "PT",
+      "macroregion": "south",
+      "area_km2": 318.99921232639326,
+      "area_stratum": "small",
+      "stratum": "south__small",
+      "inclusion_probability": 0.033707865168539325,
+      "design_weight": 29.666666666666668
+    },
+    {
+      "code": "RO007L1",
+      "name": "Bacău",
+      "country": "RO",
+      "macroregion": "central_east",
+      "area_km2": 221.21607373123578,
+      "area_stratum": "small",
+      "stratum": "central_east__small",
+      "inclusion_probability": 0.06818181818181818,
+      "design_weight": 14.666666666666666
+    },
+    {
+      "code": "RO021L1",
+      "name": "Roman",
+      "country": "RO",
+      "macroregion": "central_east",
+      "area_km2": 144.58487824182825,
+      "area_stratum": "small",
+      "stratum": "central_east__small",
+      "inclusion_probability": 0.06818181818181818,
+      "design_weight": 14.666666666666666
+    },
+    {
+      "code": "RO512L1",
+      "name": "Suceava",
+      "country": "RO",
+      "macroregion": "central_east",
+      "area_km2": 398.3599567401663,
+      "area_stratum": "small",
+      "stratum": "central_east__small",
+      "inclusion_probability": 0.06818181818181818,
+      "design_weight": 14.666666666666666
+    },
+    {
+      "code": "SE004L1",
+      "name": "Jönköping",
+      "country": "SE",
+      "macroregion": "north",
+      "area_km2": 3471.6813846299656,
+      "area_stratum": "large",
+      "stratum": "north__large",
+      "inclusion_probability": 0.05,
+      "design_weight": 20.0
+    },
+    {
+      "code": "SE007L1",
+      "name": "Linköping",
+      "country": "SE",
+      "macroregion": "north",
+      "area_km2": 4231.711524464463,
+      "area_stratum": "large",
+      "stratum": "north__large",
+      "inclusion_probability": 0.05,
+      "design_weight": 20.0
+    },
+    {
+      "code": "SE503L1",
+      "name": "Helsingborg",
+      "country": "SE",
+      "macroregion": "north",
+      "area_km2": 1133.0624538395584,
+      "area_stratum": "medium",
+      "stratum": "north__medium",
+      "inclusion_probability": 0.12,
+      "design_weight": 8.333333333333334
+    },
+    {
+      "code": "SK006L1",
+      "name": "Žilina",
+      "country": "SK",
+      "macroregion": "central_east",
+      "area_km2": 815.0234814206765,
+      "area_stratum": "medium",
+      "stratum": "central_east__medium",
+      "inclusion_probability": 0.04477611940298507,
+      "design_weight": 22.333333333333332
+    },
+    {
+      "code": "SK008L1",
+      "name": "Trenčín",
+      "country": "SK",
+      "macroregion": "central_east",
+      "area_km2": 674.9848985406452,
+      "area_stratum": "medium",
+      "stratum": "central_east__medium",
+      "inclusion_probability": 0.04477611940298507,
+      "design_weight": 22.333333333333332
+    },
+    {
+      "code": "UK006L3",
+      "name": "Liverpool",
+      "country": "UK",
+      "macroregion": "north",
+      "area_km2": 836.1065092776083,
+      "area_stratum": "medium",
+      "stratum": "north__medium",
+      "inclusion_probability": 0.12,
+      "design_weight": 8.333333333333334
+    },
+    {
+      "code": "UK040L0",
+      "name": "Tunbridge Wells",
+      "country": "UK",
+      "macroregion": "north",
+      "area_km2": 331.27667275692727,
+      "area_stratum": "small",
+      "stratum": "north__small",
+      "inclusion_probability": 0.05172413793103448,
+      "design_weight": 19.333333333333332
+    },
+    {
+      "code": "UK513L0",
+      "name": "Medway",
+      "country": "UK",
+      "macroregion": "north",
+      "area_km2": 192.60943413951307,
+      "area_stratum": "small",
+      "stratum": "north__small",
+      "inclusion_probability": 0.05172413793103448,
+      "design_weight": 19.333333333333332
+    },
+    {
+      "code": "UK516L1",
+      "name": "Plymouth",
+      "country": "UK",
+      "macroregion": "north",
+      "area_km2": 2135.707440450994,
+      "area_stratum": "large",
+      "stratum": "north__large",
+      "inclusion_probability": 0.05,
+      "design_weight": 20.0
+    },
+    {
+      "code": "UK557L1",
+      "name": "Blackburn with Darwen",
+      "country": "UK",
+      "macroregion": "north",
+      "area_km2": 795.1411520797507,
+      "area_stratum": "medium",
+      "stratum": "north__medium",
+      "inclusion_probability": 0.12,
+      "design_weight": 8.333333333333334
+    }
+  ],
+  "interpretation": "The implemented procedure is equal-allocation stratified simple random sampling without replacement from 721 eligible records, with known inclusion probabilities 3/N_h. Seven of the twelve listed exclusion identifiers occur in the actual source; the other five do not. Reproducible RNG does not make it a nonprobability design. This does not provide inference to all European settlements, actual traffic demand, or current urban boundaries. Any frame-wide numerical inference must use the reconstructed design weights and uncertainty, not the unweighted balanced-city mean. The original gate amendment retained rather than replaced Medway, so all selected cities remain."
+}

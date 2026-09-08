@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "input_files_hashed": 5,
+  "cities": [
+    {
+      "code": "BE004L2",
+      "comparisons": 264,
+      "max_error": 8.881784197001252e-16,
+      "response_comparisons": 288,
+      "response_max_error": 0.0
+    }
+  ]
+}

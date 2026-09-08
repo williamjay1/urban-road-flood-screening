@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "city": "ES059L1",
+  "array_max_errors": {
+    "cell_xy": 0.0,
+    "cell_mass": 0.0,
+    "cell_raw_population": 0.0,
+    "cell_area_fraction": 0.0,
+    "grid_indices": 0.0,
+    "cell_to_endpoint": 0.0,
+    "cell_snap_m": 0.0,
+    "strategic_nodes": 0.0,
+    "expanded_nodes": 0.0,
+    "endpoint_xy": 0.0,
+    "endpoint_mass": 0.0
+  }
+}

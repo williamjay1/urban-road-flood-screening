@@ -1,0 +1,83 @@
+{
+  "code": "DE544L1",
+  "rows": 33254,
+  "nodes": 157631,
+  "segments": 164223,
+  "baseline_pair_reachability": 1.0,
+  "frozen_legacy_anchor_weight_total": 1.0,
+  "scope": "Adds all road classes present in the source extraction, retaining the same direction/access interpretation and 1m coordinate topology. Does not establish complete public vehicle access or recover omitted roads.",
+  "scenarios": [
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "D": 0.511428305866785,
+      "U": 0.3944489070899018
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "D": 0.5103301101457748,
+      "U": 0.3944489070899018
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "D": 0.44827477672105104,
+      "U": 0.3944489070899018
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "D": 0.3989674406642989,
+      "U": 0.0
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "D": 0.37954594248058726,
+      "U": 0.0
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "D": 0.3345625983321153,
+      "U": 0.0
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "D": 0.3966757794869014,
+      "U": 0.0
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "D": 0.3772542813031897,
+      "U": 0.0
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "D": 0.3322709371547179,
+      "U": 0.0
+    }
+  ]
+}

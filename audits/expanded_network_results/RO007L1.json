@@ -1,0 +1,83 @@
+{
+  "code": "RO007L1",
+  "rows": 3852,
+  "nodes": 22456,
+  "segments": 23810,
+  "baseline_pair_reachability": 0.9166666666666666,
+  "frozen_legacy_anchor_weight_total": 0.9999999999999999,
+  "scope": "Adds all road classes present in the source extraction, retaining the same direction/access interpretation and 1m coordinate topology. Does not establish complete public vehicle access or recover omitted roads.",
+  "scenarios": [
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "D": 0.46137330876520033,
+      "U": 0.4613733087652003
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "D": 0.46137330876520033,
+      "U": 0.4613733087652003
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "D": 0.45513909117585605,
+      "U": 0.4396268791844508
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "D": 0.37035606290558504,
+      "U": 0.35845968958138136
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "D": 0.36201892822278686,
+      "U": 0.35845968958138136
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "D": 0.29938109466447865,
+      "U": 0.21315448059053715
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "D": 0.37035606290558504,
+      "U": 0.35845968958138136
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "D": 0.36201892822278686,
+      "U": 0.35845968958138136
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "D": 0.29938109466447865,
+      "U": 0.21315448059053715
+    }
+  ]
+}

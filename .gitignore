@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+mplcache/
+article/
+recomputed/
+sources/boundaries.geojson
+sources/JRC_1K_POP_2018.tif
+sources/JRC-GEOSTAT_2018_TechnicalFactsheet.pdf
+context_inputs/CNTR_RG_10M_2024_4326.geojson

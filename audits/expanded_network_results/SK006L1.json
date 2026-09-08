@@ -1,0 +1,83 @@
+{
+  "code": "SK006L1",
+  "rows": 14038,
+  "nodes": 68027,
+  "segments": 70724,
+  "baseline_pair_reachability": 0.9,
+  "frozen_legacy_anchor_weight_total": 1.0,
+  "scope": "Adds all road classes present in the source extraction, retaining the same direction/access interpretation and 1m coordinate topology. Does not establish complete public vehicle access or recover omitted roads.",
+  "scenarios": [
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "D": 0.7385103748927535,
+      "U": 0.7385103748927535
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "D": 0.7385103748927535,
+      "U": 0.7385103748927535
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "D": 0.7385103748927535,
+      "U": 0.7385103748927535
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "D": 0.7385103748927535,
+      "U": 0.7385103748927535
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "D": 0.7385103748927535,
+      "U": 0.7385103748927535
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "D": 0.7385103748927535,
+      "U": 0.7385103748927535
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "D": 0.7385103748927535,
+      "U": 0.7385103748927535
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "D": 0.7385103748927535,
+      "U": 0.7385103748927535
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "D": 0.7385103748927535,
+      "U": 0.7385103748927535
+    }
+  ]
+}

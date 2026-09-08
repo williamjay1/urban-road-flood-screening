@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "cases": 8,
+  "sources": [
+    "https://wiki.openstreetmap.org/wiki/Key:access",
+    "https://wiki.openstreetmap.org/wiki/Key:oneway"
+  ]
+}

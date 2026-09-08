@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "comparisons": [
+    {
+      "figure": "decision_loss.pdf",
+      "identical": true,
+      "size_equal": true
+    },
+    {
+      "figure": "event_correspondence.pdf",
+      "identical": true,
+      "size_equal": true
+    },
+    {
+      "figure": "hazard_population.pdf",
+      "identical": true,
+      "size_equal": true
+    },
+    {
+      "figure": "physical_contrasts.pdf",
+      "identical": true,
+      "size_equal": true
+    },
+    {
+      "figure": "population_screening.pdf",
+      "identical": true,
+      "size_equal": true
+    },
+    {
+      "figure": "study_areas.pdf",
+      "identical": true,
+      "size_equal": true
+    }
+  ]
+}

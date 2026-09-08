@@ -1,0 +1,2151 @@
+{
+  "eligible_frame_N": 721,
+  "sample_n": 36,
+  "results": {
+    "dense_od_results": {
+      "48": {
+        "road_scope": {
+          "mean": 0.021822260830542756,
+          "design_standard_error": 0.003826808012208799,
+          "approximate_95_interval": [
+            0.013365897192226556,
+            0.030278624468858956
+          ],
+          "satterthwaite_df": 10.652782345588301,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.024928510082472377,
+              "variance_component": 3.75685047395809e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.027971729885188885,
+              "variance_component": 1.1408631861714983e-07
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.0429889444249353,
+              "variance_component": 1.4841650978815412e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.00684609336326486,
+              "variance_component": 2.0427419326070605e-07
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.021655155546499577,
+              "variance_component": 3.0518089588487578e-06
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.012977038651914232,
+              "variance_component": 1.481599340230145e-07
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.009013748096399229,
+              "variance_component": 2.0476504443080082e-07
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.014556617707104258,
+              "variance_component": 2.2726187642684324e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.038039968793609505,
+              "variance_component": 1.6547895562294327e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.011256792420197823,
+              "variance_component": 1.8448862333419396e-06
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.03875465089881092,
+              "variance_component": 3.240310731454466e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.022747986056162867,
+              "variance_component": 4.8849731926106247e-08
+            }
+          ]
+        },
+        "bridge": {
+          "mean": 0.045765240767486656,
+          "design_standard_error": 0.01413035210089028,
+          "approximate_95_interval": [
+            0.011240328704542113,
+            0.0802901528304312
+          ],
+          "satterthwaite_df": 6.0366449308779355,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.013635964171503706,
+              "variance_component": 1.1410163208520286e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 3.837417862676921e-05,
+              "variance_component": 1.558010376064133e-12
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.017987846828146387,
+              "variance_component": 1.0711208521587584e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.12763274965082277,
+              "variance_component": 9.739076919999182e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.031639459970899585,
+              "variance_component": 4.45519284886131e-06
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.1239650346122569,
+              "variance_component": 1.6861106013909098e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.002889308626065179,
+              "variance_component": 6.886080820015188e-08
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.11132815924365025,
+              "variance_component": 5.373947741225932e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.04625235532061842,
+              "variance_component": 2.2908861451275346e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.0020772317724719416,
+              "variance_component": 3.779426074095398e-08
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.07365656223616272,
+              "variance_component": 1.9926497688751696e-06
+            }
+          ]
+        },
+        "spurious_bound": {
+          "mean": 0.01683662759639991,
+          "design_standard_error": 0.007722359242113754,
+          "approximate_95_interval": [
+            -0.004559754393516399,
+            0.038233009586316216
+          ],
+          "satterthwaite_df": 4.021112998750603,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.01477129334557662,
+              "variance_component": 1.4354650485161432e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.042730973356631036,
+              "variance_component": 1.3189503897784954e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.04914063316724033,
+              "variance_component": 3.973564000795061e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.024916037403168025,
+              "variance_component": 2.6917909618530608e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.0007173794453399865,
+              "variance_component": 7.577322754142387e-09
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.027978274009103948,
+              "variance_component": 2.574855025400805e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            }
+          ]
+        },
+        "bridge_minus_scope": {
+          "mean": 0.023942979936943904,
+          "design_standard_error": 0.013378594316126256,
+          "approximate_95_interval": [
+            -0.007003124876916383,
+            0.05488908475080419
+          ],
+          "satterthwaite_df": 7.86128877745788,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": -0.01129254591096867,
+              "variance_component": 6.983809270228687e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": -0.027933355706562118,
+              "variance_component": 1.142235089621285e-07
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": -0.025001097596788913,
+              "variance_component": 4.497063236367831e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": -0.00684609336326486,
+              "variance_component": 2.0427419326070605e-07
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.10597759410432321,
+              "variance_component": 6.607401250721799e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.01866242131898535,
+              "variance_component": 4.7202500260788115e-06
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.11495128651585769,
+              "variance_component": 1.3786673398560316e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": -0.011667309081039079,
+              "variance_component": 1.6354303076940587e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.07328819045004074,
+              "variance_component": 5.100869216093665e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.0349955629004206,
+              "variance_component": 3.0056560388475947e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.036677419126338984,
+              "variance_component": 3.977727523118041e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.05090857617999985,
+              "variance_component": 1.4473135442403112e-06
+            }
+          ]
+        },
+        "bridge_minus_spurious": {
+          "mean": 0.028928613171086758,
+          "design_standard_error": 0.01643830995095793,
+          "approximate_95_interval": [
+            -0.009824469491858629,
+            0.06768169583403215
+          ],
+          "satterthwaite_df": 7.106101433378405,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.013635964171503706,
+              "variance_component": 1.1410163208520286e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 3.837417862676921e-05,
+              "variance_component": 1.558010376064133e-12
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.003216553482569766,
+              "variance_component": 4.254633604811681e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.08490177629419175,
+              "variance_component": 0.00011736972353698835
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": -0.017501173196340748,
+              "variance_component": 6.977483758810937e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.1239650346122569,
+              "variance_component": 1.6861106013909098e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.002889308626065179,
+              "variance_component": 6.886080820015188e-08
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.08641212184048223,
+              "variance_component": 3.2376710419909494e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.04553497587527844,
+              "variance_component": 2.3256770475441936e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.025901042236632005,
+              "variance_component": 3.1217239486547363e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.07365656223616272,
+              "variance_component": 1.9926497688751696e-06
+            }
+          ]
+        },
+        "scope_minus_spurious": {
+          "mean": 0.0049856332341428455,
+          "design_standard_error": 0.008333474214593446,
+          "approximate_95_interval": [
+            -0.016125202674411775,
+            0.026096469142697462
+          ],
+          "satterthwaite_df": 5.256868685271376,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.024928510082472377,
+              "variance_component": 3.75685047395809e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.027971729885188885,
+              "variance_component": 1.1408631861714983e-07
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.02821765107935868,
+              "variance_component": 2.0412846389202914e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.00684609336326486,
+              "variance_component": 2.0427419326070605e-07
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": -0.02107581781013146,
+              "variance_component": 1.8454142253026666e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": -0.0361635945153261,
+              "variance_component": 3.82167826921301e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.009013748096399229,
+              "variance_component": 2.0476504443080082e-07
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.014556617707104258,
+              "variance_component": 2.2726187642684324e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.013123931390441481,
+              "variance_component": 3.3650575441850144e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.010539412974857837,
+              "variance_component": 1.615995438288253e-06
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.010776376889706979,
+              "variance_component": 1.1974422801238204e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.022747986056162867,
+              "variance_component": 4.8849731926106247e-08
+            }
+          ]
+        }
+      },
+      "96": {
+        "road_scope": {
+          "mean": 0.019555537917080677,
+          "design_standard_error": 0.0035572020628226973,
+          "approximate_95_interval": [
+            0.011869368091293667,
+            0.027241707742867688
+          ],
+          "satterthwaite_df": 12.978372734223544,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.02156510547190023,
+              "variance_component": 2.77275104042805e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.02566267556139959,
+              "variance_component": 1.8408690609006282e-07
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.040794802349841223,
+              "variance_component": 5.14639579190904e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.004897211395172458,
+              "variance_component": 7.503908096006814e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.020920161108436235,
+              "variance_component": 2.4484463587263845e-06
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.012948879910964403,
+              "variance_component": 2.933368793776519e-07
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.009213015491864646,
+              "variance_component": 2.1558795986896234e-08
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.013120883861376794,
+              "variance_component": 6.168544411151808e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.03130975544611198,
+              "variance_component": 1.9195105831663284e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.01069376979610911,
+              "variance_component": 1.674063022882152e-06
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.028469659843562773,
+              "variance_component": 1.920254130516204e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.025261267173909308,
+              "variance_component": 2.1314569731017074e-07
+            }
+          ]
+        },
+        "bridge": {
+          "mean": 0.04824582241549902,
+          "design_standard_error": 0.01586979093419674,
+          "approximate_95_interval": [
+            0.009015162252380596,
+            0.08747648257861744
+          ],
+          "satterthwaite_df": 5.758221899059993,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.006618883540422806,
+              "variance_component": 2.6883736687979406e-07
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 4.103298130375688e-05,
+              "variance_component": 1.7813871069633866e-12
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.020642935046624084,
+              "variance_component": 1.7277422296236655e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 2.9422583385357395e-06,
+              "variance_component": 4.0766411945022045e-14
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.14225479123892196,
+              "variance_component": 0.00012775681532298808
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.02725100227456932,
+              "variance_component": 3.496866510186734e-06
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.11787329427644061,
+              "variance_component": 1.561499336841798e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0017315584351763429,
+              "variance_component": 2.4731960939358992e-08
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.12122046122919015,
+              "variance_component": 6.371405506159007e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.05554984812325562,
+              "variance_component": 3.72388459375217e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.008260674394958903,
+              "variance_component": 1.4938263748247078e-07
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.07038423545797867,
+              "variance_component": 1.8579920773296794e-06
+            }
+          ]
+        },
+        "spurious_bound": {
+          "mean": 0.015012155202381739,
+          "design_standard_error": 0.006352008089166365,
+          "approximate_95_interval": [
+            -0.0017182784316538899,
+            0.03174258883641737
+          ],
+          "satterthwaite_df": 4.628583186230148,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.0063845828439312345,
+              "variance_component": 2.681764452424722e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.03347710987402218,
+              "variance_component": 1.0154688122966397e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.038293103227865555,
+              "variance_component": 2.4129028781358145e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.01991766056190267,
+              "variance_component": 1.7201251111247017e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.0036646342620687924,
+              "variance_component": 1.9773302197935872e-07
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.04146160318960682,
+              "variance_component": 3.878255282163864e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            }
+          ]
+        },
+        "bridge_minus_scope": {
+          "mean": 0.028690284498418338,
+          "design_standard_error": 0.015522670678046937,
+          "approximate_95_interval": [
+            -0.007913694107180756,
+            0.06529426310401742
+          ],
+          "satterthwaite_df": 7.096854357237123,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": -0.014946221931477424,
+              "variance_component": 3.917492347321926e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": -0.025621642580095833,
+              "variance_component": 1.8454782943963652e-07
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": -0.020151867303217136,
+              "variance_component": 7.800008137636478e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": -0.004894269136833922,
+              "variance_component": 7.510688112465345e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.12133463013048572,
+              "variance_component": 9.489435092067809e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.014302122363604916,
+              "variance_component": 4.278485866384564e-06
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.10866027878457596,
+              "variance_component": 1.596762871498535e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": -0.01138932542620045,
+              "variance_component": 4.0466616615988525e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.08991070578307818,
+              "variance_component": 7.03261496423805e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.044856078327146505,
+              "variance_component": 4.5950469181901025e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.02020898544860387,
+              "variance_component": 2.9421620870882263e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.045122968284069365,
+              "variance_component": 1.2322445278706824e-06
+            }
+          ]
+        },
+        "bridge_minus_spurious": {
+          "mean": 0.03323366721311727,
+          "design_standard_error": 0.0175355769277778,
+          "approximate_95_interval": [
+            -0.00891711726049145,
+            0.07538445168672599
+          ],
+          "satterthwaite_df": 6.478911682654091,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.006618883540422806,
+              "variance_component": 2.6883736687979406e-07
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 4.103298130375688e-05,
+              "variance_component": 1.7813871069633866e-12
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.01425835220269285,
+              "variance_component": 2.8629994341732244e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 2.9422583385357395e-06,
+              "variance_component": 4.0766411945022045e-14
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.10877768136489978,
+              "variance_component": 0.0001527508042633504
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": -0.011042100953296238,
+              "variance_component": 4.4797139269636816e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.11787329427644061,
+              "variance_component": 1.561499336841798e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0017315584351763429,
+              "variance_component": 2.4731960939358992e-08
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.10130280066728747,
+              "variance_component": 4.449654458098446e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.05188521386118683,
+              "variance_component": 3.985610734110654e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.03320092879464792,
+              "variance_component": 4.966306705041278e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.07038423545797867,
+              "variance_component": 1.8579920773296794e-06
+            }
+          ]
+        },
+        "scope_minus_spurious": {
+          "mean": 0.004543382714698937,
+          "design_standard_error": 0.00703596815734091,
+          "approximate_95_interval": [
+            -0.012870606283778285,
+            0.02195737171317616
+          ],
+          "satterthwaite_df": 5.731257781586003,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.02156510547190023,
+              "variance_component": 2.77275104042805e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.02566267556139959,
+              "variance_component": 1.8408690609006282e-07
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.034410219505909986,
+              "variance_component": 7.880744926246572e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.004897211395172458,
+              "variance_component": 7.503908096006814e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": -0.012556948765585945,
+              "variance_component": 1.4077642354950197e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": -0.025344223316901154,
+              "variance_component": 2.5059278104258564e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.009213015491864646,
+              "variance_component": 2.1558795986896234e-08
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.013120883861376794,
+              "variance_component": 6.168544411151808e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.011392094884209308,
+              "variance_component": 4.4106713286644975e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.007029135534040318,
+              "variance_component": 7.211135863916754e-07
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.012991943346044052,
+              "variance_component": 5.646320823352182e-07
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.025261267173909308,
+              "variance_component": 2.1314569731017074e-07
+            }
+          ]
+        }
+      }
+    },
+    "dense_convergence_results": {
+      "96": {
+        "road_scope": {
+          "mean": 0.019555537917080663,
+          "design_standard_error": 0.003557202062822699,
+          "approximate_95_interval": [
+            0.01186936809129365,
+            0.027241707742867674
+          ],
+          "satterthwaite_df": 12.978372734223544,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.02156510547190023,
+              "variance_component": 2.77275104042805e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.025662675561399572,
+              "variance_component": 1.8408690609006269e-07
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.04079480234984121,
+              "variance_component": 5.146395791909058e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.004897211395172458,
+              "variance_component": 7.503908096006814e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.020920161108436194,
+              "variance_component": 2.4484463587263947e-06
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.012948879910964375,
+              "variance_component": 2.933368793776524e-07
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.009213015491864618,
+              "variance_component": 2.155879598689597e-08
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.013120883861376794,
+              "variance_component": 6.168544411151808e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.03130975544611197,
+              "variance_component": 1.919510583166329e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.01069376979610911,
+              "variance_component": 1.674063022882152e-06
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.028469659843562773,
+              "variance_component": 1.920254130516204e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.02526126717390929,
+              "variance_component": 2.1314569731017116e-07
+            }
+          ]
+        },
+        "bridge": {
+          "mean": 0.048245822415499004,
+          "design_standard_error": 0.015869790934196742,
+          "approximate_95_interval": [
+            0.009015162252380575,
+            0.08747648257861743
+          ],
+          "satterthwaite_df": 5.758221899059993,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.006618883540422806,
+              "variance_component": 2.6883736687979406e-07
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 4.103298130374763e-05,
+              "variance_component": 1.781387106962583e-12
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.020642935046624067,
+              "variance_component": 1.727742229623667e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 2.9422583385357395e-06,
+              "variance_component": 4.0766411945022045e-14
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.14225479123892193,
+              "variance_component": 0.00012775681532298808
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.02725100227456932,
+              "variance_component": 3.496866510186734e-06
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.1178732942764406,
+              "variance_component": 1.561499336841797e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0017315584351763429,
+              "variance_component": 2.4731960939358992e-08
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.12122046122919018,
+              "variance_component": 6.371405506159013e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.05554984812325562,
+              "variance_component": 3.72388459375217e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.008260674394958903,
+              "variance_component": 1.4938263748247078e-07
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.07038423545797869,
+              "variance_component": 1.857992077329677e-06
+            }
+          ]
+        },
+        "spurious_bound": {
+          "mean": 0.015012155202381732,
+          "design_standard_error": 0.006352008089166362,
+          "approximate_95_interval": [
+            -0.001718278431653883,
+            0.03174258883641735
+          ],
+          "satterthwaite_df": 4.628583186230152,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.006384582843931228,
+              "variance_component": 2.681764452424717e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.03347710987402219,
+              "variance_component": 1.0154688122966407e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.03829310322786553,
+              "variance_component": 2.4129028781358104e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.019917660561902653,
+              "variance_component": 1.7201251111246985e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.003664634262068774,
+              "variance_component": 1.977330219793567e-07
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.04146160318960682,
+              "variance_component": 3.878255282163864e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            }
+          ]
+        },
+        "bridge_minus_scope": {
+          "mean": 0.02869028449841834,
+          "design_standard_error": 0.015522670678046937,
+          "approximate_95_interval": [
+            -0.007913694107180753,
+            0.06529426310401744
+          ],
+          "satterthwaite_df": 7.096854357237123,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": -0.014946221931477424,
+              "variance_component": 3.917492347321926e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": -0.025621642580095822,
+              "variance_component": 1.845478294396363e-07
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": -0.020151867303217143,
+              "variance_component": 7.800008137636489e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": -0.004894269136833922,
+              "variance_component": 7.510688112465345e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.12133463013048575,
+              "variance_component": 9.489435092067803e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.014302122363604943,
+              "variance_component": 4.278485866384552e-06
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.10866027878457597,
+              "variance_component": 1.596762871498534e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": -0.01138932542620045,
+              "variance_component": 4.0466616615988525e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.0899107057830782,
+              "variance_component": 7.032614964238055e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.044856078327146505,
+              "variance_component": 4.5950469181901025e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.02020898544860387,
+              "variance_component": 2.9421620870882263e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.0451229682840694,
+              "variance_component": 1.2322445278706784e-06
+            }
+          ]
+        },
+        "bridge_minus_spurious": {
+          "mean": 0.03323366721311728,
+          "design_standard_error": 0.0175355769277778,
+          "approximate_95_interval": [
+            -0.00891711726049143,
+            0.075384451686726
+          ],
+          "satterthwaite_df": 6.478911682654088,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.006618883540422806,
+              "variance_component": 2.6883736687979406e-07
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 4.103298130374763e-05,
+              "variance_component": 1.781387106962583e-12
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.014258352202692838,
+              "variance_component": 2.8629994341732235e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 2.9422583385357395e-06,
+              "variance_component": 4.0766411945022045e-14
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.10877768136489974,
+              "variance_component": 0.00015275080426335042
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": -0.01104210095329621,
+              "variance_component": 4.4797139269636776e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.1178732942764406,
+              "variance_component": 1.561499336841797e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0017315584351763429,
+              "variance_component": 2.4731960939358992e-08
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.10130280066728753,
+              "variance_component": 4.449654458098452e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.05188521386118685,
+              "variance_component": 3.9856107341106536e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.03320092879464792,
+              "variance_component": 4.966306705041278e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.07038423545797869,
+              "variance_component": 1.857992077329677e-06
+            }
+          ]
+        },
+        "scope_minus_spurious": {
+          "mean": 0.004543382714698931,
+          "design_standard_error": 0.00703596815734091,
+          "approximate_95_interval": [
+            -0.012870606283778292,
+            0.021957371713176153
+          ],
+          "satterthwaite_df": 5.731257781586003,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.02156510547190023,
+              "variance_component": 2.77275104042805e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.025662675561399572,
+              "variance_component": 1.8408690609006269e-07
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.03441021950590998,
+              "variance_component": 7.880744926246571e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.004897211395172458,
+              "variance_component": 7.503908096006814e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": -0.012556948765586001,
+              "variance_component": 1.4077642354950206e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": -0.025344223316901154,
+              "variance_component": 2.5059278104258564e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.009213015491864618,
+              "variance_component": 2.155879598689597e-08
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.013120883861376794,
+              "variance_component": 6.168544411151808e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.011392094884209317,
+              "variance_component": 4.410671328664496e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.007029135534040336,
+              "variance_component": 7.211135863916792e-07
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.012991943346044052,
+              "variance_component": 5.646320823352182e-07
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.02526126717390929,
+              "variance_component": 2.1314569731017116e-07
+            }
+          ]
+        }
+      },
+      "192": {
+        "road_scope": {
+          "mean": 0.017397831261335126,
+          "design_standard_error": 0.0030158726711249357,
+          "approximate_95_interval": [
+            0.010922619510868599,
+            0.023873043011801653
+          ],
+          "satterthwaite_df": 13.844825180574238,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.022149792098047405,
+              "variance_component": 1.913446350305888e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.018886383998103596,
+              "variance_component": 9.162151892616757e-08
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.04022046716975372,
+              "variance_component": 6.600622329903977e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.005777548773111367,
+              "variance_component": 6.485565473173711e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.018160853186244805,
+              "variance_component": 1.6223003905738272e-06
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.013115258966200286,
+              "variance_component": 2.714197222197341e-07
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.006848706595861546,
+              "variance_component": 3.6341732168316686e-08
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.011939926552170133,
+              "variance_component": 4.941665230973391e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.0247258288121298,
+              "variance_component": 1.1467102994297489e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.010726545316369093,
+              "variance_component": 1.6321659092689591e-06
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.018240588476524468,
+              "variance_component": 9.24440713590388e-07
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.02477875038292195,
+              "variance_component": 2.379569211357514e-07
+            }
+          ]
+        },
+        "bridge": {
+          "mean": 0.04415117583951808,
+          "design_standard_error": 0.01457792173363198,
+          "approximate_95_interval": [
+            0.00816514770772541,
+            0.08013720397131074
+          ],
+          "satterthwaite_df": 5.790530012930879,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.003306277442867978,
+              "variance_component": 6.708087855364272e-08
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 5.902895549493118e-05,
+              "variance_component": 3.6865689177121695e-12
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.01710076135620973,
+              "variance_component": 1.3446929010920147e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 4.197935666965258e-06,
+              "variance_component": 8.29874541235122e-14
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.13116764662992944,
+              "variance_component": 0.00010788472381361022
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.02805129633196779,
+              "variance_component": 4.826229249686585e-06
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.11606236718909763,
+              "variance_component": 1.4519740834806715e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0019519662064764927,
+              "variance_component": 3.142887506260198e-08
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.11166992182844886,
+              "variance_component": 5.406992989856785e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.04786459224631992,
+              "variance_component": 2.8250144972416662e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.0035123140574046274,
+              "variance_component": 2.7040343783165997e-08
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.06490326175417956,
+              "variance_component": 1.4947865347637975e-06
+            }
+          ]
+        },
+        "spurious_bound": {
+          "mean": 0.014703922923292097,
+          "design_standard_error": 0.006755199725682168,
+          "approximate_95_interval": [
+            -0.0029414482129131413,
+            0.03234929405949734
+          ],
+          "satterthwaite_df": 4.748273740336722,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.002974550426962213,
+              "variance_component": 5.821008698715664e-08
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.037034507927061255,
+              "variance_component": 1.4425675245769555e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.039423286893937946,
+              "variance_component": 2.5574336634872883e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.023220117369138746,
+              "variance_component": 2.337826103240892e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.0033165104986960328,
+              "variance_component": 1.6194989893150708e-07
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.03364566107839211,
+              "variance_component": 3.07472536405444e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            }
+          ]
+        },
+        "bridge_minus_scope": {
+          "mean": 0.026753344578182948,
+          "design_standard_error": 0.014286529160193986,
+          "approximate_95_interval": [
+            -0.007011282245692158,
+            0.06051797140205806
+          ],
+          "satterthwaite_df": 7.018092296184081,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": -0.01884351465517943,
+              "variance_component": 2.2580742034283756e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": -0.018827355042608667,
+              "variance_component": 9.225022546962372e-08
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": -0.02311970581354399,
+              "variance_component": 1.7321661153213204e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": -0.005773350837444402,
+              "variance_component": 6.49699052569797e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.11300679344368462,
+              "variance_component": 8.312137800657811e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.014936037365767504,
+              "variance_component": 4.0642971798749726e-06
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.10921366059323608,
+              "variance_component": 1.5638804381378493e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": -0.00998796034569364,
+              "variance_component": 2.801233607238307e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.08694409301631906,
+              "variance_component": 5.818131478525728e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.037138046929950826,
+              "variance_component": 3.612594102956916e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.01472827441911984,
+              "variance_component": 1.2486654642242434e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.04012451137125761,
+              "variance_component": 1.2969307879906931e-06
+            }
+          ]
+        },
+        "bridge_minus_spurious": {
+          "mean": 0.029447252916225984,
+          "design_standard_error": 0.016624543763350107,
+          "approximate_95_interval": [
+            -0.010997770385138099,
+            0.06989227621759006
+          ],
+          "satterthwaite_df": 6.146433078446923,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.003306277442867978,
+              "variance_component": 6.708087855364272e-08
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 5.902895549493118e-05,
+              "variance_component": 3.6865689177121695e-12
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.014126210929247518,
+              "variance_component": 1.7375541666467421e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 4.197935666965258e-06,
+              "variance_component": 8.29874541235122e-14
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.09413313870286817,
+              "variance_component": 0.00014210021794378288
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": -0.011371990561970155,
+              "variance_component": 4.859776231235484e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.11606236718909763,
+              "variance_component": 1.4519740834806715e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0019519662064764927,
+              "variance_component": 3.142887506260198e-08
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.08844980445931011,
+              "variance_component": 3.392166309821368e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.04454808174762389,
+              "variance_component": 3.0346366723861033e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.030133347020987484,
+              "variance_component": 3.5588502019405983e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.06490326175417956,
+              "variance_component": 1.4947865347637975e-06
+            }
+          ]
+        },
+        "scope_minus_spurious": {
+          "mean": 0.0026939083380430303,
+          "design_standard_error": 0.007562669475442585,
+          "approximate_95_interval": [
+            -0.016565978921734188,
+            0.021953795597820246
+          ],
+          "satterthwaite_df": 5.160605938184231,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.022149792098047405,
+              "variance_component": 1.913446350305888e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.018886383998103596,
+              "variance_component": 9.162151892616757e-08
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.037245916742791506,
+              "variance_component": 4.413051145535938e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.005777548773111367,
+              "variance_component": 6.485565473173711e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": -0.01887365474081645,
+              "variance_component": 1.777043509132183e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": -0.02630802792773766,
+              "variance_component": 3.0491943996174686e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.006848706595861546,
+              "variance_component": 3.6341732168316686e-08
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.011939926552170133,
+              "variance_component": 4.941665230973391e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.0015057114429910534,
+              "variance_component": 4.100996867138658e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.007410034817673061,
+              "variance_component": 7.658942557741837e-07
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.015405072601867645,
+              "variance_component": 7.850055694628692e-07
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.02477875038292195,
+              "variance_component": 2.379569211357514e-07
+            }
+          ]
+        }
+      },
+      "384": {
+        "road_scope": {
+          "mean": 0.017343411375764943,
+          "design_standard_error": 0.0029879088621165843,
+          "approximate_95_interval": [
+            0.010844268084169684,
+            0.023842554667360204
+          ],
+          "satterthwaite_df": 12.185093838109422,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.01906309484541159,
+              "variance_component": 1.2982558014135988e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.015339230317651949,
+              "variance_component": 6.545244017394719e-08
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.0354269058016676,
+              "variance_component": 3.9666062229596034e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.0059096329886437204,
+              "variance_component": 8.812538163008501e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.0261495068709017,
+              "variance_component": 2.5883862117159107e-06
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.013596696866141946,
+              "variance_component": 2.2980906339421536e-07
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.008951943173227122,
+              "variance_component": 1.0833996745634009e-07
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.010910489887258049,
+              "variance_component": 4.184295192329606e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.020526649636556746,
+              "variance_component": 8.458559091315791e-07
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.01070538691904134,
+              "variance_component": 1.6237255878357733e-06
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.018733952003884207,
+              "variance_component": 8.931861822876082e-07
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.024065353686249596,
+              "variance_component": 3.7137268174684463e-07
+            }
+          ]
+        },
+        "bridge": {
+          "mean": 0.04346471286824436,
+          "design_standard_error": 0.014550746907086411,
+          "approximate_95_interval": [
+            0.007291930935796102,
+            0.07963749480069263
+          ],
+          "satterthwaite_df": 5.63392139702852,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.0016239844433980433,
+              "variance_component": 1.6183925963808817e-08
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.0008778373638688048,
+              "variance_component": 2.5228217945749093e-10
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.019561680263738418,
+              "variance_component": 2.1182532190343386e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 1.1628919325515815e-05,
+              "variance_component": 2.0890020568686347e-13
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.13066005972885036,
+              "variance_component": 0.00011105413922005422
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.030221611357404105,
+              "variance_component": 6.245905794910938e-06
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.11273089996497099,
+              "variance_component": 1.4810267518285726e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.003025447878693318,
+              "variance_component": 7.014851194818355e-08
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.11028959054899258,
+              "variance_component": 5.2638361485807555e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.04247979975905384,
+              "variance_component": 2.3341731324278035e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.004521183276990764,
+              "variance_component": 8.99648845944352e-08
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.059836355476471065,
+              "variance_component": 1.339027178127837e-06
+            }
+          ]
+        },
+        "spurious_bound": {
+          "mean": 0.013600989023178089,
+          "design_standard_error": 0.00660221268637281,
+          "approximate_95_interval": [
+            -0.004634609984166701,
+            0.031836588030522875
+          ],
+          "satterthwaite_df": 4.053534415888892,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.000643411124532034,
+              "variance_component": 4.37995139560687e-10
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.003448527081429643,
+              "variance_component": 7.823892206892009e-08
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.029590969010319046,
+              "variance_component": 9.699983057290033e-06
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.04186019202299571,
+              "variance_component": 2.8833751347493814e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.0,
+              "variance_component": 0.0
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.02235609795158763,
+              "variance_component": 2.1670822243910923e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.0027683671144075515,
+              "variance_component": 1.1284057528925085e-07
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": 0.02807067722045245,
+              "variance_component": 2.696867500722667e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 7.058316296910487e-05,
+              "variance_component": 1.0733706733578157e-11
+            }
+          ]
+        },
+        "bridge_minus_scope": {
+          "mean": 0.026121301492479414,
+          "design_standard_error": 0.014040065213676643,
+          "approximate_95_interval": [
+            -0.007076682770118376,
+            0.05931928575507721
+          ],
+          "satterthwaite_df": 7.001554766349586,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": -0.017439110402013545,
+              "variance_component": 1.4209029697313461e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": -0.014461392953783144,
+              "variance_component": 5.781755066428122e-08
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": -0.015865225537929184,
+              "variance_component": 2.3758430935383357e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": -0.005898004069318205,
+              "variance_component": 8.818325272494473e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.10451055285794865,
+              "variance_component": 8.131448016975834e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": 0.01662491449126216,
+              "variance_component": 4.808884390642815e-06
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.10377895679174386,
+              "variance_component": 1.6922483822760713e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": -0.007885042008564732,
+              "variance_component": 1.5877744132036536e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.08976294091243585,
+              "variance_component": 5.673254807299979e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.0317744128400125,
+              "variance_component": 3.080411875695401e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.014212768726893442,
+              "variance_component": 1.3381103229647922e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.03577100179022147,
+              "variance_component": 1.1012813602332537e-06
+            }
+          ]
+        },
+        "bridge_minus_spurious": {
+          "mean": 0.02986372384506627,
+          "design_standard_error": 0.016618421125476325,
+          "approximate_95_interval": [
+            -0.010450250265910052,
+            0.07017769795604259
+          ],
+          "satterthwaite_df": 6.222476139150267,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.0016239844433980433,
+              "variance_component": 1.6183925963808817e-08
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.00023442623933677084,
+              "variance_component": 8.450638445230081e-10
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.016113153182308774,
+              "variance_component": 2.6403003935984876e-06
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 1.1628919325515815e-05,
+              "variance_component": 2.0890020568686347e-13
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": 0.10106909071853132,
+              "variance_component": 0.0001393078951798262
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": -0.0116385806655916,
+              "variance_component": 5.589662871103215e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.11273089996497099,
+              "variance_component": 1.4810267518285726e-05
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.003025447878693318,
+              "variance_component": 7.014851194818355e-08
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": 0.08793349259740496,
+              "variance_component": 3.34445803353516e-05
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.03971143264464629,
+              "variance_component": 2.4966443136145415e-05
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.023549493943461692,
+              "variance_component": 3.6831757255548405e-06
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.05976577231350196,
+              "variance_component": 1.3354519932266793e-06
+            }
+          ]
+        },
+        "scope_minus_spurious": {
+          "mean": 0.0037424223525868525,
+          "design_standard_error": 0.007361061156063786,
+          "approximate_95_interval": [
+            -0.015964860462691736,
+            0.023449705167865445
+          ],
+          "satterthwaite_df": 4.41148033739878,
+          "strata": [
+            {
+              "stratum": "north__small",
+              "sample_mean": 0.01906309484541159,
+              "variance_component": 1.2982558014135988e-06
+            },
+            {
+              "stratum": "north__medium",
+              "sample_mean": 0.014695819193119915,
+              "variance_component": 7.082185651844149e-08
+            },
+            {
+              "stratum": "north__large",
+              "sample_mean": 0.03197837872023796,
+              "variance_component": 1.9493207813741607e-07
+            },
+            {
+              "stratum": "west__small",
+              "sample_mean": 0.0059096329886437204,
+              "variance_component": 8.812538163008501e-08
+            },
+            {
+              "stratum": "west__medium",
+              "sample_mean": -0.003441462139417345,
+              "variance_component": 1.2088110583074773e-05
+            },
+            {
+              "stratum": "west__large",
+              "sample_mean": -0.028263495156853762,
+              "variance_component": 3.417583927962236e-05
+            },
+            {
+              "stratum": "central_east__small",
+              "sample_mean": 0.008951943173227122,
+              "variance_component": 1.0833996745634009e-07
+            },
+            {
+              "stratum": "central_east__medium",
+              "sample_mean": 0.010910489887258049,
+              "variance_component": 4.184295192329606e-07
+            },
+            {
+              "stratum": "central_east__large",
+              "sample_mean": -0.0018294483150308831,
+              "variance_component": 3.6705461358070327e-06
+            },
+            {
+              "stratum": "south__small",
+              "sample_mean": 0.00793701980463379,
+              "variance_component": 8.805159728908253e-07
+            },
+            {
+              "stratum": "south__medium",
+              "sample_mean": -0.009336725216568247,
+              "variance_component": 8.175637062245864e-07
+            },
+            {
+              "stratum": "south__large",
+              "sample_mean": 0.02399477052328049,
+              "variance_component": 3.7374106130270347e-07
+            }
+          ]
+        }
+      }
+    }
+  },
+  "semantics": "Design-weighted means of deterministic, scenario-conditional assumption effects over the implemented eligible GISCO frame. Scenarios are averaged within city before sampling variance estimation. Approximate t intervals use variance-component degrees of freedom and do not include hazard truth, OSM error, demand uncertainty or inference beyond this frame. Three cities per stratum limit precision; no p-value-based selection."
+}

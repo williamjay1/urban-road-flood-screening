@@ -1,0 +1,452 @@
+{
+  "status": "PASS_PRINTED_PRIMARY_VALUES_AND_SHORTLIST_COUNTS",
+  "numeric_values": 55,
+  "claims": [
+    {
+      "claim": "Density 48 to 96: median_abs_D_change",
+      "value": 0.02170260752405201,
+      "displayed": "0.02170",
+      "source": "screening_analysis.json",
+      "locator": "density_changes from=48 to=96/median_abs_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Density 48 to 96: max_abs_D_change",
+      "value": 0.08636715445476628,
+      "displayed": "0.08637",
+      "source": "screening_analysis.json",
+      "locator": "density_changes from=48 to=96/max_abs_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Density 96 to 192: median_abs_D_change",
+      "value": 0.02047249472951873,
+      "displayed": "0.02047",
+      "source": "screening_analysis.json",
+      "locator": "density_changes from=96 to=192/median_abs_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Density 96 to 192: max_abs_D_change",
+      "value": 0.07199448780750817,
+      "displayed": "0.07199",
+      "source": "screening_analysis.json",
+      "locator": "density_changes from=96 to=192/max_abs_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Density 192 to 384: median_abs_D_change",
+      "value": 0.01074046858463458,
+      "displayed": "0.01074",
+      "source": "screening_analysis.json",
+      "locator": "density_changes from=192 to=384/median_abs_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Density 192 to 384: max_abs_D_change",
+      "value": 0.048821692716271486,
+      "displayed": "0.04882",
+      "source": "screening_analysis.json",
+      "locator": "density_changes from=192 to=384/max_abs_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "192-to-384 rank minimum",
+      "value": 0.988931788931789,
+      "displayed": "0.98893",
+      "source": "screening_analysis.json",
+      "locator": "dense_convergence_results/density_changes[-1]/rank_correlations_by_setting",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "192-to-384 rank maximum",
+      "value": 0.9951093951093951,
+      "displayed": "0.99511",
+      "source": "screening_analysis.json",
+      "locator": "dense_convergence_results/density_changes[-1]/rank_correlations_by_setting",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Eight-setting minimum rank correlation",
+      "value": 0.9238095238095239,
+      "displayed": "0.92381",
+      "source": "screening_analysis.json",
+      "locator": "dense_convergence_results/counts/384/minimum_pairwise_spearman",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "road_scope median_abs_paired_change",
+      "value": 0.010594725414755111,
+      "displayed": "0.01059",
+      "source": "screening_analysis.json",
+      "locator": "dense_convergence_results/counts/384/paired_effects/road_scope/median_abs_paired_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "road_scope max_abs_paired_change",
+      "value": 0.06035118713962137,
+      "displayed": "0.06035",
+      "source": "screening_analysis.json",
+      "locator": "dense_convergence_results/counts/384/paired_effects/road_scope/max_abs_paired_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "bridge median_abs_paired_change",
+      "value": 0.0023401847736755216,
+      "displayed": "0.00234",
+      "source": "screening_analysis.json",
+      "locator": "dense_convergence_results/counts/384/paired_effects/bridge/median_abs_paired_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "bridge max_abs_paired_change",
+      "value": 0.3600041833189796,
+      "displayed": "0.36000",
+      "source": "screening_analysis.json",
+      "locator": "dense_convergence_results/counts/384/paired_effects/bridge/max_abs_paired_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "spurious_bound max_abs_paired_change",
+      "value": 0.15015650994186325,
+      "displayed": "0.15016",
+      "source": "screening_analysis.json",
+      "locator": "dense_convergence_results/counts/384/paired_effects/spurious_bound/max_abs_paired_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "32-setting minimum rank correlation",
+      "value": 0.8697554697554698,
+      "displayed": "0.86976",
+      "source": "dense_demand_analysis.json",
+      "locator": "minimum_pairwise_spearman",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Demand 5.0 median_absolute_change_from_theta15",
+      "value": 0.11043203871219492,
+      "displayed": "0.11043",
+      "source": "dense_demand_analysis.json",
+      "locator": "demand_contrasts/5.0/median_absolute_change_from_theta15",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Demand 5.0 maximum_absolute_change_from_theta15",
+      "value": 0.23940575181206813,
+      "displayed": "0.23941",
+      "source": "dense_demand_analysis.json",
+      "locator": "demand_contrasts/5.0/maximum_absolute_change_from_theta15",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Demand 30.0 median_absolute_change_from_theta15",
+      "value": 0.029210937856365027,
+      "displayed": "0.02921",
+      "source": "dense_demand_analysis.json",
+      "locator": "demand_contrasts/30.0/median_absolute_change_from_theta15",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Demand 30.0 maximum_absolute_change_from_theta15",
+      "value": 0.1162443143069985,
+      "displayed": "0.11624",
+      "source": "dense_demand_analysis.json",
+      "locator": "demand_contrasts/30.0/maximum_absolute_change_from_theta15",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Demand None median_absolute_change_from_theta15",
+      "value": 0.058741372315684104,
+      "displayed": "0.05874",
+      "source": "dense_demand_analysis.json",
+      "locator": "demand_contrasts/None/median_absolute_change_from_theta15",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Demand None maximum_absolute_change_from_theta15",
+      "value": 0.2704372481481108,
+      "displayed": "0.27044",
+      "source": "dense_demand_analysis.json",
+      "locator": "demand_contrasts/None/maximum_absolute_change_from_theta15",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame mean road_scope",
+      "value": 0.017343411375764943,
+      "displayed": "0.01734",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/road_scope/mean",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame interval road_scope 0",
+      "value": 0.010844268084169684,
+      "displayed": "0.01084",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/road_scope/approximate_95_interval/0",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame interval road_scope 1",
+      "value": 0.023842554667360204,
+      "displayed": "0.02384",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/road_scope/approximate_95_interval/1",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame mean bridge",
+      "value": 0.04346471286824436,
+      "displayed": "0.04346",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/bridge/mean",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame interval bridge 0",
+      "value": 0.007291930935796102,
+      "displayed": "0.00729",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/bridge/approximate_95_interval/0",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame interval bridge 1",
+      "value": 0.07963749480069263,
+      "displayed": "0.07964",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/bridge/approximate_95_interval/1",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame mean spurious_bound",
+      "value": 0.013600989023178089,
+      "displayed": "0.01360",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/spurious_bound/mean",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame interval spurious_bound 0",
+      "value": -0.004634609984166701,
+      "displayed": "-0.00463",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/spurious_bound/approximate_95_interval/0",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame interval spurious_bound 1",
+      "value": 0.031836588030522875,
+      "displayed": "0.03184",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/spurious_bound/approximate_95_interval/1",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame mean bridge_minus_scope",
+      "value": 0.026121301492479414,
+      "displayed": "0.02612",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/bridge_minus_scope/mean",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame interval bridge_minus_scope 0",
+      "value": -0.007076682770118376,
+      "displayed": "-0.00708",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/bridge_minus_scope/approximate_95_interval/0",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Frame interval bridge_minus_scope 1",
+      "value": 0.05931928575507721,
+      "displayed": "0.05932",
+      "source": "design_weighted_effects.json",
+      "locator": "results/dense_convergence_results/384/bridge_minus_scope/approximate_95_interval/1",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Dense topology D change",
+      "value": 1.9886078461817114e-05,
+      "displayed": "0.000020",
+      "source": "final_recomputation_audit.json",
+      "locator": "max_topology_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Maximum omitted topology weight",
+      "value": 0.00633139137934946,
+      "displayed": "0.00633",
+      "source": "final_recomputation_audit.json",
+      "locator": "maximum_original_weight_outside_topology_comparison",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "EMSR517 damaged record km",
+      "value": 169.0887991395927,
+      "displayed": "169.09",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR517/RP100/damage/record_length_km",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "EMSR517 wet_fraction percent",
+      "value": 61.873637204385986,
+      "displayed": "61.87",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR517/RP100/damage/wet_fraction",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "EMSR517 wet_outside_both_fraction percent",
+      "value": 27.40452565099266,
+      "displayed": "27.40",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR517/RP100/damage/wet_outside_both_fraction",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "EMSR664 damaged record km",
+      "value": 11.098415290872135,
+      "displayed": "11.10",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR664/RP100/damage/record_length_km",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "EMSR664 wet_fraction percent",
+      "value": 58.93117437575965,
+      "displayed": "58.93",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR664/RP100/damage/wet_fraction",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "EMSR664 wet_outside_both_fraction percent",
+      "value": 54.94170456201227,
+      "displayed": "54.94",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR664/RP100/damage/wet_outside_both_fraction",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "EMSR773 damaged record km",
+      "value": 197.47808835681258,
+      "displayed": "197.48",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR773/RP100/damage/record_length_km",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "EMSR773 wet_fraction percent",
+      "value": 30.68035141790307,
+      "displayed": "30.68",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR773/RP100/damage/wet_fraction",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "EMSR773 wet_outside_both_fraction percent",
+      "value": 15.361733472329565,
+      "displayed": "15.36",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR773/RP100/damage/wet_outside_both_fraction",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "German damage comparison ratio",
+      "value": 6.081577620863286,
+      "displayed": "6.08",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR517/RP100 damage wet fraction divided by no-visible-damage wet fraction",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "German damage wet outside spurious percent",
+      "value": 38.460164877191524,
+      "displayed": "38.46",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR517/RP100/damage/wet_outside_spurious_fraction",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "German no-visible-damage wet percent",
+      "value": 10.173945160565584,
+      "displayed": "10.17",
+      "source": "external_correspondence_analysis.json",
+      "locator": "EMSR517/RP100/no_visible_damage/wet_fraction",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Minimum retained access weight percent",
+      "value": 97.10193689762858,
+      "displayed": "97.10",
+      "source": "vehicle_access_dense_analysis.json",
+      "locator": "minimum_retained_original_weight",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "permissive median access D change",
+      "value": 2.8845182655223844e-06,
+      "displayed": "0.000003",
+      "source": "vehicle_access_dense_analysis.json",
+      "locator": "comparisons/permissive/median_absolute_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "permissive maximum access D change",
+      "value": 0.008409749603030914,
+      "displayed": "0.00841",
+      "source": "vehicle_access_dense_analysis.json",
+      "locator": "comparisons/permissive/maximum_absolute_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "permissive minimum access rank correlation",
+      "value": 0.9997425997425998,
+      "displayed": "0.99974",
+      "source": "vehicle_access_dense_analysis.json",
+      "locator": "comparisons/permissive/rank_correlations",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "restrictive median access D change",
+      "value": 7.284425167514846e-05,
+      "displayed": "0.000073",
+      "source": "vehicle_access_dense_analysis.json",
+      "locator": "comparisons/restrictive/median_absolute_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "restrictive maximum access D change",
+      "value": 0.01867275938473023,
+      "displayed": "0.01867",
+      "source": "vehicle_access_dense_analysis.json",
+      "locator": "comparisons/restrictive/maximum_absolute_D_change",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "restrictive minimum access rank correlation",
+      "value": 0.9989703989703991,
+      "displayed": "0.99897",
+      "source": "vehicle_access_dense_analysis.json",
+      "locator": "comparisons/restrictive/rank_correlations",
+      "status": "PRINTED_VALUE_MATCH"
+    },
+    {
+      "claim": "Largest access U change",
+      "value": 0.08871270888789773,
+      "displayed": "0.08871",
+      "source": "vehicle_access_dense_analysis.json",
+      "locator": "comparisons/permissive/maximum_absolute_U_change",
+      "status": "PRINTED_VALUE_MATCH"
+    }
+  ],
+  "scope": "Checks printed values and complete shortlist cardinalities. Context, estimands and scientific interpretation require the accompanying design review; matching a numeral is not a semantic proof.",
+  "manuscript_inputs": {
+    "methods_verified.md": "ce7c52b6292db260661db7906a9f18ce642df7a1e8dc133f6ef55ae004a92297",
+    "results_verified.md": "dde9e05d8682fe7697c34a26fe0380670fdf8e78b5258181a260801ba87e41a3",
+    "introduction_discussion.md": "0bd797834e99e033885fad66f7eb5902f0c1c592bbb1a29bccdf367d7140e049"
+  }
+}

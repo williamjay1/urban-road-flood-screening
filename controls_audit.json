@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "cities": 36,
+  "cumulative_metric_recalculations": 4048,
+  "unique_cumulative_matrix_hashes": 166,
+  "max_absolute_error": 3.175237850427948e-14,
+  "unchanged_cost_cities": 12,
+  "mechanism_component_checks": 216,
+  "max_mechanism_additivity_error": 3.3306690738754696e-16
+}

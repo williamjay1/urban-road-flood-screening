@@ -1,0 +1,379 @@
+{
+  "status": "PASS",
+  "cities": 36,
+  "fresh_shortest_path_reference_comparisons": 2592,
+  "max_primary_reference_error": 2.220446049250313e-16,
+  "additional_demand_comparisons": 2304,
+  "max_demand_error": 5.10702591327572e-15,
+  "topology_scenarios": 432,
+  "topology_details": [
+    {
+      "code": "BE004L2",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 3.126449807933085e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "CZ004L2",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 8.354990098657922e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "DE058L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 8.566961047229427e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "DE508L0",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 1.2229670054431097e-09,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "DE544L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 5.586845592264744e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "ES004L3",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 6.065489673745539e-06,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "ES017L2",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 4.3089327661505195e-08,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "ES054L1",
+      "ambiguous_anchors": 1,
+      "original_weight_outside_comparison": 0.004464580692527309,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 0.0,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "ES059L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 3.576064862009787e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "ES515L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 4.511643352245187e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "FR010L2",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 1.6573587992008143e-06,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "FR021L2",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 6.56719278957496e-08,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "FR036L2",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 1.1102230246251565e-16,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 9.708564407961973e-08,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "HU006L2",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 7.8708779938097e-08,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "HU012L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 6.476949754308237e-09,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "IT006L3",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 1.1983140128790648e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "IT014L2",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 1.1102230246251565e-16,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 7.280726345149091e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "IT023L2",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 1.2216457870306563e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "LT502L0",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 1.08880712904047e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "NL020L3",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 6.333243285361334e-08,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "NL529L3",
+      "ambiguous_anchors": 1,
+      "original_weight_outside_comparison": 0.00633139137934946,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 0.0,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "PL011L2",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 2.220446049250313e-16,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 4.248626939151734e-08,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "PT016L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 1.6939247999836482e-06,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "RO007L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 2.2307404812238474e-08,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "RO021L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 1.1102230246251565e-16,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 0.0,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "RO512L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 7.576340222970046e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "SE004L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 4.781575946855021e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "SE007L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 4.5032911177855794e-08,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "SE503L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 1.8249627098398946e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "SK006L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 0.0,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "SK008L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 3.019240413237867e-11,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "UK006L3",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0.0019195542851607442,
+      "baseline_weight_lost": 0.0019195542851607442,
+      "max_absolute_D_change": 5.636641867701186e-07,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "UK040L0",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 1.1102230246251565e-16,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 1.1115792661331447e-10,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "UK513L0",
+      "ambiguous_anchors": 1,
+      "original_weight_outside_comparison": 0.0021306278015387203,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 1.9886078461817114e-05,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "UK516L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 7.355219017179948e-08,
+      "max_absolute_U_change": 0.0
+    },
+    {
+      "code": "UK557L1",
+      "ambiguous_anchors": 0,
+      "original_weight_outside_comparison": 0,
+      "baseline_weight_lost": 0.0,
+      "max_absolute_D_change": 2.3882709143663305e-09,
+      "max_absolute_U_change": 0.0
+    }
+  ],
+  "max_topology_D_change": 1.9886078461817114e-05,
+  "max_topology_U_change": 0.0,
+  "maximum_original_weight_outside_topology_comparison": 0.00633139137934946,
+  "scope": "Fresh recomputation from independently packaged derived graph/hazard arrays. Source identity sensitivity concerns strategic roads and common reachable support, not complete legal navigation or empirical traffic validation.",
+  "audited_inputs": {
+    "dense_demand_sensitivity.json": "08a4b3ce193a2066bec5e808a817db57fbb218e375894a5994b013e29846bec2",
+    "submission_package\\input_manifest.json": "3e2494f335ba8c4c4331976cd2f61aa052ce3b91090837d0691a1c4a8d94612d",
+    "portable_recomputation_results\\BE004L2.json": "3cfa1aa56d1479634960f79f7a9e2df140032b6a69c83769b91dbc6b559e976b",
+    "portable_recomputation_results\\CZ004L2.json": "18bb5c532cc662383c7c8112314323653acb5318b6b6ab11d4141ddcb55feeae",
+    "portable_recomputation_results\\DE058L1.json": "95021f81edb70ce188b2977cf1d3d6f584e57b353d6f684984766c04ee3e56cb",
+    "portable_recomputation_results\\DE508L0.json": "19ffe55957b83a343f2094e66a3a5abb336df68f34553d15f532f56771313c95",
+    "portable_recomputation_results\\DE544L1.json": "5a5d161b88f8f992d843c0abec2c74366cfaba4f15e0cb90e08d6d26882f4969",
+    "portable_recomputation_results\\ES004L3.json": "a4a8acf5669d3819a10faeace395f5883187c36626fa3249b01aac3aa11f3cb1",
+    "portable_recomputation_results\\ES017L2.json": "8052ee5de91b48eeaf57416acc9516892461fe79609935be21a1a37702a6d32b",
+    "portable_recomputation_results\\ES054L1.json": "7df226993a521040eb73b0eed052ab23cae3a6729ef66d78c19b1d8568cde106",
+    "portable_recomputation_results\\ES059L1.json": "08a30b0782f98859f61e7d3e7f17a0aa55e5c7b1aa3523ad5cb2035b365326b2",
+    "portable_recomputation_results\\ES515L1.json": "35bd00b165ca941fcc8754d7ed887b37671ee23d8e356ab26cef36564c5b89f3",
+    "portable_recomputation_results\\FR010L2.json": "35c0e687a14651a255f6f088e6867a4776cd2527b136a910f88992159d973766",
+    "portable_recomputation_results\\FR021L2.json": "e74e8e2e01069916eaed9df0acdc11bc300f7c8d8d4f6ecef521c26f460fa058",
+    "portable_recomputation_results\\FR036L2.json": "9b9a84c414009979f61a0c3b7aff65845afe5f43ea94f039766693ec720114c7",
+    "portable_recomputation_results\\HU006L2.json": "ecc46b5669e71ab552cdfd8b93868c0ea1db398a322a8938692d6a28cedd68fc",
+    "portable_recomputation_results\\HU012L1.json": "6afcb381076cfc9f745544818817f63741bdb5b6d2247fe39b65a80ed9402990",
+    "portable_recomputation_results\\IT006L3.json": "77c0ed6c6551ace34f352ef8132b7017005660774064e93b5eebd88d546bc481",
+    "portable_recomputation_results\\IT014L2.json": "e5482db805c038a89ee07524cc4944db23e04eb57b818cd39b7d1b928a8beb27",
+    "portable_recomputation_results\\IT023L2.json": "19e5393156460c288e16d3ea7285fb96a18f7738648c5928173e7989859b42cc",
+    "portable_recomputation_results\\LT502L0.json": "459e1268cb5cee95c81677a00952d15738aa7b8a6f0505117c0d379e530074af",
+    "portable_recomputation_results\\NL020L3.json": "28395403a6fcee2cefa6776a37654e72b52e81ee32eb84d98f3ee79484b3d32f",
+    "portable_recomputation_results\\NL529L3.json": "f6777d0ff179500c2fb14fc8384ad3ed5ee9107aab188423b904f5a610195bd6",
+    "portable_recomputation_results\\PL011L2.json": "0b6436d27674bd64996d3689486b794cf7d47e529eefc61dbd750f3ca808573c",
+    "portable_recomputation_results\\PT016L1.json": "f9b9a163c2bdfe752393d2eff5a31b27ecfe0bd699fc214e8a8ef83155ed1d23",
+    "portable_recomputation_results\\RO007L1.json": "4a606d83a8fb154cc1ef4a5f538c7c853bb985916280b35b2de11f8619e2a9b8",
+    "portable_recomputation_results\\RO021L1.json": "83493e5c0bbb5e34b28bb34ff958d80c789ba7e7d09dbaa8f6429837b2b89bbf",
+    "portable_recomputation_results\\RO512L1.json": "c93b987aec97d11ef8c88000be36702ac78d344240059d2f6a188f063cb52866",
+    "portable_recomputation_results\\SE004L1.json": "7fd2178533cb030f0b91356a6c592900e71337b52a57032072b72e162076f31c",
+    "portable_recomputation_results\\SE007L1.json": "57c1a2f7daa4978c3ba5195d15be976aab7db0e5e6a4344cbbbe7b8b71ad25f3",
+    "portable_recomputation_results\\SE503L1.json": "5572e2ae00a84e521e5b795d3f0cef207e8620d6557bd317626b65df119d7d46",
+    "portable_recomputation_results\\SK006L1.json": "af7d1146cef8b864fcd6ad64ce3baaa4d8765fe451817dbdc3263ece4f74d3f3",
+    "portable_recomputation_results\\SK008L1.json": "ff179545232c1ca46f9e3d42160a0712d15ad1e138452e957159e75c771563f4",
+    "portable_recomputation_results\\UK006L3.json": "f71cfb9aa0954a42fccf798a83b57e5cc081b118b55233cfb4505e4ec66dafcd",
+    "portable_recomputation_results\\UK040L0.json": "51208d568b9bf59220cfb838f24b8bfe2c21121b012a121c14011eb303423978",
+    "portable_recomputation_results\\UK513L0.json": "d28ea8ed2331c68d7c459f6522eb953d0ec707d1b98a9f30acbc2edbe243bd33",
+    "portable_recomputation_results\\UK516L1.json": "56f6c22e24273dcfbeeb7d590b86929ff29c997391a35cf0ee7001717f6bd6cd",
+    "portable_recomputation_results\\UK557L1.json": "332f0df95f11f3f81593954af92a0a139287e3c607e47265a97102abb2597fd8",
+    "topology_dense_v2\\BE004L2.json": "d7f699d75497e55ad128dbe36dcbf1b7c44ef33c5bfded391fe58d9718ccdf11",
+    "topology_dense_v2\\CZ004L2.json": "b4a079bf1e745751f877326ff5861cec712428c351ba945c835ad9b1cd2ef0f4",
+    "topology_dense_v2\\DE058L1.json": "8f35a3f26640a0de4e882dc71a25c3935b639eba9110a339989c29609d2b1961",
+    "topology_dense_v2\\DE508L0.json": "107e65133fbc6a7ad7d058ff111db977f46362788953578c7224a4ec11803ba8",
+    "topology_dense_v2\\DE544L1.json": "e63ed35216d8e05fe7e3c0f9ddf13de6a171583858632db01147dd7164bb6aed",
+    "topology_dense_v2\\ES004L3.json": "289f0f888f20233a1a87e7630b8e62a463d1cadcf19bedb5a97ea2b6e7bd9824",
+    "topology_dense_v2\\ES017L2.json": "9afbb0632826824091374864146fb5c3993ea86423c404ffdcbe9e58876db5f8",
+    "topology_dense_v2\\ES054L1.json": "1beebf3807ebfdb63552c7ba5209bf73c094500d831b05d03f79a6d819d83036",
+    "topology_dense_v2\\ES059L1.json": "754697f849fc03cbe641a317f403cd4891c782de582ad23cc6e23b6b5ac0dca3",
+    "topology_dense_v2\\ES515L1.json": "ecd700eb33d51ae9aacfc679c45a37745a8c66c14e0b88c49e7b1394d5f8c24b",
+    "topology_dense_v2\\FR010L2.json": "3749f9d60524dd9a6f07c33f192d0dae9e03d5faa9eabd6d58164f4186abc00f",
+    "topology_dense_v2\\FR021L2.json": "abecfbf64f8d4a4a294529f069043a3653372bd318c16df686189656530d08c3",
+    "topology_dense_v2\\FR036L2.json": "d9f21e54b057195ab7a9149e12d685b64c1fa5d7de2bf6363d219dba789f2e80",
+    "topology_dense_v2\\HU006L2.json": "1cd4d72221725974269dd474b9005783d42332d5f704c70a10292ed6cc4a458e",
+    "topology_dense_v2\\HU012L1.json": "19dc19d5ae0217f78b2e986140e3bc6aa64b9bc004e61b3673668565a4ff27ce",
+    "topology_dense_v2\\IT006L3.json": "7c0ce76e91f785cba4ff3d6af6ec5d26ac3fbaa1ed53d09ae90302501c23a2fa",
+    "topology_dense_v2\\IT014L2.json": "542f121518a0d50417e93c0518099016a4aabcf47b5bd4f21d81304342a968de",
+    "topology_dense_v2\\IT023L2.json": "765ee5f58a2a578cd2a6c22e65ee674b921e0665c3cc03f741967a21e001122c",
+    "topology_dense_v2\\LT502L0.json": "5d57d54f4ac17b8468c4e11cae9cacea69a4a24c4b5bcf5a07e3a9547d9e9077",
+    "topology_dense_v2\\NL020L3.json": "12ac1eac9e4ccb533ca82fb64a8d6c169c726f4e270d770814964ded34f27a62",
+    "topology_dense_v2\\NL529L3.json": "562b240cd66dc118c1870137fc503dbcbc5371d22b013b2943574844c65a4316",
+    "topology_dense_v2\\PL011L2.json": "6012ec1f8fb40cf7ec949e892f9170a7f4a70dc2313d7dd0b1c5a5774f74eb80",
+    "topology_dense_v2\\PT016L1.json": "7ceca41a1006244f0b901b306e19974aa16bb94fa8ce56e36c19e83b4257b9c5",
+    "topology_dense_v2\\RO007L1.json": "884089cc16031873e7fb0b9722caeb9b135e64ce7ded4a40abf9e4460e648ed0",
+    "topology_dense_v2\\RO021L1.json": "0e9575850758b65ba50650baa20a47701f8af47aaa2031ac2a3f97bb04dfd294",
+    "topology_dense_v2\\RO512L1.json": "651255607cbf53c273ed162327072002793034852571f3ee447c59ac6ad0da3f",
+    "topology_dense_v2\\SE004L1.json": "c8afc97402935e450c2898016a04bb0e7c23f2d69bf85eefdd4de88fcfe5183e",
+    "topology_dense_v2\\SE007L1.json": "d6fcb111f18ad51426c99c2641fb5060a1858490ce5c190251bacf15faddfc0c",
+    "topology_dense_v2\\SE503L1.json": "f65e5f064e9665534a935c1af547c3927106f493503d99654b56c59cad130b02",
+    "topology_dense_v2\\SK006L1.json": "319108746015da57667857b9e01d77aa1b627e5863c0f89ed38adb05c17568fa",
+    "topology_dense_v2\\SK008L1.json": "c42dfdc2a9af70fce122b28cd8f25ba12fd5ca1a8c5da0f2fbfb6db2238dcef3",
+    "topology_dense_v2\\UK006L3.json": "93e4d155821bce8198bf3f6ea9c7922b13e212c4cf40d0d70791b0a0470771f4",
+    "topology_dense_v2\\UK040L0.json": "eeee0fdbf1399e99aaa4440b9df655e54cf1e8b08f4a48cf9a5382fba029708f",
+    "topology_dense_v2\\UK513L0.json": "6b093b9464f75e92281935c369af87927bf454c7b73949b108076127ea9cfc33",
+    "topology_dense_v2\\UK516L1.json": "cb6544ff2613aa8bcd0ddac36e0283d0891e69f8467210c132dbed74c3f87bb7",
+    "topology_dense_v2\\UK557L1.json": "a5972ae1c47338dc319ea42d433ec5c195e00d35579b38cad6748e85ac2bf0e6"
+  }
+}

@@ -1,0 +1,8 @@
+Natural Hazards
+Population geography and hazard intensity in urban road flood screening
+Junjie Zhang; Shanghai Academy of Global Governance & Area Studies, and School of Economics and Finance, Shanghai International Studies University, Shanghai 201620, China; junjiezhang2024@shisu.edu.cn; ORCID 0009-0004-8821-4018
+
+Online Resource 1: derived inputs, executable code, complete scenario results, source provenance and numerical verification records for 36 study areas. No new numerical analysis was performed during submission formatting. Original third-party licenses remain applicable.
+
+Graphics were generated with Python and Matplotlib. The upload graphics are vector PDF with embedded fonts and 1200 dpi RGB TIFF rasterizations.
+

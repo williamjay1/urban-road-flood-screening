@@ -1,0 +1,1162 @@
+{
+  "code": "ES017L2",
+  "status": "COMPLETE",
+  "seconds": 2.0677154064178467,
+  "scenarios": [
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.685171465929949,
+      "U": 0.6756688966650957,
+      "unconditional_finite_delay_minutes": 0.39459476753179323,
+      "conditional_finite_delay_minutes": 1.2166417697051233
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.7915803367496704,
+      "U": 0.7771971287669012,
+      "unconditional_finite_delay_minutes": 0.5435759964079397,
+      "conditional_finite_delay_minutes": 2.439717196639017
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.8132400978150423,
+      "U": 0.7974076437923576,
+      "unconditional_finite_delay_minutes": 0.5868240000834256,
+      "conditional_finite_delay_minutes": 2.8965752265696234
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.8351458367962383,
+      "U": 0.817535035183232,
+      "unconditional_finite_delay_minutes": 0.6371863595397387,
+      "conditional_finite_delay_minutes": 3.4921024985788565
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.5129009449485753,
+      "U": 0.4558267531281932,
+      "unconditional_finite_delay_minutes": 1.2499271511441994,
+      "conditional_finite_delay_minutes": 2.2969287048369913
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.6274625961195777,
+      "U": 0.5271839338827511,
+      "unconditional_finite_delay_minutes": 2.540585974413703,
+      "conditional_finite_delay_minutes": 5.3733072043784755
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.6567708378932116,
+      "U": 0.5451804032693487,
+      "unconditional_finite_delay_minutes": 2.8939671197318173,
+      "conditional_finite_delay_minutes": 6.362890122884598
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.6909450304359781,
+      "U": 0.5673350071126539,
+      "unconditional_finite_delay_minutes": 3.282300441806819,
+      "conditional_finite_delay_minutes": 7.586239921798893
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.685171465929949,
+      "U": 0.6756688966650957,
+      "unconditional_finite_delay_minutes": 0.39459476753179323,
+      "conditional_finite_delay_minutes": 1.2166417697051233
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.7915803367496704,
+      "U": 0.7771971287669012,
+      "unconditional_finite_delay_minutes": 0.5435759964079397,
+      "conditional_finite_delay_minutes": 2.439717196639017
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.8132400978150423,
+      "U": 0.7974076437923576,
+      "unconditional_finite_delay_minutes": 0.5868240000834256,
+      "conditional_finite_delay_minutes": 2.8965752265696234
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.8351458367962383,
+      "U": 0.817535035183232,
+      "unconditional_finite_delay_minutes": 0.6371863595397387,
+      "conditional_finite_delay_minutes": 3.4921024985788565
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.5129009449485753,
+      "U": 0.4558267531281932,
+      "unconditional_finite_delay_minutes": 1.2499271511441994,
+      "conditional_finite_delay_minutes": 2.2969287048369913
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.6274625961195777,
+      "U": 0.5271839338827511,
+      "unconditional_finite_delay_minutes": 2.540585974413703,
+      "conditional_finite_delay_minutes": 5.3733072043784755
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.6567708378932116,
+      "U": 0.5451804032693487,
+      "unconditional_finite_delay_minutes": 2.8939671197318173,
+      "conditional_finite_delay_minutes": 6.362890122884598
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.6909450304359781,
+      "U": 0.5673350071126539,
+      "unconditional_finite_delay_minutes": 3.282300441806819,
+      "conditional_finite_delay_minutes": 7.586239921798893
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.6817408553019251,
+      "U": 0.6537413399707277,
+      "unconditional_finite_delay_minutes": 1.6752387030779479,
+      "conditional_finite_delay_minutes": 4.838113515879503
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.7880523773515996,
+      "U": 0.7496111312794927,
+      "unconditional_finite_delay_minutes": 2.2061767427535774,
+      "conditional_finite_delay_minutes": 8.811001679216773
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.8096929748729957,
+      "U": 0.7688428405482631,
+      "unconditional_finite_delay_minutes": 2.312198483074003,
+      "conditional_finite_delay_minutes": 10.002711958211119
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.8316555380228567,
+      "U": 0.7888853904226227,
+      "unconditional_finite_delay_minutes": 2.368416127262448,
+      "conditional_finite_delay_minutes": 11.218627322873083
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.5093707799647128,
+      "U": 0.4224530531164091,
+      "unconditional_finite_delay_minutes": 3.3383357419825765,
+      "conditional_finite_delay_minutes": 5.780198060081589
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.6238434113355544,
+      "U": 0.4819631546486901,
+      "unconditional_finite_delay_minutes": 5.331848652908402,
+      "conditional_finite_delay_minutes": 10.292412018092218
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.6530885197363412,
+      "U": 0.4977029793850912,
+      "unconditional_finite_delay_minutes": 5.80676390792202,
+      "conditional_finite_delay_minutes": 11.560418775356098
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.6872482698405111,
+      "U": 0.5191059490949463,
+      "unconditional_finite_delay_minutes": 6.219514812190317,
+      "conditional_finite_delay_minutes": 12.933233007322604
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.685171465929949,
+      "U": 0.6756688966650957,
+      "unconditional_finite_delay_minutes": 0.39459476753179323,
+      "conditional_finite_delay_minutes": 1.2166417697051233
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.7915803367496704,
+      "U": 0.7771971287669012,
+      "unconditional_finite_delay_minutes": 0.5435759964079397,
+      "conditional_finite_delay_minutes": 2.439717196639017
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.8132400978150423,
+      "U": 0.7974076437923576,
+      "unconditional_finite_delay_minutes": 0.5868240000834256,
+      "conditional_finite_delay_minutes": 2.8965752265696234
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.8351458367962383,
+      "U": 0.817535035183232,
+      "unconditional_finite_delay_minutes": 0.6371863595397387,
+      "conditional_finite_delay_minutes": 3.4921024985788565
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.5129009449485753,
+      "U": 0.4558267531281932,
+      "unconditional_finite_delay_minutes": 1.2499271511441994,
+      "conditional_finite_delay_minutes": 2.2969287048369913
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.6274625961195777,
+      "U": 0.5271839338827511,
+      "unconditional_finite_delay_minutes": 2.540585974413703,
+      "conditional_finite_delay_minutes": 5.3733072043784755
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.6567708378932116,
+      "U": 0.5451804032693487,
+      "unconditional_finite_delay_minutes": 2.8939671197318173,
+      "conditional_finite_delay_minutes": 6.362890122884598
+    },
+    {
+      "variant": "published_curve",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.6909450304359781,
+      "U": 0.5673350071126539,
+      "unconditional_finite_delay_minutes": 3.282300441806819,
+      "conditional_finite_delay_minutes": 7.586239921798893
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.685171465929949,
+      "U": 0.6756688966650957,
+      "unconditional_finite_delay_minutes": 0.39459476753179323,
+      "conditional_finite_delay_minutes": 1.2166417697051233
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.7915803367496704,
+      "U": 0.7771971287669012,
+      "unconditional_finite_delay_minutes": 0.5435759964079397,
+      "conditional_finite_delay_minutes": 2.439717196639017
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.8132400978150423,
+      "U": 0.7974076437923576,
+      "unconditional_finite_delay_minutes": 0.5868240000834256,
+      "conditional_finite_delay_minutes": 2.8965752265696234
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.8351458367962383,
+      "U": 0.817535035183232,
+      "unconditional_finite_delay_minutes": 0.6371863595397387,
+      "conditional_finite_delay_minutes": 3.4921024985788565
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.5129009449485753,
+      "U": 0.4558267531281932,
+      "unconditional_finite_delay_minutes": 1.2499271511441994,
+      "conditional_finite_delay_minutes": 2.2969287048369913
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.6274625961195777,
+      "U": 0.5271839338827511,
+      "unconditional_finite_delay_minutes": 2.540585974413703,
+      "conditional_finite_delay_minutes": 5.3733072043784755
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.6567708378932116,
+      "U": 0.5451804032693487,
+      "unconditional_finite_delay_minutes": 2.8939671197318173,
+      "conditional_finite_delay_minutes": 6.362890122884598
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.6909450304359781,
+      "U": 0.5673350071126539,
+      "unconditional_finite_delay_minutes": 3.282300441806819,
+      "conditional_finite_delay_minutes": 7.586239921798893
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.6817408553019251,
+      "U": 0.6537413399707277,
+      "unconditional_finite_delay_minutes": 1.6752387030779479,
+      "conditional_finite_delay_minutes": 4.838113515879503
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.7880523773515996,
+      "U": 0.7496111312794927,
+      "unconditional_finite_delay_minutes": 2.2061767427535774,
+      "conditional_finite_delay_minutes": 8.811001679216773
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.8096929748729957,
+      "U": 0.7688428405482631,
+      "unconditional_finite_delay_minutes": 2.312198483074003,
+      "conditional_finite_delay_minutes": 10.002711958211119
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.8316555380228567,
+      "U": 0.7888853904226227,
+      "unconditional_finite_delay_minutes": 2.368416127262448,
+      "conditional_finite_delay_minutes": 11.218627322873083
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.5093707799647128,
+      "U": 0.4224530531164091,
+      "unconditional_finite_delay_minutes": 3.3383357419825765,
+      "conditional_finite_delay_minutes": 5.780198060081589
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.6238434113355544,
+      "U": 0.4819631546486901,
+      "unconditional_finite_delay_minutes": 5.331848652908402,
+      "conditional_finite_delay_minutes": 10.292412018092218
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.6530885197363412,
+      "U": 0.4977029793850912,
+      "unconditional_finite_delay_minutes": 5.80676390792202,
+      "conditional_finite_delay_minutes": 11.560418775356098
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.6872482698405111,
+      "U": 0.5191059490949463,
+      "unconditional_finite_delay_minutes": 6.219514812190317,
+      "conditional_finite_delay_minutes": 12.933233007322604
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.6343540232725864,
+      "U": 0.5411141488000266,
+      "unconditional_finite_delay_minutes": 5.729447652002469,
+      "conditional_finite_delay_minutes": 12.485561794986983
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.7420988139201603,
+      "U": 0.6366570691222821,
+      "unconditional_finite_delay_minutes": 6.488781015053714,
+      "conditional_finite_delay_minutes": 17.858558578197567
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.7652464048026439,
+      "U": 0.6588990473218466,
+      "unconditional_finite_delay_minutes": 6.51137592006775,
+      "conditional_finite_delay_minutes": 19.08929268283684
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.7896797837443674,
+      "U": 0.6850344689408376,
+      "unconditional_finite_delay_minutes": 6.325672836571089,
+      "conditional_finite_delay_minutes": 20.083698731410994
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.4514616789992575,
+      "U": 0.29379867458683107,
+      "unconditional_finite_delay_minutes": 8.487509289483466,
+      "conditional_finite_delay_minutes": 12.018540583335465
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.5675412879301307,
+      "U": 0.3460708764342455,
+      "unconditional_finite_delay_minutes": 10.980039037165655,
+      "conditional_finite_delay_minutes": 16.790870205158527
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.5987269589569415,
+      "U": 0.36181034000231443,
+      "unconditional_finite_delay_minutes": 11.448532821167682,
+      "conditional_finite_delay_minutes": 17.939076012621705
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.6361659084269442,
+      "U": 0.38567177011608467,
+      "unconditional_finite_delay_minutes": 11.679864341136469,
+      "conditional_finite_delay_minutes": 19.012416771639355
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.6343612678364982,
+      "U": 0.5411141488000266,
+      "unconditional_finite_delay_minutes": 5.7300148160877935,
+      "conditional_finite_delay_minutes": 12.486797753959875
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.7421029220703255,
+      "U": 0.6366570691222821,
+      "unconditional_finite_delay_minutes": 6.488992442954734,
+      "conditional_finite_delay_minutes": 17.85914047448081
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.765249893272979,
+      "U": 0.6588990473218466,
+      "unconditional_finite_delay_minutes": 6.5115361429351974,
+      "conditional_finite_delay_minutes": 19.089762405557313
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.7896827402704938,
+      "U": 0.6850344689408376,
+      "unconditional_finite_delay_minutes": 6.325793599095938,
+      "conditional_finite_delay_minutes": 20.084082146461025
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.45146892356316926,
+      "U": 0.29379867458683107,
+      "unconditional_finite_delay_minutes": 8.488076453568791,
+      "conditional_finite_delay_minutes": 12.019343702877888
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.567545396080296,
+      "U": 0.3460708764342455,
+      "unconditional_finite_delay_minutes": 10.980250465066675,
+      "conditional_finite_delay_minutes": 16.791193524450176
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.5987304474272764,
+      "U": 0.36181034000231443,
+      "unconditional_finite_delay_minutes": 11.448693044035128,
+      "conditional_finite_delay_minutes": 17.93932707100997
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.6361688649530706,
+      "U": 0.38567177011608467,
+      "unconditional_finite_delay_minutes": 11.67998510366132,
+      "conditional_finite_delay_minutes": 19.012613348190744
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.6318512526024382,
+      "U": 0.5331489287393594,
+      "unconditional_finite_delay_minutes": 6.075706689590184,
+      "conditional_finite_delay_minutes": 13.01422886999899
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.740085441430308,
+      "U": 0.6264374812684338,
+      "unconditional_finite_delay_minutes": 7.046434546823798,
+      "conditional_finite_delay_minutes": 18.86279857719669
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.7632259153404684,
+      "U": 0.6480580154183948,
+      "unconditional_finite_delay_minutes": 7.11291750883756,
+      "conditional_finite_delay_minutes": 20.210483035417106
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.7875546667881872,
+      "U": 0.6735885525843502,
+      "unconditional_finite_delay_minutes": 6.9611273110193,
+      "conditional_finite_delay_minutes": 21.326235235111273
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 5,
+      "D": 0.44885512559794766,
+      "U": 0.2840728273120695,
+      "unconditional_finite_delay_minutes": 8.958555934911509,
+      "conditional_finite_delay_minutes": 12.513222401207146
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 15,
+      "D": 0.5653981209560834,
+      "U": 0.33246687426014754,
+      "unconditional_finite_delay_minutes": 11.759737159801453,
+      "conditional_finite_delay_minutes": 17.616709503019326
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": 30,
+      "D": 0.5964930525152959,
+      "U": 0.3469312623072904,
+      "unconditional_finite_delay_minutes": 12.3026631884977,
+      "conditional_finite_delay_minutes": 18.838236281165415
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "theta": null,
+      "D": 0.6336866440185154,
+      "U": 0.36933862460447475,
+      "unconditional_finite_delay_minutes": 12.60251811981861,
+      "conditional_finite_delay_minutes": 19.983018798185988
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.6343540232725864,
+      "U": 0.5411141488000266,
+      "unconditional_finite_delay_minutes": 5.729447652002469,
+      "conditional_finite_delay_minutes": 12.485561794986983
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.7420988139201603,
+      "U": 0.6366570691222821,
+      "unconditional_finite_delay_minutes": 6.488781015053714,
+      "conditional_finite_delay_minutes": 17.858558578197567
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.7652464048026439,
+      "U": 0.6588990473218466,
+      "unconditional_finite_delay_minutes": 6.51137592006775,
+      "conditional_finite_delay_minutes": 19.08929268283684
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.7896797837443674,
+      "U": 0.6850344689408376,
+      "unconditional_finite_delay_minutes": 6.325672836571089,
+      "conditional_finite_delay_minutes": 20.083698731410994
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.4514616789992575,
+      "U": 0.29379867458683107,
+      "unconditional_finite_delay_minutes": 8.487509289483466,
+      "conditional_finite_delay_minutes": 12.018540583335465
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.5675412879301307,
+      "U": 0.3460708764342455,
+      "unconditional_finite_delay_minutes": 10.980039037165655,
+      "conditional_finite_delay_minutes": 16.790870205158527
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.5987269589569415,
+      "U": 0.36181034000231443,
+      "unconditional_finite_delay_minutes": 11.448532821167682,
+      "conditional_finite_delay_minutes": 17.939076012621705
+    },
+    {
+      "variant": "published_curve",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.6361659084269442,
+      "U": 0.38567177011608467,
+      "unconditional_finite_delay_minutes": 11.679864341136469,
+      "conditional_finite_delay_minutes": 19.012416771639355
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.6343612678364982,
+      "U": 0.5411141488000266,
+      "unconditional_finite_delay_minutes": 5.7300148160877935,
+      "conditional_finite_delay_minutes": 12.486797753959875
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.7421029220703255,
+      "U": 0.6366570691222821,
+      "unconditional_finite_delay_minutes": 6.488992442954734,
+      "conditional_finite_delay_minutes": 17.85914047448081
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.765249893272979,
+      "U": 0.6588990473218466,
+      "unconditional_finite_delay_minutes": 6.5115361429351974,
+      "conditional_finite_delay_minutes": 19.089762405557313
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.7896827402704938,
+      "U": 0.6850344689408376,
+      "unconditional_finite_delay_minutes": 6.325793599095938,
+      "conditional_finite_delay_minutes": 20.084082146461025
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.45146892356316926,
+      "U": 0.29379867458683107,
+      "unconditional_finite_delay_minutes": 8.488076453568791,
+      "conditional_finite_delay_minutes": 12.019343702877888
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.567545396080296,
+      "U": 0.3460708764342455,
+      "unconditional_finite_delay_minutes": 10.980250465066675,
+      "conditional_finite_delay_minutes": 16.791193524450176
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.5987304474272764,
+      "U": 0.36181034000231443,
+      "unconditional_finite_delay_minutes": 11.448693044035128,
+      "conditional_finite_delay_minutes": 17.93932707100997
+    },
+    {
+      "variant": "step_20cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.6361688649530706,
+      "U": 0.38567177011608467,
+      "unconditional_finite_delay_minutes": 11.67998510366132,
+      "conditional_finite_delay_minutes": 19.012613348190744
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.6318512526024382,
+      "U": 0.5331489287393594,
+      "unconditional_finite_delay_minutes": 6.075706689590184,
+      "conditional_finite_delay_minutes": 13.01422886999899
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.740085441430308,
+      "U": 0.6264374812684338,
+      "unconditional_finite_delay_minutes": 7.046434546823798,
+      "conditional_finite_delay_minutes": 18.86279857719669
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.7632259153404684,
+      "U": 0.6480580154183948,
+      "unconditional_finite_delay_minutes": 7.11291750883756,
+      "conditional_finite_delay_minutes": 20.210483035417106
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.7875546667881872,
+      "U": 0.6735885525843502,
+      "unconditional_finite_delay_minutes": 6.9611273110193,
+      "conditional_finite_delay_minutes": 21.326235235111273
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 5,
+      "D": 0.44885512559794766,
+      "U": 0.2840728273120695,
+      "unconditional_finite_delay_minutes": 8.958555934911509,
+      "conditional_finite_delay_minutes": 12.513222401207146
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 15,
+      "D": 0.5653981209560834,
+      "U": 0.33246687426014754,
+      "unconditional_finite_delay_minutes": 11.759737159801453,
+      "conditional_finite_delay_minutes": 17.616709503019326
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": 30,
+      "D": 0.5964930525152959,
+      "U": 0.3469312623072904,
+      "unconditional_finite_delay_minutes": 12.3026631884977,
+      "conditional_finite_delay_minutes": 18.838236281165415
+    },
+    {
+      "variant": "step_50cm",
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "theta": null,
+      "D": 0.6336866440185154,
+      "U": 0.36933862460447475,
+      "unconditional_finite_delay_minutes": 12.60251811981861,
+      "conditional_finite_delay_minutes": 19.983018798185988
+    }
+  ],
+  "matrix_sources": {
+    "published_curve|strategic|exposed|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\c3da69ffba32e0ca4ecf1152ff7e4bb06628193bd29a66094fe5c8794c91b8b6.npy",
+      "sha256": "24838728b608e9b4d0dbfe668e7f49bf52351c58743867f7754b3ff632645ed6"
+    },
+    "published_curve|strategic|bridge_immune|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\275ccd4b07b9dedc84896e8cd578ca9d78cd2d240e441371608943f7164c9711.npy",
+      "sha256": "d5f212fdae4d3eacbbdeaf54fc99e83aacf9df9a27ff10231335ef0c81402068"
+    },
+    "step_20cm|strategic|exposed|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\58d4ce639f8938d96dccddf8bd73954a59aefdf3b1e5b7961134e01c9363e621.npy",
+      "sha256": "24838728b608e9b4d0dbfe668e7f49bf52351c58743867f7754b3ff632645ed6"
+    },
+    "step_20cm|strategic|bridge_immune|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\a5b82b4a71d4b27cd944a304898ec9656093daff5ca3dcd726614ae1f30f1b68.npy",
+      "sha256": "d5f212fdae4d3eacbbdeaf54fc99e83aacf9df9a27ff10231335ef0c81402068"
+    },
+    "step_50cm|strategic|exposed|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\a8e379eda1594ac11b335e50a0d230b89991e93e297aad4911eb6265520c4da1.npy",
+      "sha256": "1141f250a32b7e828ae88c20aa49835698b69032bef740f69871f85f533cada2"
+    },
+    "step_50cm|strategic|bridge_immune|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\62285fff77c5602b3cc2dab5b85336d7b74d14b317bf26bf73cffd04858829c9.npy",
+      "sha256": "11bbd442e0358025533a4133c75ccbd40518fa143b0641b9e7f1ac263940805d"
+    },
+    "published_curve|strategic|exposed|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\c3da69ffba32e0ca4ecf1152ff7e4bb06628193bd29a66094fe5c8794c91b8b6.npy",
+      "sha256": "24838728b608e9b4d0dbfe668e7f49bf52351c58743867f7754b3ff632645ed6"
+    },
+    "published_curve|strategic|bridge_immune|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\275ccd4b07b9dedc84896e8cd578ca9d78cd2d240e441371608943f7164c9711.npy",
+      "sha256": "d5f212fdae4d3eacbbdeaf54fc99e83aacf9df9a27ff10231335ef0c81402068"
+    },
+    "step_20cm|strategic|exposed|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\58d4ce639f8938d96dccddf8bd73954a59aefdf3b1e5b7961134e01c9363e621.npy",
+      "sha256": "24838728b608e9b4d0dbfe668e7f49bf52351c58743867f7754b3ff632645ed6"
+    },
+    "step_20cm|strategic|bridge_immune|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\a5b82b4a71d4b27cd944a304898ec9656093daff5ca3dcd726614ae1f30f1b68.npy",
+      "sha256": "d5f212fdae4d3eacbbdeaf54fc99e83aacf9df9a27ff10231335ef0c81402068"
+    },
+    "step_50cm|strategic|exposed|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\a8e379eda1594ac11b335e50a0d230b89991e93e297aad4911eb6265520c4da1.npy",
+      "sha256": "1141f250a32b7e828ae88c20aa49835698b69032bef740f69871f85f533cada2"
+    },
+    "step_50cm|strategic|bridge_immune|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\strategic\\62285fff77c5602b3cc2dab5b85336d7b74d14b317bf26bf73cffd04858829c9.npy",
+      "sha256": "11bbd442e0358025533a4133c75ccbd40518fa143b0641b9e7f1ac263940805d"
+    },
+    "published_curve|expanded|exposed|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\347316103290e04b86b1e1e0604743f162ba57f7c73182dbab794f9c4a89cc20.npy",
+      "sha256": "234e6c4243a89d80ce4a616885a1b2e3c8a271604866d00487184050f08177e5"
+    },
+    "published_curve|expanded|bridge_immune|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\e024d4367992e5924da1368975c5df2e282ed78b4fd5a041a5a0c63823c2b1eb.npy",
+      "sha256": "291ccdbabe1622d678c13bdb80427738c07a62e63b3ebadccd8add6cf48b6b38"
+    },
+    "step_20cm|expanded|exposed|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\cb7e373969bc99abe4dd992f45fe68a3b56ce46b874218cc49677100f05f3975.npy",
+      "sha256": "81f6f57ccd38884de7bf707f9fa6cebcb91e98f5a37a0d9ac02be523a892c37c"
+    },
+    "step_20cm|expanded|bridge_immune|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\373cdced556c2d5265d405517ebbff8e58a11a876f924cb9d3aaf8d1d98a2719.npy",
+      "sha256": "2accbb5aa52722ac0ee6b01713d8355f8bba965fd9c2142f305578ea4f4eda85"
+    },
+    "step_50cm|expanded|exposed|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\2b899b9904896aac8f326ba736907bd2f960e29907f923da212601bf78544dbb.npy",
+      "sha256": "8991a25b68247c4f040f82e9dfc52730a730aa4804cac2c3eabf0e97a31d9b39"
+    },
+    "step_50cm|expanded|bridge_immune|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\6277f9b4c63dba9f8de8b3677dfdf6f1231e0aa2dba9001276ca2e3851b2edf2.npy",
+      "sha256": "f7294292561f3e57604f0ea7bec0988bb11e503e1cd8c5a9e7d890709b1c4268"
+    },
+    "published_curve|expanded|exposed|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\347316103290e04b86b1e1e0604743f162ba57f7c73182dbab794f9c4a89cc20.npy",
+      "sha256": "234e6c4243a89d80ce4a616885a1b2e3c8a271604866d00487184050f08177e5"
+    },
+    "published_curve|expanded|bridge_immune|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\e024d4367992e5924da1368975c5df2e282ed78b4fd5a041a5a0c63823c2b1eb.npy",
+      "sha256": "291ccdbabe1622d678c13bdb80427738c07a62e63b3ebadccd8add6cf48b6b38"
+    },
+    "step_20cm|expanded|exposed|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\cb7e373969bc99abe4dd992f45fe68a3b56ce46b874218cc49677100f05f3975.npy",
+      "sha256": "81f6f57ccd38884de7bf707f9fa6cebcb91e98f5a37a0d9ac02be523a892c37c"
+    },
+    "step_20cm|expanded|bridge_immune|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\373cdced556c2d5265d405517ebbff8e58a11a876f924cb9d3aaf8d1d98a2719.npy",
+      "sha256": "2accbb5aa52722ac0ee6b01713d8355f8bba965fd9c2142f305578ea4f4eda85"
+    },
+    "step_50cm|expanded|exposed|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\2b899b9904896aac8f326ba736907bd2f960e29907f923da212601bf78544dbb.npy",
+      "sha256": "8991a25b68247c4f040f82e9dfc52730a730aa4804cac2c3eabf0e97a31d9b39"
+    },
+    "step_50cm|expanded|bridge_immune|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\ES017L2\\expanded\\6277f9b4c63dba9f8de8b3677dfdf6f1231e0aa2dba9001276ca2e3851b2edf2.npy",
+      "sha256": "f7294292561f3e57604f0ea7bec0988bb11e503e1cd8c5a9e7d890709b1c4268"
+    }
+  },
+  "checks": "curve same reachability and threshold monotonicity passed for all rows"
+}

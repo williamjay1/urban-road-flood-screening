@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "cities": 36,
+  "comparisons": 10368,
+  "matrix_references_hashed": 864,
+  "maximum_error": 1.7763568394002505e-15
+}

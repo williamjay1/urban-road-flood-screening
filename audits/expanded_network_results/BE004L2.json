@@ -1,0 +1,83 @@
+{
+  "code": "BE004L2",
+  "rows": 26033,
+  "nodes": 150296,
+  "segments": 158645,
+  "baseline_pair_reachability": 1.0,
+  "frozen_legacy_anchor_weight_total": 0.9999999999999999,
+  "scope": "Adds all road classes present in the source extraction, retaining the same direction/access interpretation and 1m coordinate topology. Does not establish complete public vehicle access or recover omitted roads.",
+  "scenarios": [
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "D": 0.5244697954279678,
+      "U": 0.4537720965765587
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "D": 0.5244697954279678,
+      "U": 0.4537720965765587
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "D": 0.5244697954279678,
+      "U": 0.4537720965765587
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "D": 0.3564447048800533,
+      "U": 0.29043296550288134
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "D": 0.3564447048800533,
+      "U": 0.29043296550288134
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "D": 0.3559828844030645,
+      "U": 0.29043296550288134
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "D": 0.3564447048800533,
+      "U": 0.29043296550288134
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "D": 0.3564447048800533,
+      "U": 0.29043296550288134
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "D": 0.3559828844030645,
+      "U": 0.29043296550288134
+    }
+  ]
+}

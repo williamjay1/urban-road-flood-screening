@@ -1,0 +1,13 @@
+{
+  "files": {
+    "sources/boundaries.geojson": "4b5423cb8a551b6c70506ca6271c221ab0b00f99fac961d5e4a31f15de0352bd",
+    "sources/JRC-GEOSTAT_2018_TechnicalFactsheet.pdf": "dbe0456d9f13e2d9b4dc020d25ed09a58e14462a7877d2e4a0e72d18fb90a85d",
+    "sources/JRC_1K_POP_2018.tif": "4372a58f2e4a0b0bd784ef72761717e524bbf4007afe5691b1f16bfb3b187c31"
+  },
+  "population_archive_url": "https://ec.europa.eu/eurostat/cache/GISCO/geodatafiles/JRC_GRID_2018.zip",
+  "population_archive_sha256": "894f4fc114c683701b979b05a52a381979a551146f1e1ded0a4f50a22e94d17d",
+  "population_reference_period": "2018, varying 2016\u20132019 by country; technical factsheet 29 March 2021",
+  "boundary_release": "GISCO Urban Audit 2018 FUA",
+  "boundary_source_sha256": "4b5423cb8a551b6c70506ca6271c221ab0b00f99fac961d5e4a31f15de0352bd",
+  "attribution": "OpenStreetMap contributors (ODbL); European Commission JRC/Eurostat GISCO; Copernicus Emergency Management Service. Original third-party terms remain applicable."
+}

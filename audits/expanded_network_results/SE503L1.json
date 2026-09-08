@@ -1,0 +1,83 @@
+{
+  "code": "SE503L1",
+  "rows": 18684,
+  "nodes": 115626,
+  "segments": 121595,
+  "baseline_pair_reachability": 1.0,
+  "frozen_legacy_anchor_weight_total": 1.0,
+  "scope": "Adds all road classes present in the source extraction, retaining the same direction/access interpretation and 1m coordinate topology. Does not establish complete public vehicle access or recover omitted roads.",
+  "scenarios": [
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "D": 0.4476719322629636,
+      "U": 0.2921344919829385
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "D": 0.4476719322629636,
+      "U": 0.2921344919829385
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "D": 0.4312382521870876,
+      "U": 0.2921344919829385
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "D": 0.44753902271854795,
+      "U": 0.2921344919829385
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "D": 0.44753902271854795,
+      "U": 0.2921344919829385
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "D": 0.43108164725435894,
+      "U": 0.2921344919829385
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "D": 0.44753902271854795,
+      "U": 0.2921344919829385
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "D": 0.44753902271854795,
+      "U": 0.2921344919829385
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "D": 0.43108164725435894,
+      "U": 0.2921344919829385
+    }
+  ]
+}

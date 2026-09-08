@@ -1,0 +1,29 @@
+{
+  "title": "Population geography and hazard intensity in urban road flood screening: data and code",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "description": "Reproducibility software and derived inputs for a probability sample of 36 European functional urban areas, covering 10-, 100- and 500-year flood layers and 13,824 scenario records. Junjie Zhang is the sole creator. Results are modeled screening contrasts, not observed traffic or annual flood risk. The archive includes actual derived data in the repository snapshot, not only links to release assets. Original GISCO boundary geometry, the original GEOSTAT raster and country outlines are not redistributed; acquisition identifiers and an optional source-recovery script are provided. Core scenario recomputation uses the included derived arrays. Original software is MIT-licensed; OSM-derived databases remain ODbL-1.0, and JRC/Copernicus/GISCO materials retain their source-specific terms as detailed in SOURCE_ATTRIBUTION.md and THIRD_PARTY_TERMS.md. No manuscript publication or journal acceptance is implied.",
+  "creators": [
+    {
+      "name": "Zhang, Junjie",
+      "orcid": "0009-0004-8821-4018",
+      "affiliation": "Shanghai International Studies University"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "flooding",
+    "road networks",
+    "population geography",
+    "accessibility",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/williamjay1/urban-road-flood-screening",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

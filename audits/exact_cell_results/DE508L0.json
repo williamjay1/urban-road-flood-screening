@@ -1,0 +1,981 @@
+{
+  "code": "DE508L0",
+  "status": "NUMERICAL_REFERENCE_NOT_OBSERVED_VALIDATION",
+  "cells_traversed": 12865,
+  "semantics": "Positive-length cell intersections; invalid cells inherit zero only for controlled historical comparison. Cell fractions follow the source geographic polyline parameter.",
+  "scenarios": [
+    {
+      "envelope": "raw",
+      "period": "RP10",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "wet_length_km": 0.6748892954762149,
+      "closed_segment_length_km": 0.9638823425793928,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "cda7a2dae4bd5486bd9a0bc81896e57d1332f20e19afc2a5c12dc9d873fd668e"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "9a88da11ef2f826e9663369bd71caa971b661880be1b1b4fafe833e16a6a461f"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP10",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "wet_length_km": 0.6748892954762149,
+      "closed_segment_length_km": 0.9638823425793928,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "cda7a2dae4bd5486bd9a0bc81896e57d1332f20e19afc2a5c12dc9d873fd668e"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "9a88da11ef2f826e9663369bd71caa971b661880be1b1b4fafe833e16a6a461f"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP10",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "wet_length_km": 0.6748892954762149,
+      "closed_segment_length_km": 0.9638823425793928,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "cda7a2dae4bd5486bd9a0bc81896e57d1332f20e19afc2a5c12dc9d873fd668e"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "9a88da11ef2f826e9663369bd71caa971b661880be1b1b4fafe833e16a6a461f"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP10",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP10",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP10",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP10",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP10",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP10",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP100",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "wet_length_km": 20.74403466336384,
+      "closed_segment_length_km": 22.931018042985126,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "174ab0b6647b21708db4073c3dc32799a0c081dd3cb5e637204518e6d568fd09"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "be401efe7f93a41c100a5a73732752326c6ef11d5ea61865970868cda21e6688"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP100",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "wet_length_km": 20.74403466336384,
+      "closed_segment_length_km": 21.014108152449793,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "6467a424d29b22d6d128614c9f94ae5399a3946d26c19fda766aec3376abe35b"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "82b3f46fda269c6f5974f1263fc5d233074e43d8e8d891f7a37433fec9078865"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP100",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "wet_length_km": 20.74403466336384,
+      "closed_segment_length_km": 19.010255410812405,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "ec0274c5794962bec90b90f03c06ad2cd155cb332c1771cbb3f3c89658737281"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "a7ee7b9e8aeacde336bde0c5ccb5f80959bc70bc3a9d697b85a7f14fa7a53cd8"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP100",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "wet_length_km": 20.346481660336316,
+      "closed_segment_length_km": 22.522124752506063,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "891c939bdb84ad431b0f342efb036d4c23a181b99a61f0c577125381922cf2b6"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "633e945536813951e9455ab08b26b297d851584f7e697eddf23e37afc61155af"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP100",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "wet_length_km": 20.346481660336316,
+      "closed_segment_length_km": 20.605214861970726,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "28e24b6fa7d13c935f218e2c531638c7b04057c3e6b56bff1584c14d1de5fed2"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "d989df1b5271c24c1926765a34ed1df1cee97b2cad2097e9fb448c5a57afb3ba"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP100",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "wet_length_km": 20.346481660336316,
+      "closed_segment_length_km": 18.60136212033334,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "96755657c36984094b1a622db33a843a7665f9dcf5752ef257caa60a030ace65"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "315520f6d72a7716100023c80fe39e619e472e070422ec4e5a85ef8176719f5a"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP100",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "wet_length_km": 20.272490545282537,
+      "closed_segment_length_km": 22.448133637452283,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "bd47697cc60aceb1097aab7e74c0c442521f09339d60a99367e3bdbe9d864980"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "55243169bd110aa979dc4542cc7beac23918641df9bf712ea7905e45369f2a2a"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP100",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "wet_length_km": 20.272490545282537,
+      "closed_segment_length_km": 20.53122374691695,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "c2288fafc76b9f1b9db8553423201257b5ba061ed90841c5e92588b5e2fb7d28"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "73c0329bf123ab115fd4afa733be09e6880505245415f1f1225043bfb45434e1"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP100",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "wet_length_km": 20.272490545282537,
+      "closed_segment_length_km": 18.527371005279566,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "baf2fc189827a37a6c7e16686eb1c89823fbc4fd1f163be0da77c2ddd0616910"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "6fc86e956f378b8a3b90f06e16dc8af546231016d53a22d8a3da84dd91e2843a"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP500",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "wet_length_km": 32.66425823474344,
+      "closed_segment_length_km": 34.70878939269289,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "96dd0bf9ed69068051f61d52012adacd1fd22deab7bb460d0074c3633a8d5e92"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "2d4aab10c7913f982db6ee20aeee7b29998a749b209ba4c2760536f1ade5fddc"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP500",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "wet_length_km": 32.66425823474344,
+      "closed_segment_length_km": 32.894419912923524,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "1a015ec54cdd539f8161d61514cb4c9e833aceddb6c078279b2bf07a3f368d5f"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "a77744fbe1a38a2c27bf5ef5367fdfdde87465404ff7c5525d5fbe07b5d9e170"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP500",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "wet_length_km": 32.66425823474344,
+      "closed_segment_length_km": 31.49810933024686,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "f01d3a29ec900215af2ad27e89ac8cbc3747443f7a04d4b613d923f0dcce18bf"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "ed1c9d268d3b33cd31583588bbaa597f70514d0b675bebeacca65e99b256e28b"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP500",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "wet_length_km": 32.1404387288119,
+      "closed_segment_length_km": 34.13761111876473,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "f38bc648a59b2d96c4f39936d7ca3f5dd6fdfedec63000294001c4820cb4e062"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "7165142e3d98bb65f5e0884d92d98daa4c7f1320f6e73216edb176774f4f14bb"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP500",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "wet_length_km": 32.1404387288119,
+      "closed_segment_length_km": 32.461031271845734,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "dafdf6ef7a788d01524b389e8a7aca29f525fda766c4c016374d81df2221dc2e"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "0ca43cf9ccd2db2844583eb1365227ac9f07ec34822ce5b383b6af57208d97c4"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP500",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "wet_length_km": 32.1404387288119,
+      "closed_segment_length_km": 31.06472068916907,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "23d35acd89d3f9c30131317346c08191defe0dfc8daec555a9148634496a9f8d"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "d32d8ed92f90c6c275739f3459fc40f326ed12830545897f6c4da703eae1dbc8"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP500",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "wet_length_km": 32.06644761375812,
+      "closed_segment_length_km": 34.06362000371095,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "d6c13f66bb7e0a83b1bfd1967755bf74ccec33f1c2a36bc88e40c91d247d614c"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "78c8bc6171ddaec40237e3b0d5eaef9bb759f7edc9b2fcacbc3d3d5de374806d"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP500",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "wet_length_km": 32.06644761375812,
+      "closed_segment_length_km": 32.38704015679196,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "bf834b52d2623aa0e020524451d1fddd7f7c12d24e27a1670100246f31b88129"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "e50233d8e9644da6b51f0b32084ee29dac6186433a79c5c26c45a56a34d2932c"
+      }
+    },
+    {
+      "envelope": "raw",
+      "period": "RP500",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "wet_length_km": 32.06644761375812,
+      "closed_segment_length_km": 30.9907295741153,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "90f87a9371261ef10a40e00e50afde513bacec674a924f38f4ef7954ba62f466"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "aeff8be5e36421aa56c53e458b164df53878b7ad7799120e3368285973d256d1"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP10",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "wet_length_km": 0.6748892954762149,
+      "closed_segment_length_km": 0.9638823425793928,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "cda7a2dae4bd5486bd9a0bc81896e57d1332f20e19afc2a5c12dc9d873fd668e"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "9a88da11ef2f826e9663369bd71caa971b661880be1b1b4fafe833e16a6a461f"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP10",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "wet_length_km": 0.6748892954762149,
+      "closed_segment_length_km": 0.9638823425793928,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "cda7a2dae4bd5486bd9a0bc81896e57d1332f20e19afc2a5c12dc9d873fd668e"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "9a88da11ef2f826e9663369bd71caa971b661880be1b1b4fafe833e16a6a461f"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP10",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "wet_length_km": 0.6748892954762149,
+      "closed_segment_length_km": 0.9638823425793928,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "cda7a2dae4bd5486bd9a0bc81896e57d1332f20e19afc2a5c12dc9d873fd668e"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "9a88da11ef2f826e9663369bd71caa971b661880be1b1b4fafe833e16a6a461f"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP10",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP10",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP10",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP10",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP10",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP10",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "wet_length_km": 0.3918114514790572,
+      "closed_segment_length_km": 0.6694642111306931,
+      "integrated": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "8085868a03294afa6d4e1fe669f9f4568518512d15ab975c77456a75a495b56d"
+      },
+      "segment_max": {
+        "D": 0.0,
+        "U": 0.0,
+        "travel_matrix_hash": "00ab9deb318bdeb04428d27f6c942b3a7d4b1f477ad82cf41944d8c60b5c7c31"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP100",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "wet_length_km": 20.74403466336384,
+      "closed_segment_length_km": 22.931018042985126,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "174ab0b6647b21708db4073c3dc32799a0c081dd3cb5e637204518e6d568fd09"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "be401efe7f93a41c100a5a73732752326c6ef11d5ea61865970868cda21e6688"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP100",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "wet_length_km": 20.74403466336384,
+      "closed_segment_length_km": 21.014108152449793,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "6467a424d29b22d6d128614c9f94ae5399a3946d26c19fda766aec3376abe35b"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "82b3f46fda269c6f5974f1263fc5d233074e43d8e8d891f7a37433fec9078865"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP100",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "wet_length_km": 20.74403466336384,
+      "closed_segment_length_km": 19.010255410812405,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "ec0274c5794962bec90b90f03c06ad2cd155cb332c1771cbb3f3c89658737281"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "a7ee7b9e8aeacde336bde0c5ccb5f80959bc70bc3a9d697b85a7f14fa7a53cd8"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP100",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "wet_length_km": 20.346481660336316,
+      "closed_segment_length_km": 22.522124752506063,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "891c939bdb84ad431b0f342efb036d4c23a181b99a61f0c577125381922cf2b6"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "633e945536813951e9455ab08b26b297d851584f7e697eddf23e37afc61155af"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP100",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "wet_length_km": 20.346481660336316,
+      "closed_segment_length_km": 20.605214861970726,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "28e24b6fa7d13c935f218e2c531638c7b04057c3e6b56bff1584c14d1de5fed2"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "d989df1b5271c24c1926765a34ed1df1cee97b2cad2097e9fb448c5a57afb3ba"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP100",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "wet_length_km": 20.346481660336316,
+      "closed_segment_length_km": 18.60136212033334,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "96755657c36984094b1a622db33a843a7665f9dcf5752ef257caa60a030ace65"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "315520f6d72a7716100023c80fe39e619e472e070422ec4e5a85ef8176719f5a"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP100",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "wet_length_km": 20.272490545282537,
+      "closed_segment_length_km": 22.448133637452283,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "bd47697cc60aceb1097aab7e74c0c442521f09339d60a99367e3bdbe9d864980"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "55243169bd110aa979dc4542cc7beac23918641df9bf712ea7905e45369f2a2a"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP100",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "wet_length_km": 20.272490545282537,
+      "closed_segment_length_km": 20.53122374691695,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "c2288fafc76b9f1b9db8553423201257b5ba061ed90841c5e92588b5e2fb7d28"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "73c0329bf123ab115fd4afa733be09e6880505245415f1f1225043bfb45434e1"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP100",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "wet_length_km": 20.272490545282537,
+      "closed_segment_length_km": 18.527371005279566,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "baf2fc189827a37a6c7e16686eb1c89823fbc4fd1f163be0da77c2ddd0616910"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "6fc86e956f378b8a3b90f06e16dc8af546231016d53a22d8a3da84dd91e2843a"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP500",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "wet_length_km": 32.66425823474344,
+      "closed_segment_length_km": 34.70878939269289,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "96dd0bf9ed69068051f61d52012adacd1fd22deab7bb460d0074c3633a8d5e92"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "2d4aab10c7913f982db6ee20aeee7b29998a749b209ba4c2760536f1ade5fddc"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP500",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "wet_length_km": 32.66425823474344,
+      "closed_segment_length_km": 32.894419912923524,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "1a015ec54cdd539f8161d61514cb4c9e833aceddb6c078279b2bf07a3f368d5f"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "a77744fbe1a38a2c27bf5ef5367fdfdde87465404ff7c5525d5fbe07b5d9e170"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP500",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "wet_length_km": 32.66425823474344,
+      "closed_segment_length_km": 31.49810933024686,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "f01d3a29ec900215af2ad27e89ac8cbc3747443f7a04d4b613d923f0dcce18bf"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "ed1c9d268d3b33cd31583588bbaa597f70514d0b675bebeacca65e99b256e28b"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP500",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "wet_length_km": 32.1404387288119,
+      "closed_segment_length_km": 34.13761111876473,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "f38bc648a59b2d96c4f39936d7ca3f5dd6fdfedec63000294001c4820cb4e062"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "7165142e3d98bb65f5e0884d92d98daa4c7f1320f6e73216edb176774f4f14bb"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP500",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "wet_length_km": 32.1404387288119,
+      "closed_segment_length_km": 32.461031271845734,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "dafdf6ef7a788d01524b389e8a7aca29f525fda766c4c016374d81df2221dc2e"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "0ca43cf9ccd2db2844583eb1365227ac9f07ec34822ce5b383b6af57208d97c4"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP500",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "wet_length_km": 32.1404387288119,
+      "closed_segment_length_km": 31.06472068916907,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "23d35acd89d3f9c30131317346c08191defe0dfc8daec555a9148634496a9f8d"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "d32d8ed92f90c6c275739f3459fc40f326ed12830545897f6c4da703eae1dbc8"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP500",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "wet_length_km": 32.06644761375812,
+      "closed_segment_length_km": 34.06362000371095,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "d6c13f66bb7e0a83b1bfd1967755bf74ccec33f1c2a36bc88e40c91d247d614c"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "78c8bc6171ddaec40237e3b0d5eaef9bb759f7edc9b2fcacbc3d3d5de374806d"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP500",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "wet_length_km": 32.06644761375812,
+      "closed_segment_length_km": 32.38704015679196,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "bf834b52d2623aa0e020524451d1fddd7f7c12d24e27a1670100246f31b88129"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "e50233d8e9644da6b51f0b32084ee29dac6186433a79c5c26c45a56a34d2932c"
+      }
+    },
+    {
+      "envelope": "cumulative",
+      "period": "RP500",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "wet_length_km": 32.06644761375812,
+      "closed_segment_length_km": 30.9907295741153,
+      "integrated": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "90f87a9371261ef10a40e00e50afde513bacec674a924f38f4ef7954ba62f466"
+      },
+      "segment_max": {
+        "D": 0.30271844707217366,
+        "U": 0.3012451780004688,
+        "travel_matrix_hash": "aeff8be5e36421aa56c53e458b164df53878b7ad7799120e3368285973d256d1"
+      }
+    }
+  ],
+  "seconds": 7.44492769241333
+}

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "cities": [
+    {
+      "code": "BE004L2",
+      "metric_comparisons": 1152,
+      "max_absolute_error": 0.0
+    }
+  ]
+}

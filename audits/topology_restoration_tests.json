@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "short_link_preserves_connectivity": true,
+  "direction_preserved": true,
+  "distinct_crossing_has_no_transfer": true
+}

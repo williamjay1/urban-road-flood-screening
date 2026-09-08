@@ -1,0 +1,156 @@
+{
+  "code": "ES004L3",
+  "mask_metadata": {
+    "permanent": {
+      "path_name": "Europe_permanent_water_bodies.tif",
+      "nodata": -9999.0,
+      "sample_values_counts": {
+        "0.0": 127231,
+        "1.0": 635
+      }
+    },
+    "spurious": {
+      "path_name": "Europe_spurious_depth_areas.tif",
+      "nodata": -9999.0,
+      "sample_values_counts": {
+        "0.0": 127732,
+        "1.0": 134
+      }
+    }
+  },
+  "interpretation": "Zeroing flagged depths is a lower-hazard sensitivity bound, not evidence that flagged flooding is absent. Permanent water is not itself proof that a crossing road is elevated.",
+  "scenarios": [
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "retained",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "flagged_wet_km": 0.0,
+      "D": 0.8054771156068852,
+      "U": 0.8041773068756259,
+      "travel_matrix_hash": "27450497bb84f013e0b97d56a453b90fd6a7560094a4d30d642b1c4a70d623f3"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "retained",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "flagged_wet_km": 0.0,
+      "D": 0.679668133282205,
+      "U": 0.6783683245509459,
+      "travel_matrix_hash": "8ecef1c84b686cf4c5c756c712e3e8ff42b285c89323afa57936837174fc244f"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "retained",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "flagged_wet_km": 0.0,
+      "D": 0.679668133282205,
+      "U": 0.6783683245509459,
+      "travel_matrix_hash": "b28be5b1adbc91b6fb3ae26646c4c4ae653d1f3b834c03844df816d16cf5ba98"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "spurious_zero_bound",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "flagged_wet_km": 0.06551648538433211,
+      "D": 0.8054771156068852,
+      "U": 0.8041773068756259,
+      "travel_matrix_hash": "6d767ce6af270f4f7506bcdb89cfa38df228ea7527907abcdd75cb46f21a79ce"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "spurious_zero_bound",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "flagged_wet_km": 0.06551648538433211,
+      "D": 0.679668133282205,
+      "U": 0.6783683245509459,
+      "travel_matrix_hash": "8ecef1c84b686cf4c5c756c712e3e8ff42b285c89323afa57936837174fc244f"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "spurious_zero_bound",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "flagged_wet_km": 0.06551648538433211,
+      "D": 0.679668133282205,
+      "U": 0.6783683245509459,
+      "travel_matrix_hash": "b28be5b1adbc91b6fb3ae26646c4c4ae653d1f3b834c03844df816d16cf5ba98"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "permanent_zero_bound",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "flagged_wet_km": 18.03096027286088,
+      "D": 0.7769160737880441,
+      "U": 0.7528070940001206,
+      "travel_matrix_hash": "9cd10be70262ab9f0dffcccb947c1b499d84eb9275933d8458c8ab17ae0044bc"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "permanent_zero_bound",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "flagged_wet_km": 18.03096027286088,
+      "D": 0.679668133282205,
+      "U": 0.6783683245509459,
+      "travel_matrix_hash": "9c60f2e8d5384e17fbf4587f9a30ae71da64d7f163a4c53282d9c6ba9f35df5f"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "permanent_zero_bound",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "flagged_wet_km": 18.03096027286088,
+      "D": 0.679668133282205,
+      "U": 0.6783683245509459,
+      "travel_matrix_hash": "627c75b1a4453063b51683dcaf6b7a376e7a186868e55e7204bb10c2e5286c33"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "both_zero_bound",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "flagged_wet_km": 18.03096027286088,
+      "D": 0.7769160737880441,
+      "U": 0.7528070940001206,
+      "travel_matrix_hash": "9cd10be70262ab9f0dffcccb947c1b499d84eb9275933d8458c8ab17ae0044bc"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "both_zero_bound",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "flagged_wet_km": 18.03096027286088,
+      "D": 0.679668133282205,
+      "U": 0.6783683245509459,
+      "travel_matrix_hash": "9c60f2e8d5384e17fbf4587f9a30ae71da64d7f163a4c53282d9c6ba9f35df5f"
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "mask_policy": "both_zero_bound",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "flagged_wet_km": 18.03096027286088,
+      "D": 0.679668133282205,
+      "U": 0.6783683245509459,
+      "travel_matrix_hash": "627c75b1a4453063b51683dcaf6b7a376e7a186868e55e7204bb10c2e5286c33"
+    }
+  ]
+}

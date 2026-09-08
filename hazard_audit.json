@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "complete_cities": 36,
+  "scenario_rows": 13824,
+  "independent_source_array_comparisons": 108,
+  "unique_matrix_hash_checks": 621,
+  "RP100_replay_max_error": 2.6645352591003757e-15,
+  "independent_heap_matrix_checks": 8,
+  "independent_heap_max_error_minutes": 4.440892098500626e-16,
+  "independent_scalar_metric_comparisons": 288,
+  "independent_scalar_max_error": 5.651035195342047e-14,
+  "scalar_scope": "All occupied endpoints in Zamora, both scopes, three return periods, four weighting models, four impedances, exposed bridges and retained depths"
+}

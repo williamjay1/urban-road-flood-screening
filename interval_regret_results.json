@@ -1,0 +1,137 @@
+{
+  "tests": {
+    "status": "PASS",
+    "cases": [
+      {
+        "n": 6,
+        "k": 2,
+        "oracle_error": 0.0,
+        "vertex_error": 0.0
+      },
+      {
+        "n": 7,
+        "k": 3,
+        "oracle_error": 0.0,
+        "vertex_error": 0.0
+      },
+      {
+        "n": 9,
+        "k": 4,
+        "oracle_error": 0.0,
+        "vertex_error": 0.0
+      }
+    ]
+  },
+  "interpretation": "Independent city-specific full score ranges; conservative box containing the finite shared settings. Not a probability interval or observed benefit.",
+  "capacities": {
+    "6": {
+      "selected_codes": [
+        "ES017L2",
+        "ES059L1",
+        "ES515L1",
+        "HU006L2",
+        "IT014L2",
+        "SK006L1"
+      ],
+      "certificate": {
+        "certified_lower": 0.29976749420166016,
+        "certified_upper": 0.29976844787597656,
+        "actual_regret": 0.29976816811626994,
+        "absolute_gap": 9.5367431640625e-07
+      },
+      "existing_strategy_box_regret": {
+        "baseline": 0.29976816811626994,
+        "mean_score": 0.30453170357468906,
+        "mean_rank": 0.30453170357468906,
+        "minimax": 0.3082805239254761
+      }
+    },
+    "9": {
+      "selected_codes": [
+        "ES004L3",
+        "ES017L2",
+        "ES059L1",
+        "ES515L1",
+        "FR036L2",
+        "HU006L2",
+        "IT014L2",
+        "SK006L1",
+        "SK008L1"
+      ],
+      "certificate": {
+        "certified_lower": 0.2783060073852539,
+        "certified_upper": 0.2783070198182025,
+        "actual_regret": 0.2783070198182025,
+        "absolute_gap": 1.0124329485883266e-06
+      },
+      "existing_strategy_box_regret": {
+        "baseline": 0.2800984304590375,
+        "mean_score": 0.2783070198182025,
+        "mean_rank": 0.2783070198182025,
+        "minimax": 0.2783070198182025
+      }
+    },
+    "12": {
+      "selected_codes": [
+        "DE058L1",
+        "ES004L3",
+        "ES017L2",
+        "ES059L1",
+        "ES515L1",
+        "FR036L2",
+        "HU006L2",
+        "IT014L2",
+        "PT016L1",
+        "SE007L1",
+        "SK006L1",
+        "SK008L1"
+      ],
+      "certificate": {
+        "certified_lower": 0.23992347717285156,
+        "certified_upper": 0.23992443084716797,
+        "actual_regret": 0.2399236215600684,
+        "absolute_gap": 9.5367431640625e-07
+      },
+      "existing_strategy_box_regret": {
+        "baseline": 0.25326960160788936,
+        "mean_score": 0.24094515729758137,
+        "mean_rank": 0.2412403764480251,
+        "minimax": 0.2448184660424172
+      }
+    },
+    "18": {
+      "selected_codes": [
+        "CZ004L2",
+        "DE058L1",
+        "DE544L1",
+        "ES004L3",
+        "ES017L2",
+        "ES059L1",
+        "ES515L1",
+        "FR021L2",
+        "FR036L2",
+        "HU006L2",
+        "HU012L1",
+        "IT014L2",
+        "PT016L1",
+        "RO007L1",
+        "SE007L1",
+        "SK006L1",
+        "SK008L1",
+        "UK557L1"
+      ],
+      "certificate": {
+        "certified_lower": 0.14432430267333984,
+        "certified_upper": 0.14432525634765625,
+        "actual_regret": 0.14432441239430527,
+        "absolute_gap": 9.5367431640625e-07
+      },
+      "existing_strategy_box_regret": {
+        "baseline": 0.1490192435359059,
+        "mean_score": 0.1456719061687698,
+        "mean_rank": 0.1473687229461006,
+        "minimax": 0.1456719061687699
+      }
+    }
+  }
+}

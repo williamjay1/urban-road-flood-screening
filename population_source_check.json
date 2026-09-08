@@ -1,0 +1,72 @@
+{
+  "source": "E:\\AcademicData\\europe_activity_population_accessibility_jtg\\raw\\jtg_evidence_first_20260904\\geostat_2018\\JRC_GRID_2018.zip",
+  "sha256": "894f4fc114c683701b979b05a52a381979a551146f1e1ded0a4f50a22e94d17d",
+  "zip_crc": "PASS",
+  "members": [
+    {
+      "name": "JRC-GEOSTAT_2018_TechnicalFactsheet.pdf",
+      "size": 427869
+    },
+    {
+      "name": "JRC_1K_POP_2018.tfw",
+      "size": 96
+    },
+    {
+      "name": "JRC_1K_POP_2018.tif",
+      "size": 4179006
+    },
+    {
+      "name": "JRC_1K_POP_2018.tif.aux.xml",
+      "size": 1586
+    },
+    {
+      "name": "JRC_1K_POP_2018.tif.ovr",
+      "size": 1310956
+    },
+    {
+      "name": "JRC_1K_POP_2018.tif.vat.cpg",
+      "size": 5
+    },
+    {
+      "name": "JRC_1K_POP_2018.tif.vat.dbf",
+      "size": 378338
+    },
+    {
+      "name": "JRC_1K_POP_2018.tif.xml",
+      "size": 7431
+    },
+    {
+      "name": "JRC_POPULATION_2018.cpg",
+      "size": 5
+    },
+    {
+      "name": "JRC_POPULATION_2018.dbf",
+      "size": 1520061221
+    },
+    {
+      "name": "JRC_POPULATION_2018.prj",
+      "size": 380
+    },
+    {
+      "name": "JRC_POPULATION_2018.sbn",
+      "size": 20063028
+    },
+    {
+      "name": "JRC_POPULATION_2018.sbx",
+      "size": 226260
+    },
+    {
+      "name": "JRC_POPULATION_2018.shp",
+      "size": 328661916
+    },
+    {
+      "name": "JRC_POPULATION_2018.shp.xml",
+      "size": 12448
+    },
+    {
+      "name": "JRC_POPULATION_2018.shx",
+      "size": 19333148
+    }
+  ],
+  "cache": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\geostat_2018"
+}

@@ -1,0 +1,355 @@
+{
+  "references": [
+    {
+      "doi": "10.1007/s11069-025-07907-8",
+      "title": [
+        "Assessing road-watercourse crossing overtopping potential using GIS and remote sensing: a large-scale screening approach"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5959-9802",
+          "authenticated-orcid": false,
+          "given": "Michele",
+          "family": "Amaddii",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0304-0289",
+          "authenticated-orcid": false,
+          "given": "Fabio",
+          "family": "Castelli",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8096-7435",
+          "authenticated-orcid": false,
+          "given": "Chiara",
+          "family": "Arrighi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "journal": [
+        "Natural Hazards"
+      ],
+      "volume": "122",
+      "page": null,
+      "article_number": "108",
+      "raw_sha256": "385a37f4f4005666305e4fab8da0019c80a582611bb5038f4ae9e4df08ee50dd",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "doi": "10.1007/s11069-026-08025-9",
+      "title": [
+        "Road interruptions due to landslides and floods in Southern Italy"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6918-1135",
+          "authenticated-orcid": false,
+          "given": "Olga",
+          "family": "Petrucci",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1605-7701",
+          "authenticated-orcid": false,
+          "given": "Stefano Luigi",
+          "family": "Gariano",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "journal": [
+        "Natural Hazards"
+      ],
+      "volume": "122",
+      "page": null,
+      "article_number": "209",
+      "raw_sha256": "f074011a9b424f3b51f1025b1dbe1fcfbd6f39303e8be73570bfce20f7927b8a",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            23
+          ]
+        ]
+      }
+    },
+    {
+      "doi": "10.1007/s11069-026-08308-1",
+      "title": [
+        "The contribution of fine-grained exposure data to flood risk assessment along the Niger River"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6409-9458",
+          "authenticated-orcid": false,
+          "given": "Maurizio",
+          "family": "Tiepolo",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0006-3970-340X",
+          "authenticated-orcid": false,
+          "given": "Mohamed Ibrahim",
+          "family": "Housseini",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-7337-6791",
+          "authenticated-orcid": false,
+          "given": "Giorgio",
+          "family": "Cannella",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1696-929X",
+          "authenticated-orcid": false,
+          "given": "Gaptia Lawan",
+          "family": "Katielliou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0605-6200",
+          "authenticated-orcid": false,
+          "given": "Daniele",
+          "family": "Ganora",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0001-2130-3962",
+          "authenticated-orcid": false,
+          "given": "Alejandro Marmolejo",
+          "family": "Guti\u00e9rrez",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0003-3988-9513",
+          "authenticated-orcid": false,
+          "given": "Francesco",
+          "family": "Saretto",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2290-6746",
+          "authenticated-orcid": false,
+          "given": "Vieri",
+          "family": "Tarchiani",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2358-2640",
+          "authenticated-orcid": false,
+          "given": "Riccardo",
+          "family": "Vesipa",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "journal": [
+        "Natural Hazards"
+      ],
+      "volume": "122",
+      "page": null,
+      "article_number": "554",
+      "raw_sha256": "28358538cf98f25037325e3d60eca6221f132d29e87433cb96309eaeb036acb9",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            21
+          ]
+        ]
+      }
+    },
+    {
+      "doi": "10.5194/egusphere-2026-4082",
+      "title": [
+        "Medical deserts induced by pluvial flood: emergency medical accessibility loss and population exposure"
+      ],
+      "authors": [
+        {
+          "given": "Yating",
+          "family": "Yang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaodong",
+          "family": "Guo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lu",
+          "family": "Han",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Chenhong",
+          "family": "Xia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhitao",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "journal": [
+        "EGUsphere (preprint)"
+      ],
+      "volume": null,
+      "page": null,
+      "article_number": null,
+      "raw_sha256": "f3e81a9bbbe2d03a1ad88c90f9e60497b6524924a1ab8b0f020a7f0bcbb2a36e",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            21
+          ]
+        ]
+      }
+    }
+  ]
+}

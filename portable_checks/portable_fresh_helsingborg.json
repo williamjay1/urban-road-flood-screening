@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "cities": [
+    {
+      "code": "SE503L1",
+      "metric_comparisons": 1152,
+      "max_absolute_error": 0.0
+    }
+  ],
+  "cumulative": [
+    {
+      "code": "SE503L1",
+      "metric_comparisons": 192,
+      "max_error": 0.0
+    }
+  ]
+}

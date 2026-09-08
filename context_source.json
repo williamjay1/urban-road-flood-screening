@@ -1,0 +1,8 @@
+{
+  "url": "https://gisco-services.ec.europa.eu/distribution/v2/countries/geojson/CNTR_RG_10M_2024_4326.geojson",
+  "raw_path": "E:\\AcademicData\\flood_network_validation_20260908\\raw\\natural_hazards_revision3\\CNTR_RG_10M_2024_4326.geojson",
+  "working_path": "D:\\MLWork\\flood_network_submission_20260908\\revision3\\context_inputs\\CNTR_RG_10M_2024_4326.geojson",
+  "sha256": "bb418fe0c0c295c8467b96db7d2064e883c70c0723e6ceeebc38a38c086ba162",
+  "purpose": "Cartographic country outlines only, not an analytical input",
+  "attribution": "Eurostat GISCO, administrative boundaries, 2024"
+}

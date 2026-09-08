@@ -1,0 +1,457 @@
+{
+  "status": "COMPLETE_SPARSE_SUPPORT_ONLY",
+  "cities": 36,
+  "scope": "Original 9-12 anchors, raw RP100, strategic roads, exposed bridges, exact integrated costs. This does not extend the main 384-anchor scenario envelope.",
+  "threshold_comparisons": {
+    "0.2": {
+      "median_absolute_D_change": 0.0,
+      "maximum_absolute_D_change": 0.08938572564979153,
+      "maximum_city": "PT016L1",
+      "cities_with_D_change_above_1e_10": 3,
+      "minimum_signed_D_change": 0.0,
+      "maximum_signed_D_change": 0.08938572564979153
+    },
+    "0.5": {
+      "median_absolute_D_change": 0.0,
+      "maximum_absolute_D_change": 0.08740414868813406,
+      "maximum_city": "ES515L1",
+      "cities_with_D_change_above_1e_10": 6,
+      "minimum_signed_D_change": -0.08740414868813406,
+      "maximum_signed_D_change": 0.0
+    }
+  },
+  "rows": [
+    {
+      "code": "BE004L2",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "BE004L2",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "CZ004L2",
+      "threshold": 0.2,
+      "D_change": 0.0025759216154741527,
+      "U_change": 0.0
+    },
+    {
+      "code": "CZ004L2",
+      "threshold": 0.5,
+      "D_change": -0.0051346276265287205,
+      "U_change": 0.0
+    },
+    {
+      "code": "DE058L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "DE058L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "DE508L0",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "DE508L0",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "DE544L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "DE544L1",
+      "threshold": 0.5,
+      "D_change": -0.010053003353390988,
+      "U_change": 0.0
+    },
+    {
+      "code": "ES004L3",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "ES004L3",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "ES017L2",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "ES017L2",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "ES054L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "ES054L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "ES059L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "ES059L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "ES515L1",
+      "threshold": 0.2,
+      "D_change": 0.014393376992903661,
+      "U_change": 0.02403409005806323
+    },
+    {
+      "code": "ES515L1",
+      "threshold": 0.5,
+      "D_change": -0.08740414868813406,
+      "U_change": -0.10213501913771339
+    },
+    {
+      "code": "FR010L2",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "FR010L2",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "FR021L2",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "FR021L2",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "FR036L2",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "FR036L2",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "HU006L2",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "HU006L2",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "HU012L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "HU012L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "IT006L3",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "IT006L3",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "IT014L2",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "IT014L2",
+      "threshold": 0.5,
+      "D_change": -0.0001666410219555159,
+      "U_change": 0.0
+    },
+    {
+      "code": "IT023L2",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "IT023L2",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "LT502L0",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "LT502L0",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "NL020L3",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "NL020L3",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "NL529L3",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "NL529L3",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "PL011L2",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "PL011L2",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "PT016L1",
+      "threshold": 0.2,
+      "D_change": 0.08938572564979153,
+      "U_change": 0.0978009488419253
+    },
+    {
+      "code": "PT016L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "RO007L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "RO007L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "RO021L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "RO021L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "RO512L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "RO512L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "SE004L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "SE004L1",
+      "threshold": 0.5,
+      "D_change": -0.029619091547789245,
+      "U_change": -0.0689593110477433
+    },
+    {
+      "code": "SE007L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "SE007L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "SE503L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "SE503L1",
+      "threshold": 0.5,
+      "D_change": -0.014949552504483377,
+      "U_change": 0.0
+    },
+    {
+      "code": "SK006L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "SK006L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "SK008L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "SK008L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "UK006L3",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "UK006L3",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "UK040L0",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "UK040L0",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "UK513L0",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "UK513L0",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "UK516L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "UK516L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "UK557L1",
+      "threshold": 0.2,
+      "D_change": 0.0,
+      "U_change": 0.0
+    },
+    {
+      "code": "UK557L1",
+      "threshold": 0.5,
+      "D_change": 0.0,
+      "U_change": 0.0
+    }
+  ]
+}

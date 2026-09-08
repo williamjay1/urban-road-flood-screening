@@ -1,0 +1,7 @@
+{
+  "code": "IT006L3",
+  "status": "COMPLETE",
+  "cost_changed_scenarios": [],
+  "sources": {},
+  "unchanged_scenarios": "Exact identity of the applied cost array establishes zero change; no redundant routing performed."
+}

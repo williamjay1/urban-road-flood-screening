@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "enumerated_draws": 18,
+  "mean_error": 8.881784197001252e-16,
+  "variance_error": 4.440892098500626e-16,
+  "scope": "Checks finite-population mean and variance algebra. Does not establish exact coverage of approximate t intervals with three sampled cities per stratum."
+}

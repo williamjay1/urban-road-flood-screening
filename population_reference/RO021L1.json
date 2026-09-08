@@ -1,0 +1,1090 @@
+{
+  "code": "RO021L1",
+  "status": "COMPLETE",
+  "seconds": 0.3278675079345703,
+  "endpoint_count": 88,
+  "population_sum": 76033.2287818738,
+  "support": {
+    "population|5": {
+      "dry_origin_population_retained": 0.9998828736055612,
+      "coincident_endpoint_population_pair_share": 0.0841757281586991,
+      "population_mass_before_dry_support": 76033.2287818738,
+      "fraction_of_full_population": 1.0
+    },
+    "population|15": {
+      "dry_origin_population_retained": 0.9998828736055612,
+      "coincident_endpoint_population_pair_share": 0.0841757281586991,
+      "population_mass_before_dry_support": 76033.2287818738,
+      "fraction_of_full_population": 1.0
+    },
+    "population|30": {
+      "dry_origin_population_retained": 0.9998828736055612,
+      "coincident_endpoint_population_pair_share": 0.0841757281586991,
+      "population_mass_before_dry_support": 76033.2287818738,
+      "fraction_of_full_population": 1.0
+    },
+    "population|None": {
+      "dry_origin_population_retained": 0.9998828736055612,
+      "coincident_endpoint_population_pair_share": 0.0841757281586991,
+      "population_mass_before_dry_support": 76033.2287818738,
+      "fraction_of_full_population": 1.0
+    },
+    "unit|5": {
+      "dry_origin_population_retained": 0.9772727272727273,
+      "coincident_endpoint_population_pair_share": 0.011363636363636364,
+      "population_mass_before_dry_support": 88.0,
+      "fraction_of_full_population": null
+    },
+    "unit|15": {
+      "dry_origin_population_retained": 0.9772727272727273,
+      "coincident_endpoint_population_pair_share": 0.011363636363636364,
+      "population_mass_before_dry_support": 88.0,
+      "fraction_of_full_population": null
+    },
+    "unit|30": {
+      "dry_origin_population_retained": 0.9772727272727273,
+      "coincident_endpoint_population_pair_share": 0.011363636363636364,
+      "population_mass_before_dry_support": 88.0,
+      "fraction_of_full_population": null
+    },
+    "unit|None": {
+      "dry_origin_population_retained": 0.9772727272727273,
+      "coincident_endpoint_population_pair_share": 0.011363636363636364,
+      "population_mass_before_dry_support": 88.0,
+      "fraction_of_full_population": null
+    },
+    "snap1km|15": {
+      "dry_origin_population_retained": 0.9996998481934077,
+      "coincident_endpoint_population_pair_share": 0.08475302824140807,
+      "population_mass_before_dry_support": 75772.07719990444,
+      "fraction_of_full_population": 0.9965652966978614
+    },
+    "snap2km|15": {
+      "dry_origin_population_retained": 0.9998828274518825,
+      "coincident_endpoint_population_pair_share": 0.08424192878980763,
+      "population_mass_before_dry_support": 76003.27967453151,
+      "fraction_of_full_population": 0.9996061050172129
+    },
+    "interior|15": {
+      "dry_origin_population_retained": 1.0,
+      "coincident_endpoint_population_pair_share": 0.09002852656227553,
+      "population_mass_before_dry_support": 73436.0,
+      "fraction_of_full_population": 0.9658408721622911
+    }
+  },
+  "scenarios": [
+    {
+      "model": "population",
+      "theta": 5,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.20416430280574663,
+      "U": 0.20306272030983477,
+      "unconditional_finite_delay_minutes": 0.0029790938835672597,
+      "conditional_finite_delay_minutes": 0.003738178598854702
+    },
+    {
+      "model": "population",
+      "theta": 5,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.20416430280574663,
+      "U": 0.20306272030983477,
+      "unconditional_finite_delay_minutes": 0.0029790938835672597,
+      "conditional_finite_delay_minutes": 0.003738178598854702
+    },
+    {
+      "model": "population",
+      "theta": 5,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.20416430280574663,
+      "U": 0.20306272030983477,
+      "unconditional_finite_delay_minutes": 0.0029790938835672597,
+      "conditional_finite_delay_minutes": 0.003738178598854702
+    },
+    {
+      "model": "population",
+      "theta": 5,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.20416430280574663,
+      "U": 0.20306272030983477,
+      "unconditional_finite_delay_minutes": 0.0029790938835672597,
+      "conditional_finite_delay_minutes": 0.003738178598854702
+    },
+    {
+      "model": "population",
+      "theta": 5,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.19681395849993497,
+      "U": 0.1952292471111782,
+      "unconditional_finite_delay_minutes": 0.004317967734399995,
+      "conditional_finite_delay_minutes": 0.005365463045097163
+    },
+    {
+      "model": "population",
+      "theta": 5,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.19681395849993497,
+      "U": 0.1952292471111782,
+      "unconditional_finite_delay_minutes": 0.004317967734399995,
+      "conditional_finite_delay_minutes": 0.005365463045097163
+    },
+    {
+      "model": "population",
+      "theta": 5,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.19681395849993497,
+      "U": 0.1952292471111782,
+      "unconditional_finite_delay_minutes": 0.004317967734399995,
+      "conditional_finite_delay_minutes": 0.005365463045097163
+    },
+    {
+      "model": "population",
+      "theta": 5,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.19681395849993497,
+      "U": 0.1952292471111782,
+      "unconditional_finite_delay_minutes": 0.004317967734399995,
+      "conditional_finite_delay_minutes": 0.005365463045097163
+    },
+    {
+      "model": "population",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.23594064041887589,
+      "U": 0.23493096688689466,
+      "unconditional_finite_delay_minutes": 0.002750094954907481,
+      "conditional_finite_delay_minutes": 0.0035945709940934387
+    },
+    {
+      "model": "population",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.23594064041887589,
+      "U": 0.23493096688689466,
+      "unconditional_finite_delay_minutes": 0.002750094954907481,
+      "conditional_finite_delay_minutes": 0.0035945709940934387
+    },
+    {
+      "model": "population",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.23594064041887589,
+      "U": 0.23493096688689466,
+      "unconditional_finite_delay_minutes": 0.002750094954907481,
+      "conditional_finite_delay_minutes": 0.0035945709940934387
+    },
+    {
+      "model": "population",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.23594064041887589,
+      "U": 0.23493096688689466,
+      "unconditional_finite_delay_minutes": 0.002750094954907481,
+      "conditional_finite_delay_minutes": 0.0035945709940934387
+    },
+    {
+      "model": "population",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.2278061560029985,
+      "U": 0.2264177333588666,
+      "unconditional_finite_delay_minutes": 0.004072021618575785,
+      "conditional_finite_delay_minutes": 0.0052638507811927455
+    },
+    {
+      "model": "population",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.2278061560029985,
+      "U": 0.2264177333588666,
+      "unconditional_finite_delay_minutes": 0.004072021618575785,
+      "conditional_finite_delay_minutes": 0.0052638507811927455
+    },
+    {
+      "model": "population",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.2278061560029985,
+      "U": 0.2264177333588666,
+      "unconditional_finite_delay_minutes": 0.004072021618575785,
+      "conditional_finite_delay_minutes": 0.0052638507811927455
+    },
+    {
+      "model": "population",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.2278061560029985,
+      "U": 0.2264177333588666,
+      "unconditional_finite_delay_minutes": 0.004072021618575785,
+      "conditional_finite_delay_minutes": 0.0052638507811927455
+    },
+    {
+      "model": "population",
+      "theta": 30,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.24160481957336144,
+      "U": 0.24064223832914583,
+      "unconditional_finite_delay_minutes": 0.002626844097249545,
+      "conditional_finite_delay_minutes": 0.0034592970926767956
+    },
+    {
+      "model": "population",
+      "theta": 30,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.24160481957336144,
+      "U": 0.24064223832914583,
+      "unconditional_finite_delay_minutes": 0.002626844097249545,
+      "conditional_finite_delay_minutes": 0.0034592970926767956
+    },
+    {
+      "model": "population",
+      "theta": 30,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.24160481957336144,
+      "U": 0.24064223832914583,
+      "unconditional_finite_delay_minutes": 0.002626844097249545,
+      "conditional_finite_delay_minutes": 0.0034592970926767956
+    },
+    {
+      "model": "population",
+      "theta": 30,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.24160481957336144,
+      "U": 0.24064223832914583,
+      "unconditional_finite_delay_minutes": 0.002626844097249545,
+      "conditional_finite_delay_minutes": 0.0034592970926767956
+    },
+    {
+      "model": "population",
+      "theta": 30,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.2333132557280379,
+      "U": 0.23199790957239652,
+      "unconditional_finite_delay_minutes": 0.003954231637817724,
+      "conditional_finite_delay_minutes": 0.005148725097370648
+    },
+    {
+      "model": "population",
+      "theta": 30,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.2333132557280379,
+      "U": 0.23199790957239652,
+      "unconditional_finite_delay_minutes": 0.003954231637817724,
+      "conditional_finite_delay_minutes": 0.005148725097370648
+    },
+    {
+      "model": "population",
+      "theta": 30,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.2333132557280379,
+      "U": 0.23199790957239652,
+      "unconditional_finite_delay_minutes": 0.003954231637817724,
+      "conditional_finite_delay_minutes": 0.005148725097370648
+    },
+    {
+      "model": "population",
+      "theta": 30,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.2333132557280379,
+      "U": 0.23199790957239652,
+      "unconditional_finite_delay_minutes": 0.003954231637817724,
+      "conditional_finite_delay_minutes": 0.005148725097370648
+    },
+    {
+      "model": "population",
+      "theta": null,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.24537879516256564,
+      "U": 0.24447633941737112,
+      "unconditional_finite_delay_minutes": 0.0024676796812399438,
+      "conditional_finite_delay_minutes": 0.003266184515435255
+    },
+    {
+      "model": "population",
+      "theta": null,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.24537879516256564,
+      "U": 0.24447633941737112,
+      "unconditional_finite_delay_minutes": 0.0024676796812399438,
+      "conditional_finite_delay_minutes": 0.003266184515435255
+    },
+    {
+      "model": "population",
+      "theta": null,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.24537879516256564,
+      "U": 0.24447633941737112,
+      "unconditional_finite_delay_minutes": 0.0024676796812399438,
+      "conditional_finite_delay_minutes": 0.003266184515435255
+    },
+    {
+      "model": "population",
+      "theta": null,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.24537879516256564,
+      "U": 0.24447633941737112,
+      "unconditional_finite_delay_minutes": 0.0024676796812399438,
+      "conditional_finite_delay_minutes": 0.003266184515435255
+    },
+    {
+      "model": "population",
+      "theta": null,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.2369678280586363,
+      "U": 0.23573913644747052,
+      "unconditional_finite_delay_minutes": 0.0038031682617559242,
+      "conditional_finite_delay_minutes": 0.004976269809339156
+    },
+    {
+      "model": "population",
+      "theta": null,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.2369678280586363,
+      "U": 0.23573913644747052,
+      "unconditional_finite_delay_minutes": 0.0038031682617559242,
+      "conditional_finite_delay_minutes": 0.004976269809339156
+    },
+    {
+      "model": "population",
+      "theta": null,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.2369678280586363,
+      "U": 0.23573913644747052,
+      "unconditional_finite_delay_minutes": 0.0038031682617559242,
+      "conditional_finite_delay_minutes": 0.004976269809339156
+    },
+    {
+      "model": "population",
+      "theta": null,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.2369678280586363,
+      "U": 0.23573913644747052,
+      "unconditional_finite_delay_minutes": 0.0038031682617559242,
+      "conditional_finite_delay_minutes": 0.004976269809339156
+    },
+    {
+      "model": "unit",
+      "theta": 5,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.2956185721478266,
+      "U": 0.29518289548746357,
+      "unconditional_finite_delay_minutes": 0.0012884697885679566,
+      "conditional_finite_delay_minutes": 0.0018280909761108654
+    },
+    {
+      "model": "unit",
+      "theta": 5,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.2956185721478266,
+      "U": 0.29518289548746357,
+      "unconditional_finite_delay_minutes": 0.0012884697885679566,
+      "conditional_finite_delay_minutes": 0.0018280909761108654
+    },
+    {
+      "model": "unit",
+      "theta": 5,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.2956185721478266,
+      "U": 0.29518289548746357,
+      "unconditional_finite_delay_minutes": 0.0012884697885679566,
+      "conditional_finite_delay_minutes": 0.0018280909761108654
+    },
+    {
+      "model": "unit",
+      "theta": 5,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.2956185721478266,
+      "U": 0.29518289548746357,
+      "unconditional_finite_delay_minutes": 0.0012884697885679566,
+      "conditional_finite_delay_minutes": 0.0018280909761108654
+    },
+    {
+      "model": "unit",
+      "theta": 5,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.28391431762963093,
+      "U": 0.28195344361940566,
+      "unconditional_finite_delay_minutes": 0.005519425248567443,
+      "conditional_finite_delay_minutes": 0.0076867233740230065
+    },
+    {
+      "model": "unit",
+      "theta": 5,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.28391431762963093,
+      "U": 0.28195344361940566,
+      "unconditional_finite_delay_minutes": 0.005519425248567443,
+      "conditional_finite_delay_minutes": 0.0076867233740230065
+    },
+    {
+      "model": "unit",
+      "theta": 5,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.28391431762963093,
+      "U": 0.28195344361940566,
+      "unconditional_finite_delay_minutes": 0.005519425248567443,
+      "conditional_finite_delay_minutes": 0.0076867233740230065
+    },
+    {
+      "model": "unit",
+      "theta": 5,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.28391431762963093,
+      "U": 0.28195344361940566,
+      "unconditional_finite_delay_minutes": 0.005519425248567443,
+      "conditional_finite_delay_minutes": 0.0076867233740230065
+    },
+    {
+      "model": "unit",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.3839852412858553,
+      "U": 0.38369409348575134,
+      "unconditional_finite_delay_minutes": 0.000875309846364307,
+      "conditional_finite_delay_minutes": 0.0014202522434272182
+    },
+    {
+      "model": "unit",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.3839852412858553,
+      "U": 0.38369409348575134,
+      "unconditional_finite_delay_minutes": 0.000875309846364307,
+      "conditional_finite_delay_minutes": 0.0014202522434272182
+    },
+    {
+      "model": "unit",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.3839852412858553,
+      "U": 0.38369409348575134,
+      "unconditional_finite_delay_minutes": 0.000875309846364307,
+      "conditional_finite_delay_minutes": 0.0014202522434272182
+    },
+    {
+      "model": "unit",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.3839852412858553,
+      "U": 0.38369409348575134,
+      "unconditional_finite_delay_minutes": 0.000875309846364307,
+      "conditional_finite_delay_minutes": 0.0014202522434272182
+    },
+    {
+      "model": "unit",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.36961444986758824,
+      "U": 0.368420432357073,
+      "unconditional_finite_delay_minutes": 0.004668228058996713,
+      "conditional_finite_delay_minutes": 0.007391353834353244
+    },
+    {
+      "model": "unit",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.36961444986758824,
+      "U": 0.368420432357073,
+      "unconditional_finite_delay_minutes": 0.004668228058996713,
+      "conditional_finite_delay_minutes": 0.007391353834353244
+    },
+    {
+      "model": "unit",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.36961444986758824,
+      "U": 0.368420432357073,
+      "unconditional_finite_delay_minutes": 0.004668228058996713,
+      "conditional_finite_delay_minutes": 0.007391353834353244
+    },
+    {
+      "model": "unit",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.36961444986758824,
+      "U": 0.368420432357073,
+      "unconditional_finite_delay_minutes": 0.004668228058996713,
+      "conditional_finite_delay_minutes": 0.007391353834353244
+    },
+    {
+      "model": "unit",
+      "theta": 30,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.4109517704775364,
+      "U": 0.4106986304915348,
+      "unconditional_finite_delay_minutes": 0.0007640019635548633,
+      "conditional_finite_delay_minutes": 0.0012964537384193005
+    },
+    {
+      "model": "unit",
+      "theta": 30,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.4109517704775364,
+      "U": 0.4106986304915348,
+      "unconditional_finite_delay_minutes": 0.0007640019635548633,
+      "conditional_finite_delay_minutes": 0.0012964537384193005
+    },
+    {
+      "model": "unit",
+      "theta": 30,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.4109517704775364,
+      "U": 0.4106986304915348,
+      "unconditional_finite_delay_minutes": 0.0007640019635548633,
+      "conditional_finite_delay_minutes": 0.0012964537384193005
+    },
+    {
+      "model": "unit",
+      "theta": 30,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.4109517704775364,
+      "U": 0.4106986304915348,
+      "unconditional_finite_delay_minutes": 0.0007640019635548633,
+      "conditional_finite_delay_minutes": 0.0012964537384193005
+    },
+    {
+      "model": "unit",
+      "theta": 30,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.3956687934339661,
+      "U": 0.3946302464377537,
+      "unconditional_finite_delay_minutes": 0.004547740742357179,
+      "conditional_finite_delay_minutes": 0.007512335585972687
+    },
+    {
+      "model": "unit",
+      "theta": 30,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.3956687934339661,
+      "U": 0.3946302464377537,
+      "unconditional_finite_delay_minutes": 0.004547740742357179,
+      "conditional_finite_delay_minutes": 0.007512335585972687
+    },
+    {
+      "model": "unit",
+      "theta": 30,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.3956687934339661,
+      "U": 0.3946302464377537,
+      "unconditional_finite_delay_minutes": 0.004547740742357179,
+      "conditional_finite_delay_minutes": 0.007512335585972687
+    },
+    {
+      "model": "unit",
+      "theta": 30,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.3956687934339661,
+      "U": 0.3946302464377537,
+      "unconditional_finite_delay_minutes": 0.004547740742357179,
+      "conditional_finite_delay_minutes": 0.007512335585972687
+    },
+    {
+      "model": "unit",
+      "theta": null,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.4389943819369485,
+      "U": 0.4387783692911181,
+      "unconditional_finite_delay_minutes": 0.0006545952278679125,
+      "conditional_finite_delay_minutes": 0.001166375620699241
+    },
+    {
+      "model": "unit",
+      "theta": null,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.4389943819369485,
+      "U": 0.4387783692911181,
+      "unconditional_finite_delay_minutes": 0.0006545952278679125,
+      "conditional_finite_delay_minutes": 0.001166375620699241
+    },
+    {
+      "model": "unit",
+      "theta": null,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.4389943819369485,
+      "U": 0.4387783692911181,
+      "unconditional_finite_delay_minutes": 0.0006545952278679125,
+      "conditional_finite_delay_minutes": 0.001166375620699241
+    },
+    {
+      "model": "unit",
+      "theta": null,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.4389943819369485,
+      "U": 0.4387783692911181,
+      "unconditional_finite_delay_minutes": 0.0006545952278679125,
+      "conditional_finite_delay_minutes": 0.001166375620699241
+    },
+    {
+      "model": "unit",
+      "theta": null,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.4227284229138027,
+      "U": 0.42182684225273204,
+      "unconditional_finite_delay_minutes": 0.004466764241567431,
+      "conditional_finite_delay_minutes": 0.007725651358446409
+    },
+    {
+      "model": "unit",
+      "theta": null,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.4227284229138027,
+      "U": 0.42182684225273204,
+      "unconditional_finite_delay_minutes": 0.004466764241567431,
+      "conditional_finite_delay_minutes": 0.007725651358446409
+    },
+    {
+      "model": "unit",
+      "theta": null,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.4227284229138027,
+      "U": 0.42182684225273204,
+      "unconditional_finite_delay_minutes": 0.004466764241567431,
+      "conditional_finite_delay_minutes": 0.007725651358446409
+    },
+    {
+      "model": "unit",
+      "theta": null,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.4227284229138027,
+      "U": 0.42182684225273204,
+      "unconditional_finite_delay_minutes": 0.004466764241567431,
+      "conditional_finite_delay_minutes": 0.007725651358446409
+    },
+    {
+      "model": "snap1km",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.23557474905513814,
+      "U": 0.23455871003222112,
+      "unconditional_finite_delay_minutes": 0.002767416317074594,
+      "conditional_finite_delay_minutes": 0.0036154520971701013
+    },
+    {
+      "model": "snap1km",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.23557474905513814,
+      "U": 0.23455871003222112,
+      "unconditional_finite_delay_minutes": 0.002767416317074594,
+      "conditional_finite_delay_minutes": 0.0036154520971701013
+    },
+    {
+      "model": "snap1km",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.23557474905513814,
+      "U": 0.23455871003222112,
+      "unconditional_finite_delay_minutes": 0.002767416317074594,
+      "conditional_finite_delay_minutes": 0.0036154520971701013
+    },
+    {
+      "model": "snap1km",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.23557474905513814,
+      "U": 0.23455871003222112,
+      "unconditional_finite_delay_minutes": 0.002767416317074594,
+      "conditional_finite_delay_minutes": 0.0036154520971701013
+    },
+    {
+      "model": "snap1km",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.22740543031617863,
+      "U": 0.22600852402132043,
+      "unconditional_finite_delay_minutes": 0.004095502896670923,
+      "conditional_finite_delay_minutes": 0.005291405685692252
+    },
+    {
+      "model": "snap1km",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.22740543031617863,
+      "U": 0.22600852402132043,
+      "unconditional_finite_delay_minutes": 0.004095502896670923,
+      "conditional_finite_delay_minutes": 0.005291405685692252
+    },
+    {
+      "model": "snap1km",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.22740543031617863,
+      "U": 0.22600852402132043,
+      "unconditional_finite_delay_minutes": 0.004095502896670923,
+      "conditional_finite_delay_minutes": 0.005291405685692252
+    },
+    {
+      "model": "snap1km",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.22740543031617863,
+      "U": 0.22600852402132043,
+      "unconditional_finite_delay_minutes": 0.004095502896670923,
+      "conditional_finite_delay_minutes": 0.005291405685692252
+    },
+    {
+      "model": "snap2km",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.23582404548284877,
+      "U": 0.23481385695379753,
+      "unconditional_finite_delay_minutes": 0.002751495099342474,
+      "conditional_finite_delay_minutes": 0.0035958506624137036
+    },
+    {
+      "model": "snap2km",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.23582404548284877,
+      "U": 0.23481385695379753,
+      "unconditional_finite_delay_minutes": 0.002751495099342474,
+      "conditional_finite_delay_minutes": 0.0035958506624137036
+    },
+    {
+      "model": "snap2km",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.23582404548284877,
+      "U": 0.23481385695379753,
+      "unconditional_finite_delay_minutes": 0.002751495099342474,
+      "conditional_finite_delay_minutes": 0.0035958506624137036
+    },
+    {
+      "model": "snap2km",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.23582404548284877,
+      "U": 0.23481385695379753,
+      "unconditional_finite_delay_minutes": 0.002751495099342474,
+      "conditional_finite_delay_minutes": 0.0035958506624137036
+    },
+    {
+      "model": "snap2km",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.22768557213638946,
+      "U": 0.22629645208716798,
+      "unconditional_finite_delay_minutes": 0.004074060462593514,
+      "conditional_finite_delay_minutes": 0.005265660825239631
+    },
+    {
+      "model": "snap2km",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.22768557213638946,
+      "U": 0.22629645208716798,
+      "unconditional_finite_delay_minutes": 0.004074060462593514,
+      "conditional_finite_delay_minutes": 0.005265660825239631
+    },
+    {
+      "model": "snap2km",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.22768557213638946,
+      "U": 0.22629645208716798,
+      "unconditional_finite_delay_minutes": 0.004074060462593514,
+      "conditional_finite_delay_minutes": 0.005265660825239631
+    },
+    {
+      "model": "snap2km",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.22768557213638946,
+      "U": 0.22629645208716798,
+      "unconditional_finite_delay_minutes": 0.004074060462593514,
+      "conditional_finite_delay_minutes": 0.005265660825239631
+    },
+    {
+      "model": "interior",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.22007792321105812,
+      "U": 0.2190060042706901,
+      "unconditional_finite_delay_minutes": 0.0029196389895999398,
+      "conditional_finite_delay_minutes": 0.0037383629138832424
+    },
+    {
+      "model": "interior",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.22007792321105812,
+      "U": 0.2190060042706901,
+      "unconditional_finite_delay_minutes": 0.0029196389895999398,
+      "conditional_finite_delay_minutes": 0.0037383629138832424
+    },
+    {
+      "model": "interior",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.22007792321105812,
+      "U": 0.2190060042706901,
+      "unconditional_finite_delay_minutes": 0.0029196389895999398,
+      "conditional_finite_delay_minutes": 0.0037383629138832424
+    },
+    {
+      "model": "interior",
+      "theta": 15,
+      "scope": "strategic",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.22007792321105812,
+      "U": 0.2190060042706901,
+      "unconditional_finite_delay_minutes": 0.0029196389895999398,
+      "conditional_finite_delay_minutes": 0.0037383629138832424
+    },
+    {
+      "model": "interior",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "retained",
+      "D": 0.21993477121339605,
+      "U": 0.2190060042706901,
+      "unconditional_finite_delay_minutes": 0.0024695586108121276,
+      "conditional_finite_delay_minutes": 0.0031620711866113616
+    },
+    {
+      "model": "interior",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "retained",
+      "D": 0.21993477121339605,
+      "U": 0.2190060042706901,
+      "unconditional_finite_delay_minutes": 0.0024695586108121276,
+      "conditional_finite_delay_minutes": 0.0031620711866113616
+    },
+    {
+      "model": "interior",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "exposed",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.21993477121339605,
+      "U": 0.2190060042706901,
+      "unconditional_finite_delay_minutes": 0.0024695586108121276,
+      "conditional_finite_delay_minutes": 0.0031620711866113616
+    },
+    {
+      "model": "interior",
+      "theta": 15,
+      "scope": "expanded",
+      "grade": "bridge_immune",
+      "mask_policy": "spurious_zero_bound",
+      "D": 0.21993477121339605,
+      "U": 0.2190060042706901,
+      "unconditional_finite_delay_minutes": 0.0024695586108121276,
+      "conditional_finite_delay_minutes": 0.0031620711866113616
+    }
+  ],
+  "dry_matrices": {
+    "dry_strategic": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\RO021L1\\strategic\\ba0c6bb922682cfad4a7a42868762a3d9f11ebdd5250fcb114aaf1e6fbf68798.npy",
+      "sha256": "6eff07ce3f894d9df71c9784ee42e3c86811a57d15bfd28e631a9dc7ec3ad75d"
+    },
+    "dry_expanded": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\RO021L1\\expanded\\cd7f9e6d5f5711c038cd389d4236e061e8519aa455c84a30d1aa19fac3a37bb7.npy",
+      "sha256": "d90baa0d6ab6964190429341eb4e0e745d6fc3519105b66491bf9a66abeadd69"
+    }
+  },
+  "wet_matrices": {
+    "strategic|exposed|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\RO021L1\\strategic\\4bc0e725b59197ebb4146a4bdb38b68e49d03d9d5b24ac2bfefef17f126c0fe1.npy",
+      "sha256": "4ad5273ea572d25417805b4c764f22ef690e0daae41aa4decc977177bcc24fe4"
+    },
+    "strategic|bridge_immune|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\RO021L1\\strategic\\c10a7f080d71a1b6514f2b4c83ff143c96234ebae442d276cce47c2cbe8b5038.npy",
+      "sha256": "4ad5273ea572d25417805b4c764f22ef690e0daae41aa4decc977177bcc24fe4"
+    },
+    "strategic|exposed|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\RO021L1\\strategic\\4bc0e725b59197ebb4146a4bdb38b68e49d03d9d5b24ac2bfefef17f126c0fe1.npy",
+      "sha256": "4ad5273ea572d25417805b4c764f22ef690e0daae41aa4decc977177bcc24fe4"
+    },
+    "strategic|bridge_immune|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\RO021L1\\strategic\\c10a7f080d71a1b6514f2b4c83ff143c96234ebae442d276cce47c2cbe8b5038.npy",
+      "sha256": "4ad5273ea572d25417805b4c764f22ef690e0daae41aa4decc977177bcc24fe4"
+    },
+    "expanded|exposed|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\RO021L1\\expanded\\9995314d3730b5f32ef97144abf199597c7981b72aa5b3c3f74c97f2caac6067.npy",
+      "sha256": "0ea92857f10bc8460558093a910b600607281f0f5afae8fbb041003ce310d9f7"
+    },
+    "expanded|bridge_immune|retained": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\RO021L1\\expanded\\6e4ebe0e6f86fa38bdd5ffe0aa0c7069ed08568cf388394d608bb2ec243effb4.npy",
+      "sha256": "0ea92857f10bc8460558093a910b600607281f0f5afae8fbb041003ce310d9f7"
+    },
+    "expanded|exposed|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\RO021L1\\expanded\\9995314d3730b5f32ef97144abf199597c7981b72aa5b3c3f74c97f2caac6067.npy",
+      "sha256": "0ea92857f10bc8460558093a910b600607281f0f5afae8fbb041003ce310d9f7"
+    },
+    "expanded|bridge_immune|spurious_zero_bound": {
+      "path": "D:\\MLWork\\flood_network_submission_20260908\\datasets\\population_routes\\RO021L1\\expanded\\6e4ebe0e6f86fa38bdd5ffe0aa0c7069ed08568cf388394d608bb2ec243effb4.npy",
+      "sha256": "0ea92857f10bc8460558093a910b600607281f0f5afae8fbb041003ce310d9f7"
+    }
+  },
+  "population_support_sha256": "b2e5ee9ec998a8aa3e402c28a93b047d237d6a9838395e58da30c8e81b3f5854"
+}

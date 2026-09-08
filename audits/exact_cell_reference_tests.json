@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "independent_shapely_cell_cases": 4,
+  "arbitrary_split_integral_invariance": true,
+  "scope": "Numerical geometry only; no physical validation claim"
+}

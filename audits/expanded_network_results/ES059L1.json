@@ -1,0 +1,83 @@
+{
+  "code": "ES059L1",
+  "rows": 4038,
+  "nodes": 26251,
+  "segments": 27925,
+  "baseline_pair_reachability": 0.8888888888888888,
+  "frozen_legacy_anchor_weight_total": 0.9999999999999998,
+  "scope": "Adds all road classes present in the source extraction, retaining the same direction/access interpretation and 1m coordinate topology. Does not establish complete public vehicle access or recover omitted roads.",
+  "scenarios": [
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.2,
+      "D": 0.7471274881023964,
+      "U": 0.7471274881023964
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.3,
+      "D": 0.7471274881023964,
+      "U": 0.7471274881023964
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "exposed",
+      "threshold": 0.5,
+      "D": 0.7471274881023964,
+      "U": 0.7471274881023964
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.2,
+      "D": 0.7471274881023964,
+      "U": 0.7471274881023964
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.3,
+      "D": 0.7471274881023964,
+      "U": 0.7471274881023964
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_immune",
+      "threshold": 0.5,
+      "D": 0.7471274881023964,
+      "U": 0.7471274881023964
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.2,
+      "D": 0.7471274881023964,
+      "U": 0.7471274881023964
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.3,
+      "D": 0.7471274881023964,
+      "U": 0.7471274881023964
+    },
+    {
+      "period": "RP100",
+      "envelope": "raw",
+      "grade": "bridge_tunnel_immune",
+      "threshold": 0.5,
+      "D": 0.7471274881023964,
+      "U": 0.7471274881023964
+    }
+  ]
+}
